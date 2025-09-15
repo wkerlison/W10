@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AE.br" tvg-name="• A&E H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• A&E H265
-http://cdn.v766.site:80/264731652/591947819/1030269
 #EXTINF:-1 tvg-id="" tvg-name="• AMC H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• AMC H265
 http://cdn.v766.site:80/264731652/591947819/1030270
 #EXTINF:-1 tvg-id="" tvg-name="• AXN H265" tvg-logo="http://i.ibb.co/XxxjB7Cf/h-265-297x300.png" group-title="⚡CANAIS | 4K",• AXN H265
@@ -11968,6 +11966,7 @@ http://cdn.v766.site:80/movie/264731652/591947819/1529423.mp4
 http://cdn.v766.site:80/movie/264731652/591947819/1529424.mp4
 #EXTINF:-1 tvg-name="Arkansas (2020)" tvg-logo="http://image.tmdb.org/t/p/w400/eStS2SPitBTNzADpxNPKTA6GCXC.jpg" group-title="⚡ Crime",Arkansas (2020)
 http://cdn.v766.site:80/movie/264731652/591947819/1529425.mp4
+
 
 
 
