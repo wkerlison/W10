@@ -680,8 +680,282 @@ http://alpacinoo.com:8080/Ednacademia/9338376877/194063
 http://alpacinoo.com:8080/Ednacademia/9338376877/46055
 #EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 FHD" tvg-logo="http://smartvtcl.site:8080/images/dad8ee483cc9a336cde702e9aa0b0954.jpg" group-title="VARIEDADES & MÚSICAS",VH1 FHD
 http://alpacinoo.com:8080/Ednacademia/9338376877/45683
+#EXTINF:-1 tvg-id="br#boa-vontade-tv-hd" tvg-name="• Boa Vontade TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMTdf/lbv.png" group-title="⚡CANAIS | RELIGIOSOS",• Boa Vontade TV HD
+http://cdn.v766.site:80/264731652/591947819/1817165
+#EXTINF:-1 tvg-id="br#boa-vontade-tv-hd" tvg-name="• Boa Vontade TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMTdf/lbv.png" group-title="⚡CANAIS | RELIGIOSOS",• Boa Vontade TV SD
+http://cdn.v766.site:80/264731652/591947819/1817166
+#EXTINF:-1 tvg-id="BoasNovas.br" tvg-name="• Boas Novas HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MjBf/boasnovas.png" group-title="⚡CANAIS | RELIGIOSOS",• Boas Novas HD
+http://cdn.v766.site:80/264731652/591947819/1817167
+#EXTINF:-1 tvg-id="BoasNovas.br" tvg-name="• Boas Novas SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5MjBf/boasnovas.png" group-title="⚡CANAIS | RELIGIOSOS",• Boas Novas SD
+http://cdn.v766.site:80/264731652/591947819/1817168
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="• Canção Nova HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDhf/cancaonova.png" group-title="⚡CANAIS | RELIGIOSOS",• Canção Nova HD
+http://cdn.v766.site:80/264731652/591947819/1817169
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="• Canção Nova SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDhf/cancaonova.png" group-title="⚡CANAIS | RELIGIOSOS",• Canção Nova SD
+http://cdn.v766.site:80/264731652/591947819/1817170
+#EXTINF:-1 tvg-id="IdealTV.br" tvg-name="• Ideal TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="⚡CANAIS | RELIGIOSOS",• Ideal TV HD
+http://cdn.v766.site:80/264731652/591947819/1817171
+#EXTINF:-1 tvg-id="IdealTV.br" tvg-name="• Ideal TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="⚡CANAIS | RELIGIOSOS",• Ideal TV SD
+http://cdn.v766.site:80/264731652/591947819/1817172
+#EXTINF:-1 tvg-id="" tvg-name="• Igreja Mundial HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDBf/impdtv.png" group-title="⚡CANAIS | RELIGIOSOS",• Igreja Mundial HD
+http://cdn.v766.site:80/264731652/591947819/1817173
+#EXTINF:-1 tvg-id="" tvg-name="• Igreja Mundial SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDBf/impdtv.png" group-title="⚡CANAIS | RELIGIOSOS",• Igreja Mundial SD
+http://cdn.v766.site:80/264731652/591947819/1817174
+#EXTINF:-1 tvg-id="" tvg-name="• Igreja Universal HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDJf/iurd.png" group-title="⚡CANAIS | RELIGIOSOS",• Igreja Universal HD
+http://cdn.v766.site:80/264731652/591947819/1817175
+#EXTINF:-1 tvg-id="" tvg-name="• Igreja Universal SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDJf/iurd.png" group-title="⚡CANAIS | RELIGIOSOS",• Igreja Universal SD
+http://cdn.v766.site:80/264731652/591947819/1817176
+#EXTINF:-1 tvg-id="" tvg-name="• RIT TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0OTRf/rit.png" group-title="⚡CANAIS | RELIGIOSOS",• RIT TV HD
+http://cdn.v766.site:80/264731652/591947819/1817177
+#EXTINF:-1 tvg-id="" tvg-name="• RIT TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0OTRf/rit.png" group-title="⚡CANAIS | RELIGIOSOS",• RIT TV SD
+http://cdn.v766.site:80/264731652/591947819/1817178
+#EXTINF:-1 tvg-id="br#rede-gospel-hd" tvg-name="• Rede Gospel HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODBf/redegospel.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Gospel HD
+http://cdn.v766.site:80/264731652/591947819/1817179
+#EXTINF:-1 tvg-id="br#rede-gospel-hd" tvg-name="• Rede Gospel SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODBf/redegospel.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Gospel SD
+http://cdn.v766.site:80/264731652/591947819/1817180
+#EXTINF:-1 tvg-id="br#rede-genesis-hd" tvg-name="• Rede Gênesis HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Nzlf/redegenesis.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Gênesis HD
+http://cdn.v766.site:80/264731652/591947819/1817181
+#EXTINF:-1 tvg-id="br#rede-genesis-hd" tvg-name="• Rede Gênesis SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Nzlf/redegenesis.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Gênesis SD
+http://cdn.v766.site:80/264731652/591947819/1817182
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="• Rede Século 21 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDBf/rs21.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Século 21 HD
+http://cdn.v766.site:80/264731652/591947819/1817183
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="• Rede Século 21 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ1MDBf/rs21.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Século 21 SD
+http://cdn.v766.site:80/264731652/591947819/1817184
+#EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="• Rede Vida HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Vida HD
+http://cdn.v766.site:80/264731652/591947819/1817185
+#EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="• Rede Vida SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0ODhf/redevida.png" group-title="⚡CANAIS | RELIGIOSOS",• Rede Vida SD
+http://cdn.v766.site:80/264731652/591947819/1817186
+#EXTINF:-1 tvg-id="br#tv-aparecida-hd" tvg-name="• TV Aparecida HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4Nzhf/aparecidatv.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Aparecida HD
+http://cdn.v766.site:80/264731652/591947819/1817187
+#EXTINF:-1 tvg-id="br#tv-aparecida-hd" tvg-name="• TV Aparecida SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM4Nzhf/aparecidatv.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Aparecida SD
+http://cdn.v766.site:80/264731652/591947819/1817188
+#EXTINF:-1 tvg-id="" tvg-name="• TV Evangelizar HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NjNf/tvevangelizar.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Evangelizar HD
+http://cdn.v766.site:80/264731652/591947819/1817189
+#EXTINF:-1 tvg-id="" tvg-name="• TV Evangelizar SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ2NjNf/tvevangelizar.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Evangelizar SD
+http://cdn.v766.site:80/264731652/591947819/1817190
+#EXTINF:-1 tvg-id="br#tv-novo-tempo-hd" tvg-name="• TV Novo Tempo HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyOTNf/novotempo.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Novo Tempo HD
+http://cdn.v766.site:80/264731652/591947819/1817191
+#EXTINF:-1 tvg-id="br#tv-novo-tempo-hd" tvg-name="• TV Novo Tempo SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyOTNf/novotempo.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Novo Tempo SD
+http://cdn.v766.site:80/264731652/591947819/1817192
+#EXTINF:-1 tvg-id="" tvg-name="• TV Pai Eterno HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMTJf/paieterno.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Pai Eterno HD
+http://cdn.v766.site:80/264731652/591947819/1817193
+#EXTINF:-1 tvg-id="" tvg-name="• TV Pai Eterno SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMTJf/paieterno.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Pai Eterno SD
+http://cdn.v766.site:80/264731652/591947819/1817194
+#EXTINF:-1 tvg-id="" tvg-name="• TV Plenitude HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMzFf/plenitude.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Plenitude HD
+http://cdn.v766.site:80/264731652/591947819/1817195
+#EXTINF:-1 tvg-id="" tvg-name="• TV Plenitude SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMzFf/plenitude.png" group-title="⚡CANAIS | RELIGIOSOS",• TV Plenitude SD
+http://cdn.v766.site:80/264731652/591947819/1817196
 #EXTINF:-1 tvg-name="Silvio Santos Especial 40 Anos SBT" tvg-logo="https://image.tmdb.org/t/p/w400/2bVgILta9fDrXaB3kPy3Yt2vA94.jpg" group-title="⚡ Documentário",Silvio Santos Especial 40 Anos SBT
 http://cdn.v766.site:80/movie/264731652/591947819/1535297.mp4?AWSAccessKeyId=jvjouqrqtvgq7zunyd5vkyp5w2wq&Expires=4833708951&Signature=K4g9r81XCdeT%2B8JnnBl%2Ft5XmyWE%3D&user=proxynew
+#EXTINF:-1 tvg-id="" tvg-name="24H • 220 Volts (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • 220 Volts (2011)
+http://cdn.v766.site:80/264731652/591947819/1243202
+#EXTINF:-1 tvg-id="" tvg-name="24H • 4 Amigos" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • 4 Amigos
+http://cdn.v766.site:80/264731652/591947819/1243203
+#EXTINF:-1 tvg-id="" tvg-name="24H • 911 (2018)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • 911 (2018)
+http://cdn.v766.site:80/264731652/591947819/1243204
+#EXTINF:-1 tvg-id="" tvg-name="24H • 911 Lone Star (2020)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • 911 Lone Star (2020)
+http://cdn.v766.site:80/264731652/591947819/1243205
+#EXTINF:-1 tvg-id="" tvg-name="24H • A Casa da Raven (2017)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • A Casa da Raven (2017)
+http://cdn.v766.site:80/264731652/591947819/1243206
+#EXTINF:-1 tvg-id="" tvg-name="24H • A Casa do Dragão (2022)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • A Casa do Dragão (2022)
+http://cdn.v766.site:80/264731652/591947819/1243207
+#EXTINF:-1 tvg-id="" tvg-name="24H • A Feiticeira (1964)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • A Feiticeira (1964)
+http://cdn.v766.site:80/264731652/591947819/1243208
+#EXTINF:-1 tvg-id="" tvg-name="24H • A Grande Família (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • A Grande Família (2011)
+http://cdn.v766.site:80/264731652/591947819/1243209
+#EXTINF:-1 tvg-id="" tvg-name="24H • Anos Incríveis (1988)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Anos Incríveis (1988)
+http://cdn.v766.site:80/264731652/591947819/1243210
+#EXTINF:-1 tvg-id="" tvg-name="24H • Arquivo Morto (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Arquivo Morto (2003)
+http://cdn.v766.site:80/264731652/591947819/1243211
+#EXTINF:-1 tvg-id="" tvg-name="24H • As Visões da Raven (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • As Visões da Raven (2003)
+http://cdn.v766.site:80/264731652/591947819/1243212
+#EXTINF:-1 tvg-id="" tvg-name="24H • Batman e Robin (1966)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Batman e Robin (1966)
+http://cdn.v766.site:80/264731652/591947819/1243213
+#EXTINF:-1 tvg-id="" tvg-name="24H • Berlim La Casa de Papel (2023)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Berlim La Casa de Papel (2023)
+http://cdn.v766.site:80/264731652/591947819/1243214
+#EXTINF:-1 tvg-id="" tvg-name="24H • Big Bang A Teoria (2007)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Big Bang A Teoria (2007)
+http://cdn.v766.site:80/264731652/591947819/1243215
+#EXTINF:-1 tvg-id="" tvg-name="24H • Brasil Visto de Cima (2014)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Brasil Visto de Cima (2014)
+http://cdn.v766.site:80/264731652/591947819/1243216
+#EXTINF:-1 tvg-id="" tvg-name="24H • Breaking Bad A Quimica do Mal (2008)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Breaking Bad A Quimica do Mal (2008)
+http://cdn.v766.site:80/264731652/591947819/1243217
+#EXTINF:-1 tvg-id="" tvg-name="24H • Brooklyn 99 Lei e Desordem (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Brooklyn 99 Lei e Desordem (2013)
+http://cdn.v766.site:80/264731652/591947819/1243218
+#EXTINF:-1 tvg-id="" tvg-name="24H • Buffy A Caça Vampiros (1997)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Buffy A Caça Vampiros (1997)
+http://cdn.v766.site:80/264731652/591947819/1243219
+#EXTINF:-1 tvg-id="" tvg-name="24H • CSI Investigação Criminal (2000)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • CSI Investigação Criminal (2000)
+http://cdn.v766.site:80/264731652/591947819/1243220
+#EXTINF:-1 tvg-id="" tvg-name="24H • CSI Miami (2002)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • CSI Miami (2002)
+http://cdn.v766.site:80/264731652/591947819/1243221
+#EXTINF:-1 tvg-id="" tvg-name="24H • CSI Nova York (2004)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • CSI Nova York (2004)
+http://cdn.v766.site:80/264731652/591947819/1243222
+#EXTINF:-1 tvg-id="" tvg-name="24H • Canal Boom" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Canal Boom
+http://cdn.v766.site:80/264731652/591947819/1243223
+#EXTINF:-1 tvg-id="" tvg-name="24H • Carga Pesada (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Carga Pesada (2003)
+http://cdn.v766.site:80/264731652/591947819/1243224
+#EXTINF:-1 tvg-id="" tvg-name="24H • Casos de Familia (2004)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Casos de Familia (2004)
+http://cdn.v766.site:80/264731652/591947819/1243225
+#EXTINF:-1 tvg-id="" tvg-name="24H • Casseta e Planeta Urgente (1992)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Casseta e Planeta Urgente (1992)
+http://cdn.v766.site:80/264731652/591947819/1243226
+#EXTINF:-1 tvg-id="" tvg-name="24H • Chapolin Colorado (1973)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Chapolin Colorado (1973)
+http://cdn.v766.site:80/264731652/591947819/1243227
+#EXTINF:-1 tvg-id="" tvg-name="24H • Chaves (1973)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Chaves (1973)
+http://cdn.v766.site:80/264731652/591947819/1243228
+#EXTINF:-1 tvg-id="" tvg-name="24H • Chernobyl (2019)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Chernobyl (2019)
+http://cdn.v766.site:80/264731652/591947819/1243229
+#EXTINF:-1 tvg-id="" tvg-name="24H • Chespirito (1973)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Chespirito (1973)
+http://cdn.v766.site:80/264731652/591947819/1243230
+#EXTINF:-1 tvg-id="" tvg-name="24H • Chicaco Fire Heróis Contra o Fogo (2012)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Chicaco Fire Heróis Contra o Fogo (2012)
+http://cdn.v766.site:80/264731652/591947819/1243231
+#EXTINF:-1 tvg-id="" tvg-name="24H • Chicago Med Atendimento de Emergência (2015)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Chicago Med Atendimento de Emergência (2015)
+http://cdn.v766.site:80/264731652/591947819/1243232
+#EXTINF:-1 tvg-id="" tvg-name="24H • Chicago PD Distrito 21 (2014)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Chicago PD Distrito 21 (2014)
+http://cdn.v766.site:80/264731652/591947819/1243233
+#EXTINF:-1 tvg-id="" tvg-name="24H • Como Eu Conheci Sua Mãe (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Como Eu Conheci Sua Mãe (2005)
+http://cdn.v766.site:80/264731652/591947819/1243234
+#EXTINF:-1 tvg-id="" tvg-name="24H • Câmeras Escondidas" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Câmeras Escondidas
+http://cdn.v766.site:80/264731652/591947819/1243235
+#EXTINF:-1 tvg-id="" tvg-name="24H • David Mafra" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • David Mafra
+http://cdn.v766.site:80/264731652/591947819/1243236
+#EXTINF:-1 tvg-id="" tvg-name="24H • De Férias com o Ex Brasil (2016)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • De Férias com o Ex Brasil (2016)
+http://cdn.v766.site:80/264731652/591947819/1243237
+#EXTINF:-1 tvg-id="" tvg-name="24H • Diários de Um Vampiro (2009)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Diários de Um Vampiro (2009)
+http://cdn.v766.site:80/264731652/591947819/1243238
+#EXTINF:-1 tvg-id="" tvg-name="24H • Doctor Who (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Doctor Who (2005)
+http://cdn.v766.site:80/264731652/591947819/1243239
+#EXTINF:-1 tvg-id="" tvg-name="24H • Dois Homens e Meio #1 (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Dois Homens e Meio #1 (2003)
+http://cdn.v766.site:80/264731652/591947819/1243240
+#EXTINF:-1 tvg-id="" tvg-name="24H • Dois Homens e Meio (2003)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Dois Homens e Meio (2003)
+http://cdn.v766.site:80/264731652/591947819/1243241
+#EXTINF:-1 tvg-id="" tvg-name="24H • Dr. House (2004)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Dr. House (2004)
+http://cdn.v766.site:80/264731652/591947819/1243242
+#EXTINF:-1 tvg-id="" tvg-name="24H • Einstein (2017)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Einstein (2017)
+http://cdn.v766.site:80/264731652/591947819/1243243
+#EXTINF:-1 tvg-id="" tvg-name="24H • Elementaríssimo (2012)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Elementaríssimo (2012)
+http://cdn.v766.site:80/264731652/591947819/1243244
+#EXTINF:-1 tvg-id="" tvg-name="24H • Escolinha do Professor Raimundo Nova Geração (2015)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Escolinha do Professor Raimundo Nova Geração (2015)
+http://cdn.v766.site:80/264731652/591947819/1243245
+#EXTINF:-1 tvg-id="" tvg-name="24H • Eu, A Patroa e as Crianças (2001)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Eu, A Patroa e as Crianças (2001)
+http://cdn.v766.site:80/264731652/591947819/1243246
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fallout (2024)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fallout (2024)
+http://cdn.v766.site:80/264731652/591947819/1243247
+#EXTINF:-1 tvg-id="" tvg-name="24H • Flash (2014)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Flash (2014)
+http://cdn.v766.site:80/264731652/591947819/1243248
+#EXTINF:-1 tvg-id="" tvg-name="24H • Friends (1994)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Friends (1994)
+http://cdn.v766.site:80/264731652/591947819/1243249
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1984)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1984)
+http://cdn.v766.site:80/264731652/591947819/1243250
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1985)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1985)
+http://cdn.v766.site:80/264731652/591947819/1243251
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1986)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1986)
+http://cdn.v766.site:80/264731652/591947819/1243252
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1987)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1987)
+http://cdn.v766.site:80/264731652/591947819/1243253
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1988)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1988)
+http://cdn.v766.site:80/264731652/591947819/1243254
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1989)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1989)
+http://cdn.v766.site:80/264731652/591947819/1243255
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1990)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1990)
+http://cdn.v766.site:80/264731652/591947819/1243256
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1991)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1991)
+http://cdn.v766.site:80/264731652/591947819/1243257
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1992)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1992)
+http://cdn.v766.site:80/264731652/591947819/1243258
+#EXTINF:-1 tvg-id="" tvg-name="24H • Fórmula 1 (1993)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Fórmula 1 (1993)
+http://cdn.v766.site:80/264731652/591947819/1243259
+#EXTINF:-1 tvg-id="" tvg-name="24H • Game of Thrones (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Game of Thrones (2011)
+http://cdn.v766.site:80/264731652/591947819/1243260
+#EXTINF:-1 tvg-id="" tvg-name="24H • Grande Hotel (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Grande Hotel (2011)
+http://cdn.v766.site:80/264731652/591947819/1243261
+#EXTINF:-1 tvg-id="" tvg-name="24H • Hannibal (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Hannibal (2013)
+http://cdn.v766.site:80/264731652/591947819/1243262
+#EXTINF:-1 tvg-id="" tvg-name="24H • Hospital New Amsterdam (2018)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Hospital New Amsterdam (2018)
+http://cdn.v766.site:80/264731652/591947819/1243263
+#EXTINF:-1 tvg-id="" tvg-name="24H • Jornada Nas Estrelas A Nova Geração (1987)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Jornada Nas Estrelas A Nova Geração (1987)
+http://cdn.v766.site:80/264731652/591947819/1243264
+#EXTINF:-1 tvg-id="" tvg-name="24H • Jornada Nas Estrelas A Nova Missão (1993)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Jornada Nas Estrelas A Nova Missão (1993)
+http://cdn.v766.site:80/264731652/591947819/1243265
+#EXTINF:-1 tvg-id="" tvg-name="24H • Jornada Nas Estrelas Voyager (1995)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Jornada Nas Estrelas Voyager (1995)
+http://cdn.v766.site:80/264731652/591947819/1243266
+#EXTINF:-1 tvg-id="" tvg-name="24H • Jovem Sheldon (2017)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Jovem Sheldon (2017)
+http://cdn.v766.site:80/264731652/591947819/1243267
+#EXTINF:-1 tvg-id="" tvg-name="24H • Lendas do Amanhã (2016)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Lendas do Amanhã (2016)
+http://cdn.v766.site:80/264731652/591947819/1243268
+#EXTINF:-1 tvg-id="" tvg-name="24H • Lista Negra (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Lista Negra (2013)
+http://cdn.v766.site:80/264731652/591947819/1243269
+#EXTINF:-1 tvg-id="" tvg-name="24H • Mentes Criminosas (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Mentes Criminosas (2005)
+http://cdn.v766.site:80/264731652/591947819/1243270
+#EXTINF:-1 tvg-id="" tvg-name="24H • Motel Bates (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Motel Bates (2013)
+http://cdn.v766.site:80/264731652/591947819/1243271
+#EXTINF:-1 tvg-id="" tvg-name="24H • Mr Bean (1990)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Mr Bean (1990)
+http://cdn.v766.site:80/264731652/591947819/1243272
+#EXTINF:-1 tvg-id="" tvg-name="24H • NCIS Los Angeles (2009)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • NCIS Los Angeles (2009)
+http://cdn.v766.site:80/264731652/591947819/1243273
+#EXTINF:-1 tvg-id="" tvg-name="24H • O Auto da Compadecida (1999)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • O Auto da Compadecida (1999)
+http://cdn.v766.site:80/264731652/591947819/1243274
+#EXTINF:-1 tvg-id="" tvg-name="24H • O Problema dos 3 Corpos (2024)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • O Problema dos 3 Corpos (2024)
+http://cdn.v766.site:80/264731652/591947819/1243275
+#EXTINF:-1 tvg-id="" tvg-name="24H • Os Normais (2001)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Os Normais (2001)
+http://cdn.v766.site:80/264731652/591947819/1243276
+#EXTINF:-1 tvg-id="" tvg-name="24H • Os Originais (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Os Originais (2013)
+http://cdn.v766.site:80/264731652/591947819/1243277
+#EXTINF:-1 tvg-id="" tvg-name="24H • Os Simpsons (1989)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Os Simpsons (1989)
+http://cdn.v766.site:80/264731652/591947819/1243278
+#EXTINF:-1 tvg-id="" tvg-name="24H • Os Três Patetas" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Os Três Patetas
+http://cdn.v766.site:80/264731652/591947819/1243279
+#EXTINF:-1 tvg-id="" tvg-name="24H • Parafernalha" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Parafernalha
+http://cdn.v766.site:80/264731652/591947819/1243280
+#EXTINF:-1 tvg-id="" tvg-name="24H • Polícia 24H (2010)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Polícia 24H (2010)
+http://cdn.v766.site:80/264731652/591947819/1243281
+#EXTINF:-1 tvg-id="" tvg-name="24H • Porta dos Fundos" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Porta dos Fundos
+http://cdn.v766.site:80/264731652/591947819/1243282
+#EXTINF:-1 tvg-id="" tvg-name="24H • Punky A Levada da Breca (1984)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Punky A Levada da Breca (1984)
+http://cdn.v766.site:80/264731652/591947819/1243283
+#EXTINF:-1 tvg-id="" tvg-name="24H • Pé Na Cova (2013)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Pé Na Cova (2013)
+http://cdn.v766.site:80/264731652/591947819/1243284
+#EXTINF:-1 tvg-id="" tvg-name="24H • Reacher (2022)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Reacher (2022)
+http://cdn.v766.site:80/264731652/591947819/1243285
+#EXTINF:-1 tvg-id="" tvg-name="24H • Revenge (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Revenge (2011)
+http://cdn.v766.site:80/264731652/591947819/1243286
+#EXTINF:-1 tvg-id="" tvg-name="24H • Sai de Baixo (1996)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Sai de Baixo (1996)
+http://cdn.v766.site:80/264731652/591947819/1243287
+#EXTINF:-1 tvg-id="" tvg-name="24H • Smallville As Aventuras do Superboy (2001)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Smallville As Aventuras do Superboy (2001)
+http://cdn.v766.site:80/264731652/591947819/1243288
+#EXTINF:-1 tvg-id="" tvg-name="24H • Sob Pressão (2017)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Sob Pressão (2017)
+http://cdn.v766.site:80/264731652/591947819/1243289
+#EXTINF:-1 tvg-id="" tvg-name="24H • Sobrenatural (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Sobrenatural (2005)
+http://cdn.v766.site:80/264731652/591947819/1243290
+#EXTINF:-1 tvg-id="" tvg-name="24H • South Park (1997)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • South Park (1997)
+http://cdn.v766.site:80/264731652/591947819/1243291
+#EXTINF:-1 tvg-id="" tvg-name="24H • Stranger Things (2016)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Stranger Things (2016)
+http://cdn.v766.site:80/264731652/591947819/1243292
+#EXTINF:-1 tvg-id="" tvg-name="24H • Supergirl (2015)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Supergirl (2015)
+http://cdn.v766.site:80/264731652/591947819/1243293
+#EXTINF:-1 tvg-id="" tvg-name="24H • Tapas e Beijos (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Tapas e Beijos (2011)
+http://cdn.v766.site:80/264731652/591947819/1243294
+#EXTINF:-1 tvg-id="" tvg-name="24H • Teste de Fidelidade" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Teste de Fidelidade
+http://cdn.v766.site:80/264731652/591947819/1243295
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Boys (2019)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Boys (2019)
+http://cdn.v766.site:80/264731652/591947819/1243296
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Good Doctor O Bom Doutor (2017)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Good Doctor O Bom Doutor (2017)
+http://cdn.v766.site:80/264731652/591947819/1243297
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Masked Singer Brasil (2021)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Masked Singer Brasil (2021)
+http://cdn.v766.site:80/264731652/591947819/1243298
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Voice Brasil (2012)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Voice Brasil (2012)
+http://cdn.v766.site:80/264731652/591947819/1243299
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Voice Kids (2016)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Voice Kids (2016)
+http://cdn.v766.site:80/264731652/591947819/1243300
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Voice Plus (2012)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Voice Plus (2012)
+http://cdn.v766.site:80/264731652/591947819/1243301
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Walking Dead (2010)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Walking Dead (2010)
+http://cdn.v766.site:80/264731652/591947819/1243302
+#EXTINF:-1 tvg-id="" tvg-name="24H • The Walking Dead (2015)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • The Walking Dead (2015)
+http://cdn.v766.site:80/264731652/591947819/1243303
+#EXTINF:-1 tvg-id="" tvg-name="24H • Titans (2018)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Titans (2018)
+http://cdn.v766.site:80/264731652/591947819/1243304
+#EXTINF:-1 tvg-id="" tvg-name="24H • Todas as Flores (2022)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Todas as Flores (2022)
+http://cdn.v766.site:80/264731652/591947819/1243305
+#EXTINF:-1 tvg-id="" tvg-name="24H • Todo Mundo Odeia o Chris (2005)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Todo Mundo Odeia o Chris (2005)
+http://cdn.v766.site:80/264731652/591947819/1243306
 #EXTINF:-1 tvg-id="" tvg-name="24H • Toma Lá Dá Cá (2007)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Toma Lá Dá Cá (2007)
 http://cdn.v766.site:80/264731652/591947819/1243307
 #EXTINF:-1 tvg-id="" tvg-name="24H • Truques da Mente (2011)" tvg-logo="http://i.ibb.co/JYJhd6q/CANAL-24-HORAS.png" group-title="⚡CANAIS | SÉRIES 24H",24H • Truques da Mente (2011)
@@ -706,14 +980,176 @@ http://cdn.v766.site:80/264731652/591947819/1243316
 http://cdn.v766.site:80/264731652/591947819/1243317
 #EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE SEASON 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",SMALLVILLE SEASON 24H
 http://cdn.v766.site:80/264731652/591947819/1243318
+#EXTINF:-1 tvg-id="" tvg-name="SOBRENATURAL 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",SOBRENATURAL 24H
+http://cdn.v766.site:80/264731652/591947819/1243319
+#EXTINF:-1 tvg-id="" tvg-name="OS 3 NORDESTINOS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",OS 3 NORDESTINOS 24H
+http://cdn.v766.site:80/264731652/591947819/1243320
 #EXTINF:-1 tvg-id="" tvg-name="BIG BANG: A TEORIA 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",BIG BANG: A TEORIA 24H
 http://cdn.v766.site:80/264731652/591947819/1243321
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIRA O CRIS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",TODO MUNDO ODEIRA O CRIS 24H
 http://cdn.v766.site:80/264731652/591947819/1243322
 #EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",UM MALUCO NO PEDAÇO 24H
 http://cdn.v766.site:80/264731652/591947819/1243323
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",Bates Motel 24H
+http://cdn.v766.site:80/264731652/591947819/1243324
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",Breaking Bad 24H
+http://cdn.v766.site:80/264731652/591947819/1243325
 #EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",EU A PATROA E AS CRIANÇAS 24H
 http://cdn.v766.site:80/264731652/591947819/1243326
+#EXTINF:-1 tvg-id="" tvg-name="Game of THrones 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | SÉRIES 24H",Game of THrones 24H
+http://cdn.v766.site:80/264731652/591947819/1243327
+#EXTINF:-1 tvg-id="" tvg-name="24H • Bucky" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Bucky
+http://cdn.v766.site:80/264731652/591947819/1243328
+#EXTINF:-1 tvg-id="" tvg-name="24H • Cavaleiros do Zodiaco - Saga Hades" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Cavaleiros do Zodiaco - Saga Hades
+http://cdn.v766.site:80/264731652/591947819/1243329
+#EXTINF:-1 tvg-id="" tvg-name="24H • Desenhos Biblicos - Novo Testamento" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Desenhos Biblicos - Novo Testamento
+http://cdn.v766.site:80/264731652/591947819/1243330
+#EXTINF:-1 tvg-id="" tvg-name="24H • Luluzinha em Português" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Luluzinha em Português
+http://cdn.v766.site:80/264731652/591947819/1243331
+#EXTINF:-1 tvg-id="" tvg-name="24H • Mortal Kombat - Defensores da Terra" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Mortal Kombat - Defensores da Terra
+http://cdn.v766.site:80/264731652/591947819/1243332
+#EXTINF:-1 tvg-id="" tvg-name="24H • Mongo e Drongo (2004)" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Mongo e Drongo (2004)
+http://cdn.v766.site:80/264731652/591947819/1243333
+#EXTINF:-1 tvg-id="" tvg-name="24H • Pica Pau Clássico" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Pica Pau Clássico
+http://cdn.v766.site:80/264731652/591947819/1243334
+#EXTINF:-1 tvg-id="" tvg-name="24H • Pernalonga e Patolino" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Pernalonga e Patolino
+http://cdn.v766.site:80/264731652/591947819/1243335
+#EXTINF:-1 tvg-id="" tvg-name="24H • Cavaleiros do Zodiaco - A Saga de Ascard" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Cavaleiros do Zodiaco - A Saga de Ascard
+http://cdn.v766.site:80/264731652/591947819/1243336
+#EXTINF:-1 tvg-id="" tvg-name="24H • Rambo Desenho Animado" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Rambo Desenho Animado
+http://cdn.v766.site:80/264731652/591947819/1243337
+#EXTINF:-1 tvg-id="" tvg-name="24H • Cavaleiros do Zodiaco - Guerra Galáctica" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Cavaleiros do Zodiaco - Guerra Galáctica
+http://cdn.v766.site:80/264731652/591947819/1243338
+#EXTINF:-1 tvg-id="" tvg-name="24H • Super Maratona Cine Gibi - Turma da Mônica" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Super Maratona Cine Gibi - Turma da Mônica
+http://cdn.v766.site:80/264731652/591947819/1243339
+#EXTINF:-1 tvg-id="" tvg-name="24H • Yu Yu Hakusho (1992)" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Yu Yu Hakusho (1992)
+http://cdn.v766.site:80/264731652/591947819/1243340
+#EXTINF:-1 tvg-id="" tvg-name="24H • Street Fighter 2" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Street Fighter 2
+http://cdn.v766.site:80/264731652/591947819/1243341
+#EXTINF:-1 tvg-id="" tvg-name="24H • Shurato (1989)" tvg-logo="http://i.ibb.co/b0ffQKc/DESENHOS-24-HORAS.png" group-title="⚡CANAIS | DESENHOS 24H",24H • Shurato (1989)
+http://cdn.v766.site:80/264731652/591947819/1243342
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Super Mario Bros 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",As Aventuras de Super Mario Bros 24H
+http://cdn.v766.site:80/264731652/591947819/1243343
+#EXTINF:-1 tvg-id="" tvg-name="TELETUBBIES 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",TELETUBBIES 24H
+http://cdn.v766.site:80/264731652/591947819/1243344
+#EXTINF:-1 tvg-id="" tvg-name="TIMÃO & PUMBA 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",TIMÃO & PUMBA 24H
+http://cdn.v766.site:80/264731652/591947819/1243345
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",THUNDERCATS 24H
+http://cdn.v766.site:80/264731652/591947819/1243346
+#EXTINF:-1 tvg-id="" tvg-name="TOM E JERRY 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",TOM E JERRY 24H
+http://cdn.v766.site:80/264731652/591947819/1243347
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DA MONICA 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",A TURMA DA MONICA 24H
+http://cdn.v766.site:80/264731652/591947819/1243348
+#EXTINF:-1 tvg-id="" tvg-name="UrsinHos CarinHosos 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",UrsinHos CarinHosos 24H
+http://cdn.v766.site:80/264731652/591947819/1243349
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey Mouse 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",A Casa do Mickey Mouse 24H
+http://cdn.v766.site:80/264731652/591947819/1243350
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Animaniacs 24H
+http://cdn.v766.site:80/264731652/591947819/1243351
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",As Meninas Superpoderosas 24H
+http://cdn.v766.site:80/264731652/591947819/1243352
+#EXTINF:-1 tvg-id="" tvg-name="Kipper 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Kipper 24H
+http://cdn.v766.site:80/264731652/591947819/1243353
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Baby Looney Tunes 24H
+http://cdn.v766.site:80/264731652/591947819/1243354
+#EXTINF:-1 tvg-id="" tvg-name="Barney e Seus Amigos 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Barney e Seus Amigos 24H
+http://cdn.v766.site:80/264731652/591947819/1243355
+#EXTINF:-1 tvg-id="" tvg-name="THe Puzzle Place 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",THe Puzzle Place 24H
+http://cdn.v766.site:80/264731652/591947819/1243356
+#EXTINF:-1 tvg-id="" tvg-name="Os Backyardigans 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Os Backyardigans 24H
+http://cdn.v766.site:80/264731652/591947819/1243357
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",BEN 10 24H
+http://cdn.v766.site:80/264731652/591947819/1243358
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",BOB ESPONJA 24H
+http://cdn.v766.site:80/264731652/591947819/1243359
+#EXTINF:-1 tvg-id="" tvg-name="Doug 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Doug 24H
+http://cdn.v766.site:80/264731652/591947819/1243360
+#EXTINF:-1 tvg-id="" tvg-name="Duck Dodgers" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Duck Dodgers
+http://cdn.v766.site:80/264731652/591947819/1243361
+#EXTINF:-1 tvg-id="" tvg-name="DuckTales 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",DuckTales 24H
+http://cdn.v766.site:80/264731652/591947819/1243362
+#EXTINF:-1 tvg-id="" tvg-name="BABY DINOSSALRO 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",BABY DINOSSALRO 24H
+http://cdn.v766.site:80/264731652/591947819/1243363
+#EXTINF:-1 tvg-id="" tvg-name="THunderCats 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",THunderCats 24H
+http://cdn.v766.site:80/264731652/591947819/1243364
+#EXTINF:-1 tvg-id="" tvg-name="GATO DE BOTAS 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",GATO DE BOTAS 24H
+http://cdn.v766.site:80/264731652/591947819/1243365
+#EXTINF:-1 tvg-id="" tvg-name="DORA AVENTUREIRA 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",DORA AVENTUREIRA 24H
+http://cdn.v766.site:80/264731652/591947819/1243366
+#EXTINF:-1 tvg-id="" tvg-name="os Hamsters Hamtaro e Panda 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",os Hamsters Hamtaro e Panda 24H
+http://cdn.v766.site:80/264731652/591947819/1243367
+#EXTINF:-1 tvg-id="" tvg-name="He-Man e os Mestres do Universo 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",He-Man e os Mestres do Universo 24H
+http://cdn.v766.site:80/264731652/591947819/1243368
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold! 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Hey Arnold! 24H
+http://cdn.v766.site:80/264731652/591947819/1243369
+#EXTINF:-1 tvg-id="" tvg-name="iCARLEY 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",iCARLEY 24H
+http://cdn.v766.site:80/264731652/591947819/1243370
+#EXTINF:-1 tvg-id="" tvg-name="Ladybug 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",Ladybug 24H
+http://cdn.v766.site:80/264731652/591947819/1243371
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBYDO 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",SCOOBYDO 24H
+http://cdn.v766.site:80/264731652/591947819/1243372
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINSTSON 24H" tvg-logo="http://i.imgur.com/iJmJeNw.jpeg" group-title="⚡CANAIS | DESENHOS 24H",OS FLINSTSON 24H
+http://cdn.v766.site:80/264731652/591947819/1243373
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 1" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 1
+http://cdn.v766.site:80/264731652/591947819/1029656
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 2" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 2
+http://cdn.v766.site:80/264731652/591947819/1029657
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 3" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 3
+http://cdn.v766.site:80/264731652/591947819/1029658
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 4" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 4
+http://cdn.v766.site:80/264731652/591947819/1029659
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 5" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 5
+http://cdn.v766.site:80/264731652/591947819/1029660
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 6" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 6
+http://cdn.v766.site:80/264731652/591947819/1029661
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 7" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 7
+http://cdn.v766.site:80/264731652/591947819/1029662
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 8" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 8
+http://cdn.v766.site:80/264731652/591947819/1029663
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 9" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 9
+http://cdn.v766.site:80/264731652/591947819/1029664
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 10" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 10
+http://cdn.v766.site:80/264731652/591947819/1029665
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 11" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 11
+http://cdn.v766.site:80/264731652/591947819/1029666
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 12" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 12
+http://cdn.v766.site:80/264731652/591947819/1029667
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 13" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 13
+http://cdn.v766.site:80/264731652/591947819/1029668
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 14" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 14
+http://cdn.v766.site:80/264731652/591947819/1029669
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 15" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 15
+http://cdn.v766.site:80/264731652/591947819/1029670
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 16" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 16
+http://cdn.v766.site:80/264731652/591947819/1029671
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 17" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 17
+http://cdn.v766.site:80/264731652/591947819/1029672
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 18" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 18
+http://cdn.v766.site:80/264731652/591947819/1029673
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 19" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 19
+http://cdn.v766.site:80/264731652/591947819/1029674
+#EXTINF:-1 tvg-id="" tvg-name="CINE 24 HORAS 20" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | CINE 24H",CINE 24 HORAS 20
+http://cdn.v766.site:80/264731652/591947819/1029675
+#EXTINF:-1 tvg-id="" tvg-name="24H ACÚSTICO INTERNACIONAL - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H ACÚSTICO INTERNACIONAL - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029722
+#EXTINF:-1 tvg-id="" tvg-name="24H ELETRO MUSIC - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H ELETRO MUSIC - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029723
+#EXTINF:-1 tvg-id="" tvg-name="24H FUNK - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H FUNK - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029724
+#EXTINF:-1 tvg-id="" tvg-name="24H GOSPEL - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H GOSPEL - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029725
+#EXTINF:-1 tvg-id="" tvg-name="24H PAGODES - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H PAGODES - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029726
+#EXTINF:-1 tvg-id="" tvg-name="24H POP INTERNACIONAL - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H POP INTERNACIONAL - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029727
+#EXTINF:-1 tvg-id="" tvg-name="24H POP NACIONAL - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H POP NACIONAL - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029728
+#EXTINF:-1 tvg-id="" tvg-name="24H RETRO MUSIC - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H RETRO MUSIC - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029729
+#EXTINF:-1 tvg-id="" tvg-name="24H ROCK ROLL - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H ROCK ROLL - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029730
+#EXTINF:-1 tvg-id="" tvg-name="24H SERTANEJOS - CLIPES" tvg-logo="https://od.lk/s/NzdfNTg1NjM4MzZf/24h.png" group-title="⚡CANAIS | SHOWS 24H",24H SERTANEJOS - CLIPES
+http://cdn.v766.site:80/264731652/591947819/1029731
 #EXTINF:-1 tvg-id="" tvg-name="Programa -  Silvio Santos" tvg-logo="https://i.imgur.com/BNQRf2U.png" group-title="Especial 24h",Programa -  Silvio Santos
 http://cdbnm.xyz:80/878298956/582441977/2170494.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Programa - A Praça é Nossa" tvg-logo="https://i.imgur.com/LwsCa19.png" group-title="Especial 24h",Programa - A Praça é Nossa
@@ -11532,6 +11968,7 @@ http://cdn.v766.site:80/movie/264731652/591947819/1529423.mp4
 http://cdn.v766.site:80/movie/264731652/591947819/1529424.mp4
 #EXTINF:-1 tvg-name="Arkansas (2020)" tvg-logo="http://image.tmdb.org/t/p/w400/eStS2SPitBTNzADpxNPKTA6GCXC.jpg" group-title="⚡ Crime",Arkansas (2020)
 http://cdn.v766.site:80/movie/264731652/591947819/1529425.mp4
+
 
 
 
