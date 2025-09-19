@@ -317,6 +317,66 @@ http://alpacinoo.com:8080/Ednacademia/9338376877/46173
 http://alpacinoo.com:8080/Ednacademia/9338376877/46172
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION 4K*" tvg-logo="http://server.pserver2.com/live/WELLEcapote/3cAwzokGfM/581.ts" group-title="CANAIS 4K",TELECINE ACTION 4K*
 http://alpacinoo.com:8080/Ednacademia/9338376877/46261
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/w0NONCm.png" group-title="✅ RELIGIOSO",CANÇÃO NOVA
+https://p2bin.pro:443/7777777/7777777/4719569
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://i.imgur.com/w0NONCm.png" group-title="✅ RELIGIOSO",CANÇÃO NOVA HD
+https://p2bin.pro:443/7777777/7777777/4719166
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.imgur.com/w0NONCm.png" group-title="✅ RELIGIOSO",CANÇÃO NOVA SD
+https://p2bin.pro:443/7777777/7777777/7839582
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://i.imgur.com/xeiAobl.png" group-title="✅ RELIGIOSO",GOSPEL CARTOON
+https://p2bin.pro:443/7777777/7777777/4719125
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON ²" tvg-logo="https://i.imgur.com/xeiAobl.png" group-title="✅ RELIGIOSO",GOSPEL CARTOON ²
+https://p2bin.pro:443/7777777/7777777/4719124
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA BIBLICA PARA CRIANCA" tvg-logo="https://i.imgur.com/b7MuaSs.png" group-title="✅ RELIGIOSO",HISTORIA BIBLICA PARA CRIANCA
+https://p2bin.pro:443/7777777/7777777/4719819
+#EXTINF:-1 tvg-id="" tvg-name="IGREJA CRISTA MARANATA" tvg-logo="https://i.imgur.com/bnLevds.png" group-title="✅ RELIGIOSO",IGREJA CRISTA MARANATA
+https://p2bin.pro:443/7777777/7777777/4719306
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL IDEAL" tvg-logo="https://i.imgur.com/XbOkjrj.png" group-title="✅ RELIGIOSO",MUNDIAL IDEAL
+https://p2bin.pro:443/7777777/7777777/4719668
+#EXTINF:-1 tvg-id="br#tv-novo-tempo-hd" tvg-name="NOVO TEMPO" tvg-logo="https://i.imgur.com/hY4cNJ8.png" group-title="✅ RELIGIOSO",NOVO TEMPO
+https://p2bin.pro:443/7777777/7777777/4719667
+#EXTINF:-1 tvg-id="br#tv-novo-tempo-hd" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/hY4cNJ8.png" group-title="✅ RELIGIOSO",Novo Tempo
+https://p2bin.pro:443/7777777/7777777/7839583
+#EXTINF:-1 tvg-id="br#tv-novo-tempo-hd" tvg-name="NOVO TEMPO HD" tvg-logo="https://i.imgur.com/hY4cNJ8.png" group-title="✅ RELIGIOSO",NOVO TEMPO HD
+https://p2bin.pro:443/7777777/7777777/4719094
+#EXTINF:-1 tvg-id="RBITV.br" tvg-name="RBI TV" tvg-logo="http://www.fontedecanais.org/logos/canais/rbitv.png" group-title="✅ RELIGIOSO",RBI TV
+https://p2bin.pro:443/7777777/7777777/7839590
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="http://www.fontedecanais.org/logos/canais/cnt.png" group-title="✅ RELIGIOSO",REDE CNT
+https://p2bin.pro:443/7777777/7777777/7839587
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="REDE FAMÍLIA" tvg-logo="http://www.fontedecanais.org/logos/canais/redefamilia.png" group-title="✅ RELIGIOSO",REDE FAMÍLIA
+https://p2bin.pro:443/7777777/7777777/7839584
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="REDE GOSPEL" tvg-logo="http://www.fontedecanais.org/logos/canais/redegospel.png" group-title="✅ RELIGIOSO",REDE GOSPEL
+https://p2bin.pro:443/7777777/7777777/4719123
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="REDE GOSPEL" tvg-logo="http://www.fontedecanais.org/logos/canais/redegospel.png" group-title="✅ RELIGIOSO",REDE GOSPEL
+https://p2bin.pro:443/7777777/7777777/7839585
+#EXTINF:-1 tvg-id="" tvg-name="REDE PLENITUDE TV HD" tvg-logo="https://i.imgur.com/PW07EVw.png" group-title="✅ RELIGIOSO",REDE PLENITUDE TV HD
+https://p2bin.pro:443/7777777/7777777/4719127
+#EXTINF:-1 tvg-id="RedeSuper.br" tvg-name="REDE SUPER" tvg-logo="https://i.imgur.com/7OXJAsG.png" group-title="✅ RELIGIOSO",REDE SUPER
+https://p2bin.pro:443/7777777/7777777/4719673
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="REDE VIDA" tvg-logo="http://www.fontedecanais.org/logos/canais/redevida.png" group-title="✅ RELIGIOSO",REDE VIDA
+https://p2bin.pro:443/7777777/7777777/4719619
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="REDE VIDA" tvg-logo="http://www.fontedecanais.org/logos/canais/redevida.png" group-title="✅ RELIGIOSO",REDE VIDA
+https://p2bin.pro:443/7777777/7777777/7839586
+#EXTINF:-1 tvg-id="br#rit-hd" tvg-name="RIT" tvg-logo="https://i.imgur.com/p7bpp4l.png" group-title="✅ RELIGIOSO",RIT
+https://p2bin.pro:443/7777777/7777777/4719716
+#EXTINF:-1 tvg-id="RBITV.br" tvg-name="RIT TV HD" tvg-logo="https://i.imgur.com/p7bpp4l.png" group-title="✅ RELIGIOSO",RIT TV HD
+https://p2bin.pro:443/7777777/7777777/4719133
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA" tvg-logo="https://i.imgur.com/MG1poLL.png" group-title="✅ RELIGIOSO",TV APARECIDA
+https://p2bin.pro:443/7777777/7777777/4719645
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://i.imgur.com/MG1poLL.png" group-title="✅ RELIGIOSO",TV APARECIDA HD
+https://p2bin.pro:443/7777777/7777777/4719203
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://i.imgur.com/MG1poLL.png" group-title="✅ RELIGIOSO",TV APARECIDA SD
+https://p2bin.pro:443/7777777/7777777/7839588
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://www.fontedecanais.org/logos/canais/tvevangelizar.png" group-title="✅ RELIGIOSO",TV EVANGELIZAR
+https://p2bin.pro:443/7777777/7777777/4719671
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://www.fontedecanais.org/logos/canais/tvevangelizar.png" group-title="✅ RELIGIOSO",TV EVANGELIZAR
+https://p2bin.pro:443/7777777/7777777/7839591
+#EXTINF:-1 tvg-id="" tvg-name="TV MAANAIM MARANATA" tvg-logo="" group-title="✅ RELIGIOSO",TV MAANAIM MARANATA
+https://p2bin.pro:443/7777777/7777777/6520360
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tvpaieterno.png" group-title="✅ RELIGIOSO",TV PAI ETERNO HD
+https://p2bin.pro:443/7777777/7777777/4719129
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tvpaieterno.png" group-title="✅ RELIGIOSO",TV PAI ETERNO HD
+https://p2bin.pro:443/7777777/7777777/7839589
 #EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="http://smartvtcl.site:8080/images/ff05808122b2c58e91244d2d20ed1151.jpg" group-title="VARIEDADES & MÚSICAS",NOVELAS
 http://alpacinoo.com:8080/Ednacademia/9338376877/390622
 #EXTINF:-1 tvg-id="" tvg-name="POP" tvg-logo="http://smartvtcl.site:8080/images/ff05808122b2c58e91244d2d20ed1151.jpg" group-title="VARIEDADES & MÚSICAS",POP
@@ -815,6 +875,24 @@ http://inetplus.lat:80/play/tf9kvD9_y30yUsMCekSOIlwrnxw2H79xgoK0OWZTAOk/ts
 http://inetplus.lat:80/play/tf9kvD9_y30yUsMCekSOIi2iCVePk27Upl4L0HL84uQ/ts
 #EXTINF:-1 xui-id="8240" tvg-id="" tvg-name="Mr. BEN" tvg-logo="https://i.pinimg.com/474x/0a/5b/03/0a5b03246010045697acb482cab06732.jpg" group-title="SÉRIES 24 HRS",Mr. BEN
 http://inetplus.lat:80/play/tf9kvD9_y30yUsMCekSOIl4GOID2uSfgVF9jODNlpvg/ts
+#EXTINF:-1 tvg-id="" tvg-name="Câmera 1" tvg-logo="https://i.imgur.com/liXodwD.png" group-title="✅ AQUECIMENTO • A FAZENDA",Câmera 1
+https://p2bin.pro:443/7777777/7777777/8188069
+#EXTINF:-1 tvg-id="" tvg-name="Câmera 2" tvg-logo="https://i.imgur.com/liXodwD.png" group-title="✅ AQUECIMENTO • A FAZENDA",Câmera 2
+https://p2bin.pro:443/7777777/7777777/8188070
+#EXTINF:-1 tvg-id="" tvg-name="Câmera 3" tvg-logo="https://i.imgur.com/liXodwD.png" group-title="✅ AQUECIMENTO • A FAZENDA",Câmera 3
+https://p2bin.pro:443/7777777/7777777/8188071
+#EXTINF:-1 tvg-id="" tvg-name="Câmera 4" tvg-logo="https://i.imgur.com/liXodwD.png" group-title="✅ AQUECIMENTO • A FAZENDA",Câmera 4
+https://p2bin.pro:443/7777777/7777777/8188072
+#EXTINF:-1 tvg-id="" tvg-name="Câmera 5" tvg-logo="https://i.imgur.com/liXodwD.png" group-title="✅ AQUECIMENTO • A FAZENDA",Câmera 5
+https://p2bin.pro:443/7777777/7777777/8188073
+#EXTINF:-1 tvg-id="" tvg-name="Câmera 6" tvg-logo="https://i.imgur.com/liXodwD.png" group-title="✅ AQUECIMENTO • A FAZENDA",Câmera 6
+https://p2bin.pro:443/7777777/7777777/8188074
+#EXTINF:-1 tvg-id="24HProgramasdeTV" tvg-name="SBT+ NOVELAS" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT+ ESPECIAIS",SBT+ NOVELAS
+https://p2bin.pro:443/7777777/7777777/4913174
+#EXTINF:-1 tvg-id="24HProgramasdeTV" tvg-name="SBT+ SILVIO SANTOS" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT+ ESPECIAIS",SBT+ SILVIO SANTOS
+https://p2bin.pro:443/7777777/7777777/4913178
+#EXTINF:-1 tvg-id="24HProgramasdeTV" tvg-name="SBT+ TVZYN" tvg-logo="https://ci.stvc.pro/sbt.png" group-title="✅ SBT+ ESPECIAIS",SBT+ TVZYN
+https://p2bin.pro:443/7777777/7777777/4913179
 #EXTINF:-1 tvg-id="Sessao.da.Tarde.24H" tvg-name="Sessão da Tarde 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR2vfOrYViA6q5fm5JkADm-bv3VL86Hn1C9B1ePoz3fhw.png" group-title="24 Horas | Filmes e Series",Sessão da Tarde 24H
 http://dnscine.top:80/731656921/134825640/202266.ts
 #EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Sobrenatural 24H" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png" group-title="Canais | Séries 24h",Sobrenatural 24H
