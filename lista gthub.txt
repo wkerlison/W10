@@ -1086,108 +1086,6 @@ http://cdbnm.xyz:80/878298956/582441977/2300108.m3u8
 http://cdbnm.xyz:80/878298956/582441977/2300109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-NATUREZA S01
 http://cdbnm.xyz:80/878298956/582441977/2300110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA
-http://cdbnm.xyz:80/878298956/582441977/2300118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-CAVERNA DO DRAG
-http://cdbnm.xyz:80/878298956/582441977/2300123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-CHANPOLIN COLORADO
-http://cdbnm.xyz:80/878298956/582441977/2300124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-CHAVES
-http://cdbnm.xyz:80/878298956/582441977/2300127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES CLASSICO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-CHAVES CLASSICO S01
-http://cdbnm.xyz:80/878298956/582441977/2300128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-DUOLOGIA MULHER MARAVILHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-DC COMICS-DUOLOGIA MULHER MARAVILHA
-http://cdbnm.xyz:80/878298956/582441977/2300145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-LIGA DA JUSTICA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-DC COMICS-LIGA DA JUSTICA
-http://cdbnm.xyz:80/878298956/582441977/2300152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DC COMICS-PENTALOGIA SUPERMAN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-DC COMICS-PENTALOGIA SUPERMAN
-http://cdbnm.xyz:80/878298956/582441977/2300154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-DOIS HOMENS E MEIO S01
-http://cdbnm.xyz:80/878298956/582441977/2300169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-DOIS HOMENS E MEIO S02
-http://cdbnm.xyz:80/878298956/582441977/2300170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-DOIS HOMENS E MEIO S03
-http://cdbnm.xyz:80/878298956/582441977/2300171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOIS HOMENS E MEIO S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-DOIS HOMENS E MEIO S04
-http://cdbnm.xyz:80/878298956/582441977/2300172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-EU A PATROA E AS CRIANCAS S01
-http://cdbnm.xyz:80/878298956/582441977/2300181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU A PATROA E AS CRIANCAS S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-EU A PATROA E AS CRIANCAS S05
-http://cdbnm.xyz:80/878298956/582441977/2300185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-EL CHAPO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-EL CHAPO S01
-http://cdbnm.xyz:80/878298956/582441977/2300186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S01
-http://cdbnm.xyz:80/878298956/582441977/2300221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S02
-http://cdbnm.xyz:80/878298956/582441977/2300222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S03
-http://cdbnm.xyz:80/878298956/582441977/2300223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S04
-http://cdbnm.xyz:80/878298956/582441977/2300224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S05
-http://cdbnm.xyz:80/878298956/582441977/2300225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S06" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S06
-http://cdbnm.xyz:80/878298956/582441977/2300226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S07" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S07
-http://cdbnm.xyz:80/878298956/582441977/2300227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S08" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S08
-http://cdbnm.xyz:80/878298956/582441977/2300228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S09" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S09
-http://cdbnm.xyz:80/878298956/582441977/2300229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S10" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S10
-http://cdbnm.xyz:80/878298956/582441977/2300230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-SOBRENATURAL S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SOBRENATURAL S01
-http://cdbnm.xyz:80/878298956/582441977/2300231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-THE BIG BANG THEORY S01
-http://cdbnm.xyz:80/878298956/582441977/2300267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-THE BIG BANG THEORY S02
-http://cdbnm.xyz:80/878298956/582441977/2300268.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-THE BIG BANG THEORY S09" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-THE BIG BANG THEORY S09
-http://cdbnm.xyz:80/878298956/582441977/2300275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-TODO MUNDO ODEIA O CRIS S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-TODO MUNDO ODEIA O CRIS S01
-http://cdbnm.xyz:80/878298956/582441977/2300276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-UM MALUCO NO PEDA S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-UM MALUCO NO PEDA S01
-http://cdbnm.xyz:80/878298956/582441977/2300280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-CAPITAO AMERICA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-CAPITAO AMERICA
-http://cdbnm.xyz:80/878298956/582441977/2300293.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-DEMOLIDOR S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-DEMOLIDOR S02
-http://cdbnm.xyz:80/878298956/582441977/2300298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 1" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-FILMES 1
-http://cdbnm.xyz:80/878298956/582441977/2300302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-FILMES 2" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-FILMES 2
-http://cdbnm.xyz:80/878298956/582441977/2300303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-HOMEM DE FERRO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-HOMEM DE FERRO
-http://cdbnm.xyz:80/878298956/582441977/2300304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-INUMANOS S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-INUMANOS S01
-http://cdbnm.xyz:80/878298956/582441977/2300305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JESSICA JONES S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-JESSICA JONES S01
-http://cdbnm.xyz:80/878298956/582441977/2300306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JESSICA JONES S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-JESSICA JONES S02
-http://cdbnm.xyz:80/878298956/582441977/2300307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-JESSICA JONES S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-JESSICA JONES S03
-http://cdbnm.xyz:80/878298956/582441977/2300308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LEGIAO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-LEGIAO S01
-http://cdbnm.xyz:80/878298956/582441977/2300311.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-LUKE CAGE S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-LUKE CAGE S01
-http://cdbnm.xyz:80/878298956/582441977/2300314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-MANDALORIANO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-MANDALORIANO S01
-http://cdbnm.xyz:80/878298956/582441977/2300315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-O LEGADO DE JUPITER S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-O LEGADO DE JUPITER S01
-http://cdbnm.xyz:80/878298956/582441977/2300316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-O MANDALORIANO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-O MANDALORIANO S01
-http://cdbnm.xyz:80/878298956/582441977/2300317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-ORDEM CRONOLOGICA 02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-ORDEM CRONOLOGICA 02
-http://cdbnm.xyz:80/878298956/582441977/2300318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-QUARTETO FANTASTICO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-QUARTETO FANTASTICO
-http://cdbnm.xyz:80/878298956/582441977/2300321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-THE GIFTED S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-THE GIFTED S01
-http://cdbnm.xyz:80/878298956/582441977/2300322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-THOR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-THOR
-http://cdbnm.xyz:80/878298956/582441977/2300323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-TRILOGIA HOMEM-ARANHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-TRILOGIA HOMEM-ARANHA
-http://cdbnm.xyz:80/878298956/582441977/2300324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL-WANDAVISION S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Marvel 24h",24H-MARVEL-WANDAVISION S01
-http://cdbnm.xyz:80/878298956/582441977/2300326.m3u8s
 #EXTINF:-1 tvg-id="" tvg-name="24H Sobrenatural" tvg-logo="http://casatv.online:80/images/3fce7edfd3b70c0ee73fa06ba6aca6ae.jpg" group-title="CANAIS 24H",24H Sobrenatural
 http://sv1.casahd.com:80/jonathan01/123456/1765152.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaço" tvg-logo="https://occ-0-901-448.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" group-title="CANAIS 24H",24H Um Maluco no Pedaço
@@ -1447,22 +1345,6 @@ http://lojamais.cyou:80/954317628/118245118/2608604
 http://lojamais.cyou:80/954317628/118245118/2608605
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 06" tvg-logo="https://files.jpnetwork.com.br/index.php/s/gEw6y2C57Hc8wB2/download/max11.png" group-title="CANAIS | MAX E TNT",HBO MAX 06
 http://lojamais.cyou:80/954317628/118245118/2608606
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 1 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 1 HD
-http://cdn.v766.site:80/264731652/591947819/370328
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 2 HD
-http://cdn.v766.site:80/264731652/591947819/370329
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 3 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 3 HD
-http://cdn.v766.site:80/264731652/591947819/370330
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 4 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 4 HD
-http://cdn.v766.site:80/264731652/591947819/370331
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 5 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 5 HD
-http://cdn.v766.site:80/264731652/591947819/370332
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 6 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 6 HD
-http://cdn.v766.site:80/264731652/591947819/370333
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 7 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 7 HD
-http://cdn.v766.site:80/264731652/591947819/370334
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 8 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMzFf/disneyplus.png" group-title="⚡CANAIS | DISNEY PLUS",Disney Plus 8 HD
-http://cdn.v766.site:80/264731652/591947819/370335
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 [ALT]" tvg-logo="http://smartvtcl.site:8080/images/3f251c8ced76a87e80b7dc75e1ff2a9e.jpg" group-title="DISNEY+ & HBO MAX",DISNEY+ 1 [ALT]
 http://alpacinoo.com:8080/Ednacademia/9338376877/336081
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+ 1 [ALT²]" tvg-logo="http://smartvtcl.site:8080/images/3f251c8ced76a87e80b7dc75e1ff2a9e.jpg" group-title="DISNEY+ & HBO MAX",DISNEY+ 1 [ALT²]
