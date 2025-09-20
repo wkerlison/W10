@@ -211,7 +211,7 @@ http://inetplus.lat:80/play/tf9kvD9_y30yUsMCekSOIvCac09vfhwTsFpw79yFNSE/ts
 #EXTINF:-1 xui-id="12570" tvg-id="São.Paulo/SP..Premiere.Clubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://i.postimg.cc/BbFVdT70/download.png" group-title="CANAIS 4K",PREMIERE CLUBES 4K
 http://inetplus.lat:80/play/tf9kvD9_y30yUsMCekSOIskVFgplpnGND1QnSBN8yOI/ts
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo 4K" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Canais | UHD 4K",Globo 4K
-http://cdntac.xyz:80/971263968/793975503/1107712.ts
+http://cdntac.xyz:80/971263968/793975503/2107712.ts
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K" tvg-logo="https://lh3.googleusercontent.com/-Qk6TaQeYOto/YG2ok13zN0I/AAAAAAAAKME/H4vgg5e97wk5lEOOic2u3lG8nDWTUKFpACLcBGAsYHQ/BAND%2B4K.png" group-title="Canais | UHD 4K",Band 4K
 http://cdntac.xyz:80/971263968/793975503/1107713.ts
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://lh3.googleusercontent.com/-_75vOioAs8U/YG2oks7oxGI/AAAAAAAAKMI/bRsr9OtVQiEAAu_vPetSDZdUxzbWVK88QCLcBGAsYHQ/SBT%2B4K%2B.png" group-title="Canais | UHD 4K",SBT 4K
@@ -12904,3 +12904,4 @@ https://p2bin.pro:443/movie/7777777/7777777/7903475.mp4
 https://p2bin.pro:443/movie/7777777/7777777/7903476.mp4
 #EXTINF:-1 tvg-name="Atividade Sobrenatural - A Vingança De Mary (2013)" tvg-logo="https://image.tmdb.org/t/p/w780/lrNJ2t5PiWJ5iZw2K3P4NwkaeoA.jpg" group-title="✅ TERROR ✔️",Atividade Sobrenatural - A Vingança De Mary (2013)
 https://p2bin.pro:443/movie/7777777/7777777/7903477.mp4
+
