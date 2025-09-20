@@ -1,16 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/60db17364fe66cc3d3a5fc80a2fb7814.jpg" group-title="CANAIS 4K",GLOBO SP 4K*
-http://alpacinoo.com:8080/Ednacademia/9338376877/46243
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO RJ 4K*" tvg-logo="http://smartvtcl.site:8080/images/60db17364fe66cc3d3a5fc80a2fb7814.jpg" group-title="CANAIS 4K",GLOBO RJ 4K*
-http://alpacinoo.com:8080/Ednacademia/9338376877/80171
-#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS 4K",RECORD TV SP 4K*
-http://alpacinoo.com:8080/Ednacademia/9338376877/46248
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS 4K",BAND SP 4K*
-http://alpacinoo.com:8080/Ednacademia/9338376877/320226
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS 4K",SBT SP 4K*
-http://alpacinoo.com:8080/Ednacademia/9338376877/320229
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="Canais | 4K",Globo SP 4K
 http://edgenova.sbs:80/2421727/4412484/124897
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="Canais | 4K",Globo RJ 4K
@@ -82,7 +72,88 @@ http://edgenova.sbs:80/2421727/4412484/99941
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0186_TC_Fun.png" group-title="Canais | 4K",Telecine Fun 4K
 http://edgenova.sbs:80/2421727/4412484/99952
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0080_TC-CULT.png" group-title="Canais | 4K",Telecine Cult 4K
+http://edgenova.sbs:80/2421727/4412484/99959#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="Canais | 4K",Globo SP 4K
+http://edgenova.sbs:80/2421727/4412484/124897
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="Canais | 4K",Globo RJ 4K
+http://edgenova.sbs:80/2421727/4412484/101819
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="Record TV SP 4K" tvg-logo="https://icons.ipcdn4.com/pasta%203/Record%20TV%20SP.png" group-title="Canais | 4K",Record TV SP 4K
+http://edgenova.sbs:80/2421727/4412484/101869
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0147_Globo-news.png" group-title="Canais | 4K",Globo News 4K
+http://edgenova.sbs:80/2421727/4412484/1252844
+#EXTINF:-1 tvg-id="Jpnews.br" tvg-name="Jovem Pan News 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0145_jovem-pan-news.png" group-title="Canais | 4K",Jovem Pan News 4K
+http://edgenova.sbs:80/2421727/4412484/1252845
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony 4K" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0098_SONY.png" group-title="Canais | 4K",Canal Sony 4K
+http://edgenova.sbs:80/2421727/4412484/1252846
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal 4K" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0093_STUDIO-UNIVERSAL.png" group-title="Canais | 4K",Studio Universal 4K
+http://edgenova.sbs:80/2421727/4412484/1252847
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Universal Channel 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0087_uNIVERSAL.png" group-title="Canais | 4K",Universal Channel 4K
+http://edgenova.sbs:80/2421727/4412484/1252848
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E 4K" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | 4K",A&E 4K
+http://edgenova.sbs:80/2421727/4412484/1252849
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil 4K" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0099_CANAL-BRASIL.png" group-title="Canais | 4K",Canal Brasil 4K
+http://edgenova.sbs:80/2421727/4412484/1252850
+#EXTINF:-1 tvg-id="Saborearte.br" tvg-name="Sabor & Arte 4K" tvg-logo="https://icons.ipcdn4.com/pasta%203/Sabor%20%26%20Arte.png" group-title="Canais | 4K",Sabor & Arte 4K
+http://edgenova.sbs:80/2421727/4412484/1252851
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="Espn 2 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0175_ESPN-2.png" group-title="Canais | 4K",Espn 2 4K
+http://edgenova.sbs:80/2421727/4412484/1252855
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0146_record-news.png" group-title="Canais | 4K",Record News 4K
+http://edgenova.sbs:80/2421727/4412484/100626
+#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="Band SP 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0163_BAND.png" group-title="Canais | 4K",Band SP 4K
+http://edgenova.sbs:80/2421727/4412484/101601
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News 4k" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0188_Band-news.png" group-title="Canais | 4K",Band News 4k
+http://edgenova.sbs:80/2421727/4412484/100647
+#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0178_CNN-BRASIL.png" group-title="Canais | 4K",CNN Brasil 4K
+http://edgenova.sbs:80/2421727/4412484/100637
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0135_sportv.png" group-title="Canais | 4K",Sportv 4K
+http://edgenova.sbs:80/2421727/4412484/124546
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="Sportv 2 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0181_Sportv-2.png" group-title="Canais | 4K",Sportv 2 4K
+http://edgenova.sbs:80/2421727/4412484/124542
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="Sportv 3 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0184_Sportv-3.png" group-title="Canais | 4K",Sportv 3 4K
+http://edgenova.sbs:80/2421727/4412484/124538
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes  4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0133_Premiere.png" group-title="Canais | 4K",Premiere Clubes  4K
+http://edgenova.sbs:80/2421727/4412484/100461
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Premiere 2 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0133_Premiere.png" group-title="Canais | 4K",Premiere 2 4K
+http://edgenova.sbs:80/2421727/4412484/100455
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 4k" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0133_Premiere.png" group-title="Canais | 4K",Premiere 3 4k
+http://edgenova.sbs:80/2421727/4412484/100449
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 4k" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0133_Premiere.png" group-title="Canais | 4K",Premiere 4 4k
+http://edgenova.sbs:80/2421727/4412484/100443
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 4k" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0133_Premiere.png" group-title="Canais | 4K",Premiere 5 4k
+http://edgenova.sbs:80/2421727/4412484/100437
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K" tvg-logo="https://icons.ipcdn4.com/pasta%203/espn.png" group-title="Canais | 4K",ESPN 4K
+http://edgenova.sbs:80/2421727/4412484/827227
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3 4k" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0027_ESPN-3.png" group-title="Canais | 4K",ESPN 3 4k
+http://edgenova.sbs:80/2421727/4412484/100851
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 6 4k" tvg-logo="https://icons.ipcdn4.com/pasta%203/espn6.png" group-title="Canais | 4K",ESPN 6 4k
+http://edgenova.sbs:80/2421727/4412484/100840
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0140_combate.png" group-title="Canais | 4K",Combate 4K
+http://edgenova.sbs:80/2421727/4412484/100681
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0026_BAND-SPORT.png" group-title="Canais | 4K",Band Sports 4K
+http://edgenova.sbs:80/2421727/4412484/100687
+#EXTINF:-1 tvg-id="Foxnews.br" tvg-name="FOX Sports 2 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0139_fox-sport.png" group-title="Canais | 4K",FOX Sports 2 4K
+http://edgenova.sbs:80/2421727/4412484/100666
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0077_Telecine-Action.png" group-title="Canais | 4K",Telecine Action 4K
+http://edgenova.sbs:80/2421727/4412484/99970
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0078_TC-PIPOCA.png" group-title="Canais | 4K",Telecine Pipoca 4K
+http://edgenova.sbs:80/2421727/4412484/99948
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0079_TC-TOUCH.png" group-title="Canais | 4K",Telecine Touch 4K
+http://edgenova.sbs:80/2421727/4412484/99934
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0076_TC-PREMIUM.png" group-title="Canais | 4K",Telecine Premium 4K
+http://edgenova.sbs:80/2421727/4412484/99941
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun 4K" tvg-logo="https://icons.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0186_TC_Fun.png" group-title="Canais | 4K",Telecine Fun 4K
+http://edgenova.sbs:80/2421727/4412484/99952
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult 4K" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0080_TC-CULT.png" group-title="Canais | 4K",Telecine Cult 4K
 http://edgenova.sbs:80/2421727/4412484/99959
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/60db17364fe66cc3d3a5fc80a2fb7814.jpg" group-title="CANAIS 4K",GLOBO SP 4K*
+http://alpacinoo.com:8080/Ednacademia/9338376877/46243
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO RJ 4K*" tvg-logo="http://smartvtcl.site:8080/images/60db17364fe66cc3d3a5fc80a2fb7814.jpg" group-title="CANAIS 4K",GLOBO RJ 4K*
+http://alpacinoo.com:8080/Ednacademia/9338376877/80171
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS 4K",RECORD TV SP 4K*
+http://alpacinoo.com:8080/Ednacademia/9338376877/46248
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS 4K",BAND SP 4K*
+http://alpacinoo.com:8080/Ednacademia/9338376877/320226
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP 4K*" tvg-logo="http://smartvtcl.site:8080/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS 4K",SBT SP 4K*
+http://alpacinoo.com:8080/Ednacademia/9338376877/320229
 #EXTINF:-1 tvg-id="Redegospel.br" tvg-name="Rede Gospel FHD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0038_REDE-GOSPEL.png" group-title="Canais | Religiosos",Rede Gospel FHD
 http://edgenova.sbs:80/2421727/4412484/785102
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="Novo Tempo SD" tvg-logo="https://icons.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0043_Novo-tempo.png" group-title="Canais | Religiosos",Novo Tempo SD
