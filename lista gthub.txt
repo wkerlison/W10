@@ -5576,6 +5576,158 @@ http://aguacomgas.shop:80/series/222222222/222222222/2375824.mp4
 http://aguacomgas.shop:80/series/222222222/222222222/2375825.mp4
 #EXTINF:-1 tvg-name="A Terra Prometida S01E179" tvg-logo="http://timg.bdta.pro/images/f431e847444d74fe365d1165e46af5c5.jpg" group-title="♣️Novelas",A Terra Prometida S01E179
 http://aguacomgas.shop:80/series/222222222/222222222/2375826.mp4
+#EXTINF:-1 tvg-name="Movimento de Jesus (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m96gOrdyL5jC3u3Znaqq4AG1V8T.jpg" group-title="Filmes | Religioso",Movimento de Jesus (2023)
+http://cdntac.xyz:80/movie/971263968/793975503/1735259.mp4
+#EXTINF:-1 tvg-name="Você Acredita? (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOcgjbRymDsFXrw19X5qRup6RKn.jpg" group-title="Filmes | Religioso",Você Acredita? (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735350.mp4
+#EXTINF:-1 tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUbGV1J50LmoZ91oHoRglfRVRL0.jpg" group-title="Histórias que Inspiram",A Ressurreição de Jesus (2021)
+http://cdntac.xyz:80/movie/971263968/793975503/1735291.mp4
+#EXTINF:-1 tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUbGV1J50LmoZ91oHoRglfRVRL0.jpg" group-title="Filmes | Religioso",A Ressurreição de Jesus (2021)
+http://cdntac.xyz:80/movie/971263968/793975503/1735291.mp4
+#EXTINF:-1 tvg-name="No Caminho da Cura (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1t1bf7upwyEDq0OGpz0DvNhk7Ki.jpg" group-title="Filmes | Religioso",No Caminho da Cura (2021)
+http://cdntac.xyz:80/movie/971263968/793975503/1735302.mp4
+#EXTINF:-1 tvg-name="No Ritmo da Fé (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVWU32CuOOEuHxwEjI2NsI4WDc4.jpg" group-title="Filmes | Religioso",No Ritmo da Fé (2023)
+http://cdntac.xyz:80/movie/971263968/793975503/1735269.mp4
+#EXTINF:-1 tvg-name="Lutero (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gfNkXV9iXVhyHTPt5EVfpIBPPd.jpg" group-title="Histórias que Inspiram",Lutero (2003)
+http://cdntac.xyz:80/movie/971263968/793975503/1735315.mp4
+#EXTINF:-1 tvg-name="Lutero (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gfNkXV9iXVhyHTPt5EVfpIBPPd.jpg" group-title="Filmes | Religioso",Lutero (2003)
+http://cdntac.xyz:80/movie/971263968/793975503/1735315.mp4
+#EXTINF:-1 tvg-name="Nosso Lar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XeiiBxzXuT46deN8QmJaekHwqj.jpg" group-title="Filmes | Religioso",Nosso Lar (2010)
+http://cdntac.xyz:80/movie/971263968/793975503/1735328.mp4
+#EXTINF:-1 tvg-name="Barrabás (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAZeJbVvAYGXXJEH8a1g1vvgv5p.jpg" group-title="Histórias que Inspiram",Barrabás (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735276.mp4
+#EXTINF:-1 tvg-name="Barrabás (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAZeJbVvAYGXXJEH8a1g1vvgv5p.jpg" group-title="Filmes | Religioso",Barrabás (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735276.mp4
+#EXTINF:-1 tvg-name="Louis Theroux: The Ultra Zionists (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bMzBI8Ct4aTk2QGU2AqCmdynjy.jpg" group-title="Filmes | Religioso",Louis Theroux: The Ultra Zionists (2011)
+http://cdntac.xyz:80/movie/971263968/793975503/1735294.mp4
+#EXTINF:-1 tvg-name="O Mistério da Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyNXVboCNiKlD2G2hY0H97NPUG.jpg" group-title="Para Toda Família",O Mistério da Fé (2017)
+http://cdntac.xyz:80/movie/971263968/793975503/1735306.mp4
+#EXTINF:-1 tvg-name="O Mistério da Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyNXVboCNiKlD2G2hY0H97NPUG.jpg" group-title="Filmes | Religioso",O Mistério da Fé (2017)
+http://cdntac.xyz:80/movie/971263968/793975503/1735306.mp4
+#EXTINF:-1 tvg-name="Poderia Me Perdoar? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg" group-title="Filmes | Religioso",Poderia Me Perdoar? (2018)
+http://cdntac.xyz:80/movie/971263968/793975503/1735331.mp4
+#EXTINF:-1 tvg-name="O Jardim do Inimigo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uzlTulMRJjqmEjEViQ2qL511eJ.jpg" group-title="Para Toda Família",O Jardim do Inimigo (2011)
+http://cdntac.xyz:80/movie/971263968/793975503/1735326.mp4
+#EXTINF:-1 tvg-name="O Jardim do Inimigo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uzlTulMRJjqmEjEViQ2qL511eJ.jpg" group-title="Mistérios que Mantêm Você na Ponta da Cadeira",O Jardim do Inimigo (2011)
+http://cdntac.xyz:80/movie/971263968/793975503/1735326.mp4
+#EXTINF:-1 tvg-name="O Jardim do Inimigo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uzlTulMRJjqmEjEViQ2qL511eJ.jpg" group-title="Filmes | Religioso",O Jardim do Inimigo (2011)
+http://cdntac.xyz:80/movie/971263968/793975503/1735326.mp4
+#EXTINF:-1 tvg-name="Deus Não Está Morto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urjNU6L1NMQVcN9JzmxlHoQhOs9.jpg" group-title="Filmes | Religioso",Deus Não Está Morto (2014)
+http://cdntac.xyz:80/movie/971263968/793975503/1735334.mp4
+#EXTINF:-1 tvg-name="Deus Não Esta Morto: O Próximo Capítulo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPLGhukHKy8kbYntAOvHQgztxe4.jpg" group-title="Filmes | Religioso",Deus Não Esta Morto: O Próximo Capítulo (2021)
+http://cdntac.xyz:80/movie/971263968/793975503/1735289.mp4
+#EXTINF:-1 tvg-name="A Historia Fascinante E Incrivel De Cristo Jesus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPLGhukHKy8kbYntAOvHQgztxe4.jpg" group-title="Filmes | Religioso",A Historia Fascinante E Incrivel De Cristo Jesus
+http://cdntac.xyz:80/movie/971263968/793975503/1735248.mp4
+#EXTINF:-1 tvg-name="Luta Pela Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg" group-title="Filmes | Religioso",Luta Pela Fé (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735299.mp4
+#EXTINF:-1 tvg-name="Abraao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg" group-title="Filmes | Religioso",Abraao
+http://cdntac.xyz:80/movie/971263968/793975503/1735311.mp4
+#EXTINF:-1 tvg-name="Genesis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOgWvHRZGH9SdEG33ScuMSPtuK3.jpg" group-title="Filmes | Religioso",Genesis (2018)
+http://cdntac.xyz:80/movie/971263968/793975503/1735268.mp4
+#EXTINF:-1 tvg-name="Deus Não Está Morto 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9xXefsaYEp5cg9Gdjq0jZeX0g9.jpg" group-title="Filmes | Religioso",Deus Não Está Morto 2 (2016)
+http://cdntac.xyz:80/movie/971263968/793975503/1735287.mp4
+#EXTINF:-1 tvg-name="Quarto de Guerra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyssvvCXc13c9VC7QTWjRo12FyE.jpg" group-title="Filmes | Religioso",Quarto de Guerra (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735330.mp4
+#EXTINF:-1 tvg-name="Apóstolo Pedro e a Última Ceia (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvZUgMS7fc2BIkLcvKqFaMJ9gVv.jpg" group-title="Histórias que Inspiram",Apóstolo Pedro e a Última Ceia (2013)
+http://cdntac.xyz:80/movie/971263968/793975503/1735321.mp4
+#EXTINF:-1 tvg-name="Apóstolo Pedro e a Última Ceia (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvZUgMS7fc2BIkLcvKqFaMJ9gVv.jpg" group-title="Filmes | Religioso",Apóstolo Pedro e a Última Ceia (2013)
+http://cdntac.xyz:80/movie/971263968/793975503/1735321.mp4
+#EXTINF:-1 tvg-name="O Peregrino: Uma Jornada Para o Céu (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE2ryADO2PVezrxVUUiBz6Niuj7.jpg" group-title="Filmes | Religioso",O Peregrino: Uma Jornada Para o Céu (2008)
+http://cdntac.xyz:80/movie/971263968/793975503/1735297.mp4
+#EXTINF:-1 tvg-name="A Última Tentação de Cristo (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAyCulPkOHA4AB4d4dK3XzUVwjt.jpg" group-title="Filmes | Religioso",A Última Tentação de Cristo (1988)
+http://cdntac.xyz:80/movie/971263968/793975503/1735296.mp4
+#EXTINF:-1 tvg-name="Jesus: A Maior História de Todos os Tempos (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mz8VofrskKYClr7PNAZ3Nn5OWnw.jpg" group-title="Filmes | Religioso",Jesus: A Maior História de Todos os Tempos (1999)
+http://cdntac.xyz:80/movie/971263968/793975503/1735308.mp4
+#EXTINF:-1 tvg-name="José - O Favorito De Deus (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RdAYSlyAAa3xexhPsuY66Blj3i.jpg" group-title="Filmes | Religioso",José - O Favorito De Deus (1995)
+http://cdntac.xyz:80/movie/971263968/793975503/1735307.mp4
+#EXTINF:-1 tvg-name="Jaco (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKKmFdxwy7HEq5j98QOwlRratUo.jpg" group-title="Filmes para Cantar e Dançar Sem Parar",Jaco (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735318.mp4
+#EXTINF:-1 tvg-name="Jaco (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKKmFdxwy7HEq5j98QOwlRratUo.jpg" group-title="Filmes | Religioso",Jaco (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735318.mp4
+#EXTINF:-1 tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LD4vsEFV1o1vSt0LQf7v8IHma.jpg" group-title="Para Toda Família",A Estrela de Belém (2017)
+http://cdntac.xyz:80/movie/971263968/793975503/1735277.mp4
+#EXTINF:-1 tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LD4vsEFV1o1vSt0LQf7v8IHma.jpg" group-title="Filmes | Religioso",A Estrela de Belém (2017)
+http://cdntac.xyz:80/movie/971263968/793975503/1735277.mp4
+#EXTINF:-1 tvg-name="Jeremias (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoZWW32Jn2jYTvJ4lOQWNoA6VNI.jpg" group-title="Filmes | Religioso",Jeremias (1998)
+http://cdntac.xyz:80/movie/971263968/793975503/1735265.mp4
+#EXTINF:-1 tvg-name="Com Deus no Caminho (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gf8UorHYHxTR8hZAgElXGHLWMDF.jpg" group-title="Filmes | Religioso",Com Deus no Caminho (2018)
+http://cdntac.xyz:80/movie/971263968/793975503/1735252.mp4
+#EXTINF:-1 tvg-name="Superação: O Milagre da Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg" group-title="Filmes | Religioso",Superação: O Milagre da Fé (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735348.mp4
+#EXTINF:-1 tvg-name="Moises" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg" group-title="Filmes | Religioso",Moises
+http://cdntac.xyz:80/movie/971263968/793975503/1735305.mp4
+#EXTINF:-1 tvg-name="Paulo de Tarso (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lmlNP6A0IZC8xTxSZZMzW6HBPp.jpg" group-title="Filmes | Religioso",Paulo de Tarso (2000)
+http://cdntac.xyz:80/movie/971263968/793975503/1735309.mp4
+#EXTINF:-1 tvg-name="Davi (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9490xgglsjhXFrH9rbjb44f1d9V.jpg" group-title="Filmes | Religioso",Davi (1997)
+http://cdntac.xyz:80/movie/971263968/793975503/1735317.mp4
+#EXTINF:-1 tvg-name="Sansão e Dalila (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogktP6YSpzo38XfIBblJgm8iaJy.jpg" group-title="Filmes | Religioso",Sansão e Dalila (1996)
+http://cdntac.xyz:80/movie/971263968/793975503/1735336.mp4
+#EXTINF:-1 tvg-name="Em Defesa de Cristo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxN3LztDtPus5JSOv1HiRHkSco.jpg" group-title="Filmes | Religioso",Em Defesa de Cristo (2017)
+http://cdntac.xyz:80/movie/971263968/793975503/1735274.mp4
+#EXTINF:-1 tvg-name="O Milagre em Cokeville (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMdxSIZrPdsCi4Q9XiOd1APMJKJ.jpg" group-title="Histórias que Inspiram",O Milagre em Cokeville (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735272.mp4
+#EXTINF:-1 tvg-name="O Milagre em Cokeville (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMdxSIZrPdsCi4Q9XiOd1APMJKJ.jpg" group-title="Mistérios que Mantêm Você na Ponta da Cadeira",O Milagre em Cokeville (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735272.mp4
+#EXTINF:-1 tvg-name="O Milagre em Cokeville (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMdxSIZrPdsCi4Q9XiOd1APMJKJ.jpg" group-title="Filmes | Religioso",O Milagre em Cokeville (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735272.mp4
+#EXTINF:-1 tvg-name="Deus Não Está Morto: Uma Luz na Escuridão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSV0a3TxdJCiniddhETG8EGVTeb.jpg" group-title="Filmes | Religioso",Deus Não Está Morto: Uma Luz na Escuridão (2018)
+http://cdntac.xyz:80/movie/971263968/793975503/1735280.mp4
+#EXTINF:-1 tvg-name="Salomão (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yMWQhq1P8Qczx2gyh7y2mGdTaS.jpg" group-title="Filmes | Religioso",Salomão (1997)
+http://cdntac.xyz:80/movie/971263968/793975503/1735344.mp4
+#EXTINF:-1 tvg-name="Genesis   A Criacao e o Diluvio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yMWQhq1P8Qczx2gyh7y2mGdTaS.jpg" group-title="Filmes | Religioso",Genesis   A Criacao e o Diluvio
+http://cdntac.xyz:80/movie/971263968/793975503/1735323.mp4
+#EXTINF:-1 tvg-name="Entre a Vingança e o Perdão (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EugZAIVqAVIVattPlKeAXM8lMi.jpg" group-title="Filmes | Religioso",Entre a Vingança e o Perdão (2015)
+http://cdntac.xyz:80/movie/971263968/793975503/1735290.mp4
+#EXTINF:-1 tvg-name="Milagres do Paraíso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="Para Toda Família",Milagres do Paraíso (2016)
+http://cdntac.xyz:80/movie/971263968/793975503/1735312.mp4
+#EXTINF:-1 tvg-name="Milagres do Paraíso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="Filmes | Religioso",Milagres do Paraíso (2016)
+http://cdntac.xyz:80/movie/971263968/793975503/1735312.mp4
+#EXTINF:-1 tvg-name="Homem de Fé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqlgOum1SYccUYN9wVM5bcu6Hk7.jpg" group-title="Histórias que Inspiram",Homem de Fé (2021)
+http://cdntac.xyz:80/movie/971263968/793975503/1735310.mp4
+#EXTINF:-1 tvg-name="Homem de Fé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqlgOum1SYccUYN9wVM5bcu6Hk7.jpg" group-title="Filmes | Religioso",Homem de Fé (2021)
+http://cdntac.xyz:80/movie/971263968/793975503/1735310.mp4
+#EXTINF:-1 tvg-name="Daniel na Cova dos Leões (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Filmes | Religioso",Daniel na Cova dos Leões (2006)
+http://cdntac.xyz:80/movie/971263968/793975503/1735266.mp4
+#EXTINF:-1 tvg-name="Salvo pela Graça (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utG8iiezSfmQyU8SuifRJjHReuR.jpg" group-title="Filmes | Religioso",Salvo pela Graça (2016)
+http://cdntac.xyz:80/movie/971263968/793975503/1735342.mp4
+#EXTINF:-1 tvg-name="À Procura da Liberdade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKzVrVF2fvgqYWDobzZbFKcNxL.jpg" group-title="Filmes para Cantar e Dançar Sem Parar",À Procura da Liberdade (2014)
+http://cdntac.xyz:80/movie/971263968/793975503/1735267.mp4
+#EXTINF:-1 tvg-name="À Procura da Liberdade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKzVrVF2fvgqYWDobzZbFKcNxL.jpg" group-title="Filmes | Religioso",À Procura da Liberdade (2014)
+http://cdntac.xyz:80/movie/971263968/793975503/1735267.mp4
+#EXTINF:-1 tvg-name="Ester, a Rainha da Pérsia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jabBz0hLli0xiwg5YTLC7becCYi.jpg" group-title="Filmes | Religioso",Ester, a Rainha da Pérsia (1999)
+http://cdntac.xyz:80/movie/971263968/793975503/1735322.mp4
+#EXTINF:-1 tvg-name="Emma: Uma Menina de Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydCXKSAA0CnlEeBzdZdeUisYdCk.jpg" group-title="Filmes | Religioso",Emma: Uma Menina de Fé (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735332.mp4
+#EXTINF:-1 tvg-name="Barrabas (1919)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVHMCQN4Grwf2SPLwWAM3tlVchB.jpg" group-title="Filmes | Religioso",Barrabas (1919)
+http://cdntac.xyz:80/movie/971263968/793975503/1735271.mp4
+#EXTINF:-1 tvg-name="Corpus Christi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94l5tagsFM2x8SFa0ANtUrcB5Il.jpg" group-title="Filmes | Religioso",Corpus Christi (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735278.mp4
+#EXTINF:-1 tvg-name="Paulo, Apóstolo de Cristo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J8IDXJlURmOwX3KnfYitSr7QbR.jpg" group-title="Filmes | Religioso",Paulo, Apóstolo de Cristo (2018)
+http://cdntac.xyz:80/movie/971263968/793975503/1735313.mp4
+#EXTINF:-1 tvg-name="A Paixão de Cristo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhepbUWTnLb9fm4qk9h52MYBszm.jpg" group-title="Filmes | Religioso",A Paixão de Cristo (2004)
+http://cdntac.xyz:80/movie/971263968/793975503/1735255.mp4
+#EXTINF:-1 tvg-name="Por que eu, Senhor? (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRSoc1Fe1oIWxgRAdm882AiZ1O7.jpg" group-title="Filmes | Religioso",Por que eu, Senhor? (2011)
+http://cdntac.xyz:80/movie/971263968/793975503/1735349.mp4
+#EXTINF:-1 tvg-name="A Virada (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gP8SLm29PL31W8Un77BANx0m3Dx.jpg" group-title="Para Toda Família",A Virada (2003)
+http://cdntac.xyz:80/movie/971263968/793975503/1735286.mp4
+#EXTINF:-1 tvg-name="A Virada (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gP8SLm29PL31W8Un77BANx0m3Dx.jpg" group-title="Filmes | Religioso",A Virada (2003)
+http://cdntac.xyz:80/movie/971263968/793975503/1735286.mp4
+#EXTINF:-1 tvg-name="Um Verão Para Recordar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmmq7RrLAEhonCxC8gVug1Ctcnd.jpg" group-title="Para Toda Família",Um Verão Para Recordar (2022)
+http://cdntac.xyz:80/movie/971263968/793975503/1735337.mp4
+#EXTINF:-1 tvg-name="Um Verão Para Recordar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmmq7RrLAEhonCxC8gVug1Ctcnd.jpg" group-title="Filmes | Religioso",Um Verão Para Recordar (2022)
+http://cdntac.xyz:80/movie/971263968/793975503/1735337.mp4
+#EXTINF:-1 tvg-name="Motel Acácia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7RLuWe4AXrA5udOZtn6lA3Tvmv.jpg" group-title="Mistérios que Mantêm Você na Ponta da Cadeira",Motel Acácia (2020)
+http://cdntac.xyz:80/movie/971263968/793975503/1735281.mp4
+#EXTINF:-1 tvg-name="Motel Acácia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7RLuWe4AXrA5udOZtn6lA3Tvmv.jpg" group-title="Filmes | Terror",Motel Acácia (2020)
+http://cdntac.xyz:80/movie/971263968/793975503/1735281.mp4
+#EXTINF:-1 tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes | Religioso",A Cabana (2017)
+http://cdntac.xyz:80/movie/971263968/793975503/1735261.mp4
+#EXTINF:-1 tvg-name="Graças a Deus (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGON91viglFuiug8BIue0JADxI7.jpg" group-title="Filmes | Religioso",Graças a Deus (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735292.mp4
+#EXTINF:-1 tvg-name="Nos Caminhos de Deus (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amkdnEjoAVzvWW2xKKdw256n606.jpg" group-title="Filmes | Religioso",Nos Caminhos de Deus (2019)
+http://cdntac.xyz:80/movie/971263968/793975503/1735282.mp4
+#EXTINF:-1 tvg-name="Uma Questão de Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDSxFpUzaopUJn8O4LWO29Dii5f.jpg" group-title="Filmes | Religioso",Uma Questão de Fé (2017)
+http://cdntac.xyz:80/movie/971263968/793975503/1735340.mp4
 #EXTINF:-1 tvg-name="Fã ou Hater? 4K (2025)" tvg-logo="http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/e9iG3bhtXqS3SH4wR9PJdvBYXAZ.jpg" group-title="♠️Filmes | 4K",Fã ou Hater? 4K (2025)
 http://aguacomgas.shop:80/movie/222222222/222222222/1363778.mp4
 #EXTINF:-1 tvg-name="Criaturas ao Ataque 4K (2020)" tvg-logo="http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/46FOJVvrOhq04WWZX35m4DYpSWb.jpg" group-title="♠️Filmes | 4K",Criaturas ao Ataque 4K (2020)
@@ -7798,202 +7950,6 @@ http://aguacomgas.shop:80/movie/222222222/222222222/1371959.mp4
 http://aguacomgas.shop:80/movie/222222222/222222222/1371962.mp4
 #EXTINF:-1 tvg-name="Aquaman (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CKtfsbNqAf0uDfpLfKQyig6SDu.jpg" group-title="♠️Filmes | 4K",Aquaman (2018)
 http://aguacomgas.shop:80/movie/222222222/222222222/1371968.mp4
-#EXTINF:-1 xui-id="13356" tvg-name="O Peregrino: Uma Jornada Para o Céu (2008)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd9Eat4w3rT11gmkKQydaMA0gZN4RiV3bRNv0qtgxf3M8.jpg" group-title="RELIGIOSOS",O Peregrino: Uma Jornada Para o Céu (2008)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJAMg7g1nEogR3yqh0O52TGHzJUeGNHdlzHa_llOY74U#.mp4
-#EXTINF:-1 xui-id="13345" tvg-name="Quarto de Guerra (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd2Oi74G52El_8YXg-3i6qyCre6bFPo_vYOoe7UDEgX20.jpg" group-title="RELIGIOSOS",Quarto de Guerra (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfFwl61M5k9dmv_m9yXpwaxjfos117YV9CZOIln5HeFEV#.mp4
-#EXTINF:-1 xui-id="13379" tvg-name="5DPz4InO3UUY94l2PT1jH6PsPFe.jpg" group title="Filmes | Religiosos"" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd2Oi74G52El_8YXg-3i6qyCre6bFPo_vYOoe7UDEgX20.jpg" group-title="RELIGIOSOS",5DPz4InO3UUY94l2PT1jH6PsPFe.jpg" group title="Filmes | Religiosos"
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfGj2FB1QLg8BIund7drARxOQDdleOZ5oLvgVP7BFd2g0#.mp4
-#EXTINF:-1 xui-id="13350" tvg-name="Você Acredita? (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdBFMDNV5UFdbh0lls7mNZCUsi64a0XDqEe5UNlQhRrRg.jpg" group-title="RELIGIOSOS",Você Acredita? (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJ-aSHh0FOqLGtQ7bRL7DRerbNzZuIxJHAeS9yWzYZjq#.mp4
-#EXTINF:-1 xui-id="13351" tvg-name="Deus Não Está Morto 2 (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdLAHlSPlEKREezsrWS2CbgdVJKBeGG2uXH9WomB7dhHU.jpg" group-title="RELIGIOSOS",Deus Não Está Morto 2 (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfCdGSsvysawiEi5sre8lj7nP-F78e6xVU32XsFPLbVoA#.mp4
-#EXTINF:-1 xui-id="13371" tvg-name="Orações para Bobby (2009)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdukHkQfJD1Mm_wboI3jRXW-ey0IcWw1PR3kbAU3MCA-4.jpg" group-title="RELIGIOSOS",Orações para Bobby (2009)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfD5PF8Gr7cmO0pCMvHUL94Mk3GxRYUabpHhBI4F12_y-#.mp4
-#EXTINF:-1 xui-id="13403" tvg-name="Nada a Perder 2: Não Se Pode Esconder a Verdade (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd4FfdTm6bdfi4u8CPekM8bdb_sWhajUfq8P-f5R6zGDs.jpg" group-title="RELIGIOSOS",Nada a Perder 2: Não Se Pode Esconder a Verdade (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfB35ZU2wunSqJ0PXpPY2CNXKC88SBhHD2JJ_ZA7At13-#.mp4
-#EXTINF:-1 xui-id="13393" tvg-name="Eu Acredito (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdr-tAY6X_Npb7lhFFhBAdEC4coahAa3Kp8hT3C0lJHfM.jpg" group-title="RELIGIOSOS",Eu Acredito (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfKJK9S8lReaJEWZuJQimHBiL8nYTIDyU1b6PPX3FVRwQ#.mp4
-#EXTINF:-1 xui-id="13427" tvg-name="Milagres do Paraíso (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdNdvMdgO8s04IJeFIYr9IEK7pQtXfwh5dDWsIlZViL2U.jpg" group-title="RELIGIOSOS",Milagres do Paraíso (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJREyQKYenrZsfOWcDqcfQ6QikTJR1gTwmrSSmcBLBQp#.mp4
-#EXTINF:-1 xui-id="13429" tvg-name="À Espera de um Milagre (1999)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdL8Q5IK98wHcGhJwqoLj2fzPaAvCBZxJHqKp4VDjPUow.jpg" group-title="RELIGIOSOS",À Espera de um Milagre (1999)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfMNEthPDJ3dR3Xm5KiJaAY0bk_cxny6NaAziATT-Brex#.mp4
-#EXTINF:-1 xui-id="13352" tvg-name="Talento e Fé (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdy6RGz95XdoBeI5UkujVEKY5oOGnvYqpKCKKsxI3Q5Qc.jpg" group-title="RELIGIOSOS",Talento e Fé (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfN6JABfo3sn4ZBmV0Patg2Q219V0jJJaH3IXnl59HJmX#.mp4
-#EXTINF:-1 xui-id="13364" tvg-name="Entre a Vingança e o Perdão (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd9tDMSz1ZnethIGk9fuSD9_zwpS-O1ofyD8l5zf4oLxc.jpg" group-title="RELIGIOSOS",Entre a Vingança e o Perdão (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfLc7vnQnBDxiknuAy34DSjaN9_kOlCvuzBhFcAXbWZsi#.mp4
-#EXTINF:-1 xui-id="13367" tvg-name="90 Minutos no Paraíso (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdcNheWOj4lkDv3b-8ipFfVZGYNQjH7RbV_-IVBQ8q5Ks.jpg" group-title="RELIGIOSOS",90 Minutos no Paraíso (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfA6n2rx0u1Nox_we4O1vIig-5ohMZiNsuNMfNOpu3gpO#.mp4
-#EXTINF:-1 xui-id="13435" tvg-name="Deixados para Trás 3: Mundo em Guerra (2005)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd9WErcd4gyZ8pjhZkkuZBtTps6dNwxUXtzQ9lfv_X4Oc.jpg" group-title="RELIGIOSOS",Deixados para Trás 3: Mundo em Guerra (2005)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfPidv0BU-ET2krphsETgJTXGsqtOroyWy5G04LXVqo07#.mp4
-#EXTINF:-1 xui-id="13375" tvg-name="Sansão (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdWNg2GLzgCZO1d0L3jnu0XrRGJEjlGTbFTtg5JgAtrhU.jpg" group-title="RELIGIOSOS",Sansão (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJxIZaKMxVlnPYkaaGRnAYHcDR3Kw0sIKvc-PxcH4uH-#.mp4
-#EXTINF:-1 xui-id="13374" tvg-name="Uma Vida Com Propósito (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdF3Tyqq_7Vxd0BWGm1g0mIiTXXXvbmcrrZeHoCkXade8.jpg" group-title="RELIGIOSOS",Uma Vida Com Propósito (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfDk8ExGI5kePMd0pn2B4lRxHpE490PRzpzAluyJ90cCm#.mp4
-#EXTINF:-1 xui-id="13361" tvg-name="O Som da Fé (2023)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdlVAKe0ulh0eIUMK1mAx3ZA4jaQuqydxdaYgLYX41jgE.jpg" group-title="RELIGIOSOS",O Som da Fé (2023)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfKk-Wgxidm7TsVfkjm0KNGeX4PBXZE1YNpznqevJasld#.mp4
-#EXTINF:-1 xui-id="13410" tvg-name="Deixados para Trás 2: Comando Tribulação (2002)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdrVMmhSe7hGgEVmxR1_Ur1EyioQOdVG3FkCZoRRaiGjM.jpg" group-title="RELIGIOSOS",Deixados para Trás 2: Comando Tribulação (2002)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfIWUajr8fD_Fi98AxtzUmEdrhiRoxxeR0NqkQSWMn3K2#.mp4
-#EXTINF:-1 xui-id="13362" tvg-name="Mais que Vencedores (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdGZ0wVw2qlljuwEVj1Z6V3F24k7kJXiIMMeG_jQ3VpVg.jpg" group-title="RELIGIOSOS",Mais que Vencedores (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfATx3xOkcng2gwgkQoL08OSfBVfnrqehyh2m6TjLxOUM#.mp4
-#EXTINF:-1 xui-id="13373" tvg-name="Onde Está Deus? (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd2nrPbTPiZIadEKwqhz3tx9qXRrP-gHHbO4TcNWDwyTk.jpg" group-title="RELIGIOSOS",Onde Está Deus? (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfKKpAD9DP9GbIpfh9ZAdBjavTlGOLgfwnazG5gCV5lYF#.mp4
-#EXTINF:-1 xui-id="13404" tvg-name="O Evangelho Segundo João (2003)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd2LSxeUtcLYwKwnMO0y4-tEcpqOhAV4kMJ7EjU8Q3NXY.jpg" group-title="RELIGIOSOS",O Evangelho Segundo João (2003)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfKeRcV3Xf-QdNyeR7ygiOERyfZ40ZaTihZ9sGXiRFdVg#.mp4
-#EXTINF:-1 xui-id="13383" tvg-name="A Colheita da Fé (2017)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdaZX38N6gHjMwjHBnoPepz78LpAOiInWOCn5PMy3f5Ao.jpg" group-title="RELIGIOSOS",A Colheita da Fé (2017)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfGDEq1QhN7OodlLDF6ZIpRG2GHQDbMJnwbz4xBP_L5LF#.mp4
-#EXTINF:-1 xui-id="13421" tvg-name="O Fazendeiro e Deus (2006)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd0ti_YIeubpD4V_PGjKOIAsGwIoIW0lx10WO-Kvemh9Y.jpg" group-title="RELIGIOSOS",O Fazendeiro e Deus (2006)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfFyYHbqRhuy80Xhl20uXGtiLDlsHyZaWbPIXdVz0hQ_H#.mp4
-#EXTINF:-1 xui-id="13346" tvg-name="O Milagre de Fátima (1952)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdTRmtGOTF3MbttVhelP3WDLn0W7cs4UVoh-PX5dibDBM.jpg" group-title="RELIGIOSOS",O Milagre de Fátima (1952)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfOs8t3AvB3ZPwGDTJsHXRv3HQr9b2yI_7Oo9QV9DQAOP#.mp4
-#EXTINF:-1 xui-id="13424" tvg-name="Nada a Perder (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdXCZD7v-Cqkk6Uc3RXk2C3IsEDOcp6iqOr-fQ3iaS3XQ.jpg" group-title="RELIGIOSOS",Nada a Perder (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJdEHZIPRBBh3Dmhac07h7y2r-XFWQm1hN45nXbR4BLa#.mp4
-#EXTINF:-1 xui-id="13397" tvg-name="Aparecida - O Milagre (2010)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdZI-Tv9S-7s_0AlCfX262AZ6CXfUxsIbwCKPkp1An1Bc.jpg" group-title="RELIGIOSOS",Aparecida - O Milagre (2010)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfDY6hpSwFd0W5vDfeL8TkTVJUL_XNg5A71AqNzjeOuXm#.mp4
-#EXTINF:-1 xui-id="13344" tvg-name="Em Defesa de Cristo (2017)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdiVwCTq54gX9Axa7odCRaeAn5QQ8UVySaAM2eCZD5oFk.jpg" group-title="RELIGIOSOS",Em Defesa de Cristo (2017)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJK5w-oNQanpYu2c9MrUTkBKXZquWgjtGahce2Ds7fW_#.mp4
-#EXTINF:-1 xui-id="13378" tvg-name="Deus Não Está Morto (2014)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRduxUibmLR45vSLgn1EK-H7syytDmOxKErHOIcY1Upivs.jpg" group-title="RELIGIOSOS",Deus Não Está Morto (2014)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfNx3yOyPJeAJ3r2wUkbgGbUGedWHXcb79MUDVzvoBClj#.mp4
-#EXTINF:-1 xui-id="13396" tvg-name="A Caminho da Fé (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd45ZXycX8C3sJZh2-_Jk8Oi-g81cGrLbP5YpMAL_Ry9I.jpg" group-title="RELIGIOSOS",A Caminho da Fé (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfB3ve5BlG_UzJy5YKpzcNSoJKnOn7Pp4DNEOBxOhnDD4#.mp4
-#EXTINF:-1 xui-id="13386" tvg-name="6J8IDXJlURmOwX3KnfYitSr7QbR.jpg" group title="Filmes | Religiosos"" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd45ZXycX8C3sJZh2-_Jk8Oi-g81cGrLbP5YpMAL_Ry9I.jpg" group-title="RELIGIOSOS",6J8IDXJlURmOwX3KnfYitSr7QbR.jpg" group title="Filmes | Religiosos"
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfOVgwuj_4k32gQ3WHRcm4jGFiNB4pYWITSqRINoC618W#.mp4
-#EXTINF:-1 xui-id="13413" tvg-name="Amor Incondicional: A História de Oseias (2012)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd_8_UzwwGNw6cxfquk_J_vAZOLAkDhKheQPtFpj4wP64.jpg" group-title="RELIGIOSOS",Amor Incondicional: A História de Oseias (2012)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfA8AnqNxSGpnW0qO72PrMSjMP5iKTHxlpp3Tbljyhj_L#.mp4
-#EXTINF:-1 xui-id="13437" tvg-name="No Tempo de Deus (2017)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdL-n9Ogt0q5Y261_xTZsbZLmXW_L4sI1PfsflbuvSavM.jpg" group-title="RELIGIOSOS",No Tempo de Deus (2017)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfMA0_tK7IsumY2TNePBW49XfSTUC_Ay8ZuNc7DDJhUNf#.mp4
-#EXTINF:-1 xui-id="13400" tvg-name="Barrabás (1961)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdUQ9-jLce_Bma6eRufdUxlVKQPaDfFaJSBOAwBlpwKHs.jpg" group-title="RELIGIOSOS",Barrabás (1961)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfOVdKVPwaWOp1-dicYiphJvvXbCphvDltw4_2eeR-TCO#.mp4
-#EXTINF:-1 xui-id="13414" tvg-name="Os Dez Mandamentos: O Filme (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd40PvK1_ug2IsTTzDEjLGaXY5mnNLPRIlmz_ltdynPdc.jpg" group-title="RELIGIOSOS",Os Dez Mandamentos: O Filme (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfC6tXe3yfqT1AT879imqrluD5QYHU-ypp3uTUA5mC0h-#.mp4
-#EXTINF:-1 xui-id="13439" tvg-name="Papa Francisco: Um Homem de Palavra (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdYyoiGBrZpzQUvBF7lOYbOJnKgsTiIfqg5mCsgfJJPic.jpg" group-title="RELIGIOSOS",Papa Francisco: Um Homem de Palavra (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfNWfHftNwbgoZxOqzoYlJJ0i2Dwk-xSo3y_3yocFf1lH#.mp4
-#EXTINF:-1 xui-id="13431" tvg-name="Pedro: A Redenção (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdnzr-bP0Svua9azeGLyvPwMN4Jh3JUVRWu0aBclzt9UE.jpg" group-title="RELIGIOSOS",Pedro: A Redenção (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfP6Ed-BQ2WRyQVJriHJHfurFVlzrr7zFjJHxoRmYHR6V#.mp4
-#EXTINF:-1 xui-id="13423" tvg-name="Desafiando Gigantes (2006)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd4igyTDA8yWZ2Jfs4zRTOnWSPYksXR8gCeruAdx0OAy0.jpg" group-title="RELIGIOSOS",Desafiando Gigantes (2006)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfDvxe298365GRhpUrD3tXGlFytDbreScrFWxEBw4tCSx#.mp4
-#EXTINF:-1 xui-id="13341" tvg-name="A Oração Não Falha (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdblSriZhsrBlYvchrfMt0Oa74EDKLgcMFbS4BMkNsYf4.jpg" group-title="RELIGIOSOS",A Oração Não Falha (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfDjQTQ6PsRBAh7Qd4U3l8xHRIiDTH8ItZmvU-gGWTaUa#.mp4
-#EXTINF:-1 xui-id="13418" tvg-name="Jesus De Nazare 4" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdblSriZhsrBlYvchrfMt0Oa74EDKLgcMFbS4BMkNsYf4.jpg" group-title="RELIGIOSOS",Jesus De Nazare 4
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfCNKENrLbYEyy3djmkkpbgw2s2N3MWMBhaSUMw5vVal5#.mp4
-#EXTINF:-1 xui-id="13380" tvg-name="O Poder da Graça (2011)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdsjtb0dK_0rkaoVHL7mwDVD-b_gdtznGKJ4O170XKo_w.jpg" group-title="RELIGIOSOS",O Poder da Graça (2011)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfEZamdUeEHSTmHicfPz_aTrE7CPxXURx7mOvjcgparON#.mp4
-#EXTINF:-1 xui-id="13347" tvg-name="O Jovem Messias (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd4JJU1EKe1KYqPX5UekLqTdtRna44MLJnlv0c5czTImc.jpg" group-title="RELIGIOSOS",O Jovem Messias (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfPPrjsy1hy2P_SnPooBtUDg9P4gAtbGI3fOek0u4v2px#.mp4
-#EXTINF:-1 xui-id="13417" tvg-name="José e Maria (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdpVLCW0PzaxAbILuaMgjtO90KHKOVYPqmnmjhhZaDDyM.jpg" group-title="RELIGIOSOS",José e Maria (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJrDU0KRlPz0kp3OgST8VnKBe3HEhQAFlod8GSrrdTu3#.mp4
-#EXTINF:-1 xui-id="13340" tvg-name="A Paixão de Cristo (2004)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdoxqGhBVNA0KFSDZK7idn1Y8jurKLoGrrMLxxVsEeeNk.jpg" group-title="RELIGIOSOS",A Paixão de Cristo (2004)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfPO9wV1zXuewBuWkABo53USfpBMeyPQrWQam85uaBCLD#.mp4
-#EXTINF:-1 xui-id="13349" tvg-name="Uma Batalha de Fé (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd5HP9JDutq90u4zucmxPzAr02GTb4MiB-aLowKFhpyaE.jpg" group-title="RELIGIOSOS",Uma Batalha de Fé (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfBaACKfXR-6ndJT7P-PvuYo3pwk-2zwpkLXeD2oNW6Nd#.mp4
-#EXTINF:-1 xui-id="13391" tvg-name="O Encontro Perfeito (2005)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdL5n8kS3tQhYClULnaYUZ-cbs6HljEZz6nrKaNlyuXFo.jpg" group-title="RELIGIOSOS",O Encontro Perfeito (2005)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfKxd9p7vU9y_iiRsXwPznQyJFLozPdq1AV_a-MpLiCtr#.mp4
-#EXTINF:-1 xui-id="13358" tvg-name="O Último Papa (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd72dilN55XBLNncPLbt0O8gUAiRNa4cYBnxOFGx-Ymzk.jpg" group-title="RELIGIOSOS",O Último Papa (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfMsxF2ex920NgLNx5Fkm7GYRnYddIhJ5LAu5RcUQqfdm#.mp4
-#EXTINF:-1 xui-id="13365" tvg-name="Maria: Mãe do Filho de Deus (2003)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdPxIsh-O2FxFc1q9pjvdF_RyCG0CXy8Gppkj-jujar5I.jpg" group-title="RELIGIOSOS",Maria: Mãe do Filho de Deus (2003)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfMPpYFRNhsyEzX7OOzar1BO-ib5hi5NA4JZFSBz55gWO#.mp4
-#EXTINF:-1 xui-id="13398" tvg-name="Nosso Lar (2010)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRddJwhZhgjoH5crvIMqBHdPc4QYSXKUtbJnclAxrAz5BA.jpg" group-title="RELIGIOSOS",Nosso Lar (2010)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfHjowfvbPiKdH1do3bmpXq78YZ_7nWmqop94pGgRwRqg#.mp4
-#EXTINF:-1 xui-id="13363" tvg-name="O Código de Deus (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdCFiMLWnZDNPJB2AuDbNQ3oU8q2KM8Q0UGxLVH2LV2g8.jpg" group-title="RELIGIOSOS",O Código de Deus (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfFrw6JQiC5qCYbuH4nuW0vH1HQ6TZQr5t3PwoxjbJZN6#.mp4
-#EXTINF:-1 xui-id="13419" tvg-name="Entrevista com Deus (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdmzJmWoNh3GJQXej5uroBpJXfTAWccgY0YQeCixOBaRQ.jpg" group-title="RELIGIOSOS",Entrevista com Deus (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfNzJctAosxALdJzqs_sRQgL8Nb2IarG_tNYivsCrsVgy#.mp4
-#EXTINF:-1 xui-id="13368" tvg-name="Eu Só Posso Imaginar (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd8DXoY2KREyZDztdsOv0xVqhlUVYNoZuMrIqvqt54hnU.jpg" group-title="RELIGIOSOS",Eu Só Posso Imaginar (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfBV7e4FdJW0R3oRCoij0Wxf5hMLX6ju9QBUvXl9LyPj2#.mp4
-#EXTINF:-1 xui-id="13384" tvg-name="Inabalável: A Trajetória de Amy Newhouse (2009)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdLxbeb1a2AKyO9_2-y3esy3HkkkPgtld8yv48ISD59-M.jpg" group-title="RELIGIOSOS",Inabalável: A Trajetória de Amy Newhouse (2009)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJTThCJply2u-iuU2SdSD9Hr_SIZLLVycmzZXdYIcBhr#.mp4
-#EXTINF:-1 xui-id="13438" tvg-name="A Semana da Minha Vida (2021)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd55Ce3Nz3kKauj9R7fLN6VoxBqdRWfVLYuM0zAgQEFwg.jpg" group-title="RELIGIOSOS",A Semana da Minha Vida (2021)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfCKi4AdFK1o0M15xLZOsDoWl95YwJQaWqoXshOGdWRTP#.mp4
-#EXTINF:-1 xui-id="13389" tvg-name="Emblema de Fé (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdox-_AJO0KC1zXnmCa3edPq8qpigyjxodAVI4RvyLPnI.jpg" group-title="RELIGIOSOS",Emblema de Fé (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfLkpSX76aorpdi6eHlho8Dxyf3VgDiZP7h2K6m4EuMHL#.mp4
-#EXTINF:-1 xui-id="13434" tvg-name="A História de Ester (2013)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd8_sOUEK5wTT2PTv0vzAF1WlnxJr_FfB0w57pXDjb2xo.jpg" group-title="RELIGIOSOS",A História de Ester (2013)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfGmPP6fG8cyOg6phR5Q-XXOE-c12cIUeVOhaHC1y0juB#.mp4
-#EXTINF:-1 xui-id="13385" tvg-name="Maria Madalena (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdp9wSgq1PGcMYNo0Skcq9hk7rgEGDfhbXbDEANl7NyOk.jpg" group-title="RELIGIOSOS",Maria Madalena (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfHrlFY0AtfhnqHicjtmiytv4aImAPsucO-aMqPtqCRPT#.mp4
-#EXTINF:-1 xui-id="13359" tvg-name="Superação: O Milagre da Fé (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdeVtg0ur-upUo9xcJAe-dlvpA2BkQSFWT4O0NB7xTF1c.jpg" group-title="RELIGIOSOS",Superação: O Milagre da Fé (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfIpSst_mCAsE6cvhCDstXd15ZfrxVm2v5zZlnW8YLO1X#.mp4
-#EXTINF:-1 xui-id="13425" tvg-name="Cartas para Deus (2010)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdUXKm8VcrrrnF77QVGJwHtlZoNlFrovtJRI-_GxUYCdo.jpg" group-title="RELIGIOSOS",Cartas para Deus (2010)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfB-xTpXRcRoaMGPdGXO_ra27ido2JIW6YF_UjU30BBTn#.mp4
-#EXTINF:-1 xui-id="13382" tvg-name="Quando os Sinos Tocam (2022)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdJFxNKSz2QJGBXpTH85rfJjp_f7aGVQM53zOpbvFq7ps.jpg" group-title="RELIGIOSOS",Quando os Sinos Tocam (2022)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfOn5vF_S0OTtXPdkxyd-K5fEzMCM3sb6WHckiWfnWSgW#.mp4
-#EXTINF:-1 xui-id="13390" tvg-name="O Soldado de Cristo (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdVQOaFSZjKDWfgdtCcQAzEHCrKZpp-YskybqhXu0RmbU.jpg" group-title="RELIGIOSOS",O Soldado de Cristo (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfL5fxdrKpQozmUhwsIUg2M3LIYvafPklx4cU-xjIBmZ-#.mp4
-#EXTINF:-1 xui-id="13355" tvg-name="O Filho de Deus (2014)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdTmJHdFOIyVE7s4HyC4CDP0TUmvyA49ue-U_dfGjF0lI.jpg" group-title="RELIGIOSOS",O Filho de Deus (2014)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfOUyvHY3up_S9AAPy6SY8XHf93rksAhACVFY3VzfIPkx#.mp4
-#EXTINF:-1 xui-id="13360" tvg-name="A Estrela de Belém (2017)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdLvyHXCegRfz7ewIBUkq4TzX_oGPEFV6MlIx_mA8wQ4U.jpg" group-title="RELIGIOSOS",A Estrela de Belém (2017)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfNw-rarFPwXXVR28E9EZumDySqlLw6fmQenMf2b9BoCY#.mp4
-#EXTINF:-1 xui-id="13354" tvg-name="O Salvador (2014)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdH8um0jkFDGsx0N_RCEl2K1Plaesf3VbKASfMlR0fCJA.jpg" group-title="RELIGIOSOS",O Salvador (2014)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfMBBNer0MiLwhSqSVjyZHQuwHh-Zw4S32mWlLlsPJqlX#.mp4
-#EXTINF:-1 xui-id="13430" tvg-name="Deus Não Está Morto: Uma Luz na Escuridão (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdUg04G4YWieI7JyW6uh0ErDn6pPpuUiVdvRYzFsHrnWw.jpg" group-title="RELIGIOSOS",Deus Não Está Morto: Uma Luz na Escuridão (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfLvgDBPFHoKAVaRg-2dhR4RF0V11cJN66s-pasP2dD4a#.mp4
-#EXTINF:-1 xui-id="13388" tvg-name="Um Coração que Perdoa (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdx2_TYYS6CXZ6VrcK4smrZ6B51L48qAOI4Cjl6cMm6MQ.jpg" group-title="RELIGIOSOS",Um Coração que Perdoa (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfEEvinhT7hGdEFiqHBfiZFW3NtQnBavyZUTFi0CJyVXb#.mp4
-#EXTINF:-1 xui-id="13409" tvg-name="A Luz Divina" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdx2_TYYS6CXZ6VrcK4smrZ6B51L48qAOI4Cjl6cMm6MQ.jpg" group-title="RELIGIOSOS",A Luz Divina
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfN-iKCHibSD7DNsixb-DrPt4Mc4xcLk9iUDjXmr96PeK#.mp4
-#EXTINF:-1 xui-id="13376" tvg-name="Grace (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd8CyDktbVyfaO4B6oh8KU4mxsbzuwkwZtL4R91rXgoHY.jpg" group-title="RELIGIOSOS",Grace (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfK1MvT6dAyPEore-vOzDLFZV1cBPSudN8rCn5Vcg6VSq#.mp4
-#EXTINF:-1 xui-id="13420" tvg-name="Graça e Perdão (2010)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRds-8Aj7W_yXKi4xZ_BeTdalgaMgx_5zf5C-QdE8ZOeVo.jpg" group-title="RELIGIOSOS",Graça e Perdão (2010)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfLhBS3u9viBiTXtMR5PpL_hENXHzutI3xgoVYFULnhuy#.mp4
-#EXTINF:-1 xui-id="13353" tvg-name="A Cabana (2017)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdD8_bPQZQ__GaT99Odninvix2QT99ddyWzHNZRtB4ZFo.jpg" group-title="RELIGIOSOS",A Cabana (2017)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfHd8I1vCY4XHfFboh5WWwbKYj53efHA_HFyTsCPEfuB6#.mp4
-#EXTINF:-1 xui-id="13401" tvg-name="A Filha do Pastor (2010)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdh32-b5ip16smYoVuDyS46qi9ZFQEWQR0ft-rY0Z1k3M.jpg" group-title="RELIGIOSOS",A Filha do Pastor (2010)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfCdjuihUUdCjIDsltpngSMj2iSnnuQpPHSIGfgMtY2sm#.mp4
-#EXTINF:-1 xui-id="13436" tvg-name="À Prova de Fogo (2008)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdNdK8crrREoXPRshWExq0F-fhO_ADSylzLakRtGiTV7o.jpg" group-title="RELIGIOSOS",À Prova de Fogo (2008)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJFhs3Z5xS-mQLuzvzrNnT37HDZUnbkfPx8BB_VXx90G#.mp4
-#EXTINF:-1 xui-id="13411" tvg-name="Amor Lapidado (2015)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd-tgbnaKma2t9iTJcYwvXoWQ1f-mOA29Sx07205h8CZk.jpg" group-title="RELIGIOSOS",Amor Lapidado (2015)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJ6PgtEMcw93boFYUoVxTci1ZAWFSDBrD98ngCMvCMMG#.mp4
-#EXTINF:-1 xui-id="13377" tvg-name="O Céu é de Verdade (2014)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdf_u_Vyp6gXzv6QRQPT1qAth8t_Di6DFfTqbkE2AMbN8.jpg" group-title="RELIGIOSOS",O Céu é de Verdade (2014)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfBhbI1Z0taT93AZqumWpPK7czvx1YklrNeXmvj6xhuuY#.mp4
-#EXTINF:-1 xui-id="13342" tvg-name="Conversando com Deus (2006)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRd_ih14Bm_k12a3yFyUL09zB5t2NrwCGDPUcnmjQU9UOw.jpg" group-title="RELIGIOSOS",Conversando com Deus (2006)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfFBX0eKIM2_-fifQV5tPLkXkqrx78yAaldKU4oa4bhoY#.mp4
-#EXTINF:-1 xui-id="13343" tvg-name="Noé (2014)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdkNkXDqKU_bpcHJDxHofLUsS5chfkreGsgj4VIE2X1z8.jpg" group-title="RELIGIOSOS",Noé (2014)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfFJIHXrdpWpUgbBurun6sSRgPRSfbwkEFQGb6daZmspG#.mp4
-#EXTINF:-1 xui-id="13348" tvg-name="Enquanto Estivermos Juntos (2020)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdOHxkUubn2oOVs4QcsZMzy2kK6-cPRDPAIXqet_QMk4o.jpg" group-title="RELIGIOSOS",Enquanto Estivermos Juntos (2020)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfNyprN1LeWl40fB6hksbaCidiQChLwbQZgp8X2Qm1bJ8#.mp4
-#EXTINF:-1 xui-id="13422" tvg-name="Corajosos (2011)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdQv3TVwVZoi_6t_pQ4lGn8YBzvA0tWiopC66oIRC7Yzc.jpg" group-title="RELIGIOSOS",Corajosos (2011)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfK2zuEzDdRCJSkasonbF_2mvTpDZSSU3HAavkdHFqAi_#.mp4
-#EXTINF:-1 xui-id="13370" tvg-name="O Livro de Gênesis (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdX1xDoFUTPpYpbxCida52UdEwfz6MY9gwYido6253Qrg.jpg" group-title="RELIGIOSOS",O Livro de Gênesis (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfGCJg4n0tWCxkl96uIz4stlGdHVWyVW49ITjKwjKK_sk#.mp4
-#EXTINF:-1 xui-id="13406" tvg-name="À Espreita (2023)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdoHYulusQ3ejucMDi5evoGwAlZJfBPZeYiY3vVV5HzGo.jpg" group-title="RELIGIOSOS",À Espreita (2023)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfBeEEhKWpg0eFzYwqdB9ji860br67uZAPt4tfCSrVTBd#.mp4
-#EXTINF:-1 xui-id="13432" tvg-name="Ressurreição (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdmEOLlWw872-q7UZQhV8ztW-TAOzJOl62ptZsBkLOUFc.jpg" group-title="RELIGIOSOS",Ressurreição (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfEZWbv_Fk8xGlEczLKxP7H54VBs0JGc6ZfhGMxsDUfys#.mp4
-#EXTINF:-1 xui-id="13369" tvg-name="Jesus De Nazare 2" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdmEOLlWw872-q7UZQhV8ztW-TAOzJOl62ptZsBkLOUFc.jpg" group-title="RELIGIOSOS",Jesus De Nazare 2
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfKwSPEQOywUrEQRZHzkdTum37rwf7qIHUIxOGMT5IDTE#.mp4
-#EXTINF:-1 xui-id="13428" tvg-name="Uma Questão de Fé (2017)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdlVAHjJHC3fHgDK-y5hGuOrWrJLJEiRPDShUkaES6STk.jpg" group-title="RELIGIOSOS",Uma Questão de Fé (2017)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJYJVdvb7cYtYXPaPTZMJC9AGIgB-d4D2DYrBPt-TB5j#.mp4
-#EXTINF:-1 xui-id="13366" tvg-name="Paulo de Tarso e A História do Cristianismo Primitivo (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdmyAyx_myDUmyI_RIVDLgNg-1XJW8ViT8JD-lE6EWEr0.jpg" group-title="RELIGIOSOS",Paulo de Tarso e A História do Cristianismo Primitivo (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfOw0_eIkDkOri05Y3EvMF-EoXN1FvqVypmlIXo-aDGXS#.mp4
-#EXTINF:-1 xui-id="13395" tvg-name="Lutero (2003)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdZJadnJxyng-9H1qYCh3ebC7Zumy23wVphNVkcuAyPuI.jpg" group-title="RELIGIOSOS",Lutero (2003)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfDD5Itb5f3CdY4_7JaHYALIsXRcSmvPQE2RlbXx6ozx0#.mp4
-#EXTINF:-1 xui-id="13357" tvg-name="Uma Prova de Fé 2: Voltando para Casa (2019)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdSKHmTC1j-AqUF92xqo4O87a2_eb7oXlSKrIWmMN_940.jpg" group-title="RELIGIOSOS",Uma Prova de Fé 2: Voltando para Casa (2019)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfBQCw4cqG6RL2QQHScoi95uvPnDF9Avrx6e0eQyqF5zx#.mp4
-#EXTINF:-1 xui-id="13405" tvg-name="As Histórias De Jonathan Sperry (2008)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdoMwSFV9H6eTKThoKhP71L-ITuR9xzMKSoKJIfFvmL1c.jpg" group-title="RELIGIOSOS",As Histórias De Jonathan Sperry (2008)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfHWX04qKvpqdbGTFIQbV7oTGyGREmGfwSn7nSv1bufzT#.mp4
-#EXTINF:-1 xui-id="13402" tvg-name="Deixados para Trás: O Filme (2000)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdlSCHlRJUmCwIlwuSYEu7Hx3GLGPGQj8ahMH_wB4OJTw.jpg" group-title="RELIGIOSOS",Deixados para Trás: O Filme (2000)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfF7WqhfwECjHROVZJ0x3w3F5GKfnWP0-jnCKrcDCZFtB#.mp4
-#EXTINF:-1 xui-id="13372" tvg-name="Uma Jornada de Perdão (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdwf_7yjEU8UdqFPD0KvHxPsD2-tu2FhSsBrBRVNjlxU0.jpg" group-title="RELIGIOSOS",Uma Jornada de Perdão (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfDGZra3ttrtXC9votWl6o5AwYBbqsgxN68BvcgjnOq1F#.mp4
-#EXTINF:-1 xui-id="13381" tvg-name="Jesus De Nazare 3" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdwf_7yjEU8UdqFPD0KvHxPsD2-tu2FhSsBrBRVNjlxU0.jpg" group-title="RELIGIOSOS",Jesus De Nazare 3
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfF1rK62_ZXIhdX8I4xe2OS62GFlXe1Dp0C9F45Iv3GqY#.mp4
-#EXTINF:-1 xui-id="13387" tvg-name="Davi vs. Golias: A Batalha Da Fé (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdbiGTicvW_cJzIARQqTls4LCL_d_WJtEOns9KjCOIfQQ.jpg" group-title="RELIGIOSOS",Davi vs. Golias: A Batalha Da Fé (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfIeBWY7rBFCJ8GnXNBbp--elNs_ZqIKafp-FSkXvkP3F#.mp4
-#EXTINF:-1 xui-id="13426" tvg-name="Pregando o Amor (2013)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdKDf8cjIEmpwX0Pz8mpdBeQLzEGMUuWD7RCyJyntHke8.jpg" group-title="RELIGIOSOS",Pregando o Amor (2013)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfEiPvXhZ0_XowYyI01tHF4Ng5n3oAP__1FzDellvDmWZ#.mp4
-#EXTINF:-1 xui-id="13415" tvg-name="Moisés (2023)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdJPqRpa2niNnkgNEXUMg2I48M3n3gCSahPa73G-x-eYU.jpg" group-title="RELIGIOSOS",Moisés (2023)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfGyPGnRPxlrgUrIN5tsHdMGSkaVojX4GV0Y5xyGH-kd6#.mp4
-#EXTINF:-1 xui-id="13392" tvg-name="A Profecia Celestina (2006)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdrhZrqWJMOpuR4_S_fV10tseWwm1mAvMHNIHhTKRffo0.jpg" group-title="RELIGIOSOS",A Profecia Celestina (2006)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfG2UVTYjAuWzcTedkVeauxS5u0HcGaOwTBJkOU57MYHF#.mp4
-#EXTINF:-1 xui-id="13412" tvg-name="Milagres de Jesus - O Filme (2016)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRddzSa5KTFyYzmsWNrnIh6zWXaitEDQpp9zpSh9LICtAM.jpg" group-title="RELIGIOSOS",Milagres de Jesus - O Filme (2016)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfJh4mwDKlovzHH5HvennOOQM5BJaY9CP5D7sWoewlXeS#.mp4
-#EXTINF:-1 xui-id="13407" tvg-name="O Pastor (1988)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdvZO0g1e1gBGQWcp6uFh7JLqEXiGJ544XuC1I0HRkAxQ.jpg" group-title="RELIGIOSOS",O Pastor (1988)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfHQeZHoBqoBiBuS_JihLdlPgPj9NiYLzZ8XU2rBW2zs8#.mp4
-#EXTINF:-1 xui-id="13394" tvg-name="Davi (2018)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdi-ylQYVcJQvF-c38cpChvgsoqCnBtMw1umyGAsZfhvQ.jpg" group-title="RELIGIOSOS",Davi (2018)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfCENsJvCh2Mhg3VsnnAU34Eb4BTBTpIakVV1AFEVBLHV#.mp4
-#EXTINF:-1 xui-id="13399" tvg-name="Jesus De Nazare 1" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdi-ylQYVcJQvF-c38cpChvgsoqCnBtMw1umyGAsZfhvQ.jpg" group-title="RELIGIOSOS",Jesus De Nazare 1
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfM98JpIE0HkfwXSaDvSBtlGn3waScZtSU6nsQBK6mBYt#.mp4
-#EXTINF:-1 xui-id="13408" tvg-name="O Rei dos Reis (1961)" tvg-logo="http://95.216.226.58:80/images/u9GTufe8lMOTSTPH8O7HPBkQd92lETNirH3c4ssk-jAnYAQQxAMsBS8JNSu9yQRdoOXlzHDHBygSsMZPhXPStkE7ilSTPocQB39Sq93rFSo.jpg" group-title="RELIGIOSOS",O Rei dos Reis (1961)
-http://inetplus.lat:80/play/ppWgMkrAgGAMgdw01vjXfOIp7fD-gaVin30IleMTh9afohDBOEq5wfX656w-aqZT#.mp4
 #EXTINF:-1 tvg-name="A Gente (2013)" tvg-logo="https://image.tmdb.org/t/p/w780/tGDnBdmJQEtXbVZ0EWmhCM5BTxD.jpg" group-title="✅ DOCUMENTÁRIOS ✔️",A Gente (2013)
 https://p2bin.pro:443/movie/7777777/7777777/7904634.mp4
 #EXTINF:-1 tvg-name="Carmen Miranda: Bananas Is My Business (1995)" tvg-logo="https://image.tmdb.org/t/p/w780/aYYFx5SDQmhTwZnYxSA3r5xlAir.jpg" group-title="✅ DOCUMENTÁRIOS ✔️",Carmen Miranda: Bananas Is My Business (1995)
