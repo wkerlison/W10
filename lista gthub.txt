@@ -1592,8 +1592,6 @@ http://edgenova.sbs:80/2421727/4412484/89890
 http://edgenova.sbs:80/2421727/4412484/1252045
 #EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="The Big Bang Theory 24H" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png" group-title="Canais | Séries 24h",The Big Bang Theory 24H
 http://edgenova.sbs:80/2421727/4412484/1252046
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cameras Escondidas Silvio Santos" tvg-logo="http://cc90.one/CUF2" group-title="Canais | 24 Horas",[24H] Cameras Escondidas Silvio Santos
-http://cdn11.cc:80/Maxportuga/Portuga/227530.ts
 #EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Todo Mundo Odeia o Chris 24H" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png" group-title="Canais | Séries 24h",Todo Mundo Odeia o Chris 24H
 http://edgenova.sbs:80/2421727/4412484/1252180
 #EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Um Maluco no Pedaço 24H" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png" group-title="Canais | Séries 24h",Um Maluco no Pedaço 24H
@@ -1776,36 +1774,6 @@ http://telha.cfd:80/437263130/c620q4216g/18259
 http://telha.cfd:80/437263130/c620q4216g/18260
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine Sky 09" tvg-logo="http://beststorage4you.com:80/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",Cine Sky 09
 http://telha.cfd:80/437263130/c620q4216g/18261
-#EXTINF:-1 tvg-id="" tvg-name="24H-PERNALONGA E SUA TURMA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24h",24H-PERNALONGA E SUA TURMA
-http://cdbnm.xyz:80/878298956/582441977/2299798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PICA-PAU" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24h",24H-PICA-PAU
-http://cdbnm.xyz:80/878298956/582441977/2299801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PINGU" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24h",24H-PINGU
-http://cdbnm.xyz:80/878298956/582441977/2299803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24h",24H-PANTERA COR DE ROSA
-http://cdbnm.xyz:80/878298956/582441977/2299825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24h",24H-PAPALEGUAS E COIOTE
-http://cdbnm.xyz:80/878298956/582441977/2299826.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-O NOVO TESTAMENTO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24h",24H-O NOVO TESTAMENTO
-http://cdbnm.xyz:80/878298956/582441977/2299852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Desenhos 24h",24H-OS SIMPSONS S01
-http://cdbnm.xyz:80/878298956/582441977/2299883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-POLICIA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-POLICIA
-http://cdbnm.xyz:80/878298956/582441977/2300087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAMATURGIA PANICO NA TV" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-DRAMATURGIA PANICO NA TV
-http://cdbnm.xyz:80/878298956/582441977/2300095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-FATOS DESCONHECIDOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-FATOS DESCONHECIDOS
-http://cdbnm.xyz:80/878298956/582441977/2300101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ESCOLINHA DO PROFESSOR RAIMUNDO
-http://cdbnm.xyz:80/878298956/582441977/2300105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-CIENCIA TODO DIA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-CIENCIA TODO DIA
-http://cdbnm.xyz:80/878298956/582441977/2300107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-OCEANO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-OCEANO
-http://cdbnm.xyz:80/878298956/582441977/2300108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS BARBIXAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-OS BARBIXAS
-http://cdbnm.xyz:80/878298956/582441977/2300109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-NATUREZA S01
-http://cdbnm.xyz:80/878298956/582441977/2300110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H Sobrenatural" tvg-logo="http://casatv.online:80/images/3fce7edfd3b70c0ee73fa06ba6aca6ae.jpg" group-title="CANAIS 24H",24H Sobrenatural
 http://sv1.casahd.com:80/jonathan01/123456/1765152.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaço" tvg-logo="https://occ-0-901-448.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" group-title="CANAIS 24H",24H Um Maluco no Pedaço
@@ -3825,28 +3793,6 @@ http://mainddnsplaytk.space:80/79265839428pr/5552654293/454761
 http://aguacomgas.shop:80/222222222/222222222/223563.ts
 #EXTINF:-1 tvg-id="" tvg-name="Playpoca Series" tvg-logo="https://logos.imperioapps.xyz/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Series
 http://aguacomgas.shop:80/222222222/222222222/223564.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-PEGADINHAS DO SILVIO SANTOS
-http://cdbnm.xyz:80/878298956/582441977/2300069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS JALALS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-PEGADINHAS JALALS
-http://cdbnm.xyz:80/878298956/582441977/2300070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS JOAO KLEBER" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-PEGADINHAS JOAO KLEBER
-http://cdbnm.xyz:80/878298956/582441977/2300071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TORAL 2015" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TORAL 2015
-http://cdbnm.xyz:80/878298956/582441977/2300072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 1999" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TOTAL 1999
-http://cdbnm.xyz:80/878298956/582441977/2300073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2000" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TOTAL 2000
-http://cdbnm.xyz:80/878298956/582441977/2300074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2006" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TOTAL 2006
-http://cdbnm.xyz:80/878298956/582441977/2300075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2007" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TOTAL 2007
-http://cdbnm.xyz:80/878298956/582441977/2300076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2012" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TOTAL 2012
-http://cdbnm.xyz:80/878298956/582441977/2300077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2013" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TOTAL 2013
-http://cdbnm.xyz:80/878298956/582441977/2300078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2014" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Premium 24h",24H-ZORRA TOTAL 2014
-http://cdbnm.xyz:80/878298956/582441977/2300079.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S01
 http://cdbnm.xyz:80/878298956/582441977/2300221.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H-SMALLVILLE S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais | Series 24h",24H-SMALLVILLE S02
@@ -5580,36 +5526,24 @@ http://aguacomgas.shop:80/series/222222222/222222222/2375826.mp4
 http://cdntac.xyz:80/movie/971263968/793975503/1735259.mp4
 #EXTINF:-1 tvg-name="Você Acredita? (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOcgjbRymDsFXrw19X5qRup6RKn.jpg" group-title="Filmes | Religioso",Você Acredita? (2015)
 http://cdntac.xyz:80/movie/971263968/793975503/1735350.mp4
-#EXTINF:-1 tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUbGV1J50LmoZ91oHoRglfRVRL0.jpg" group-title="Histórias que Inspiram",A Ressurreição de Jesus (2021)
-http://cdntac.xyz:80/movie/971263968/793975503/1735291.mp4
 #EXTINF:-1 tvg-name="A Ressurreição de Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUbGV1J50LmoZ91oHoRglfRVRL0.jpg" group-title="Filmes | Religioso",A Ressurreição de Jesus (2021)
 http://cdntac.xyz:80/movie/971263968/793975503/1735291.mp4
 #EXTINF:-1 tvg-name="No Caminho da Cura (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1t1bf7upwyEDq0OGpz0DvNhk7Ki.jpg" group-title="Filmes | Religioso",No Caminho da Cura (2021)
 http://cdntac.xyz:80/movie/971263968/793975503/1735302.mp4
 #EXTINF:-1 tvg-name="No Ritmo da Fé (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVWU32CuOOEuHxwEjI2NsI4WDc4.jpg" group-title="Filmes | Religioso",No Ritmo da Fé (2023)
 http://cdntac.xyz:80/movie/971263968/793975503/1735269.mp4
-#EXTINF:-1 tvg-name="Lutero (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gfNkXV9iXVhyHTPt5EVfpIBPPd.jpg" group-title="Histórias que Inspiram",Lutero (2003)
-http://cdntac.xyz:80/movie/971263968/793975503/1735315.mp4
 #EXTINF:-1 tvg-name="Lutero (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gfNkXV9iXVhyHTPt5EVfpIBPPd.jpg" group-title="Filmes | Religioso",Lutero (2003)
 http://cdntac.xyz:80/movie/971263968/793975503/1735315.mp4
 #EXTINF:-1 tvg-name="Nosso Lar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XeiiBxzXuT46deN8QmJaekHwqj.jpg" group-title="Filmes | Religioso",Nosso Lar (2010)
 http://cdntac.xyz:80/movie/971263968/793975503/1735328.mp4
-#EXTINF:-1 tvg-name="Barrabás (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAZeJbVvAYGXXJEH8a1g1vvgv5p.jpg" group-title="Histórias que Inspiram",Barrabás (2019)
-http://cdntac.xyz:80/movie/971263968/793975503/1735276.mp4
 #EXTINF:-1 tvg-name="Barrabás (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAZeJbVvAYGXXJEH8a1g1vvgv5p.jpg" group-title="Filmes | Religioso",Barrabás (2019)
 http://cdntac.xyz:80/movie/971263968/793975503/1735276.mp4
 #EXTINF:-1 tvg-name="Louis Theroux: The Ultra Zionists (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bMzBI8Ct4aTk2QGU2AqCmdynjy.jpg" group-title="Filmes | Religioso",Louis Theroux: The Ultra Zionists (2011)
 http://cdntac.xyz:80/movie/971263968/793975503/1735294.mp4
-#EXTINF:-1 tvg-name="O Mistério da Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyNXVboCNiKlD2G2hY0H97NPUG.jpg" group-title="Para Toda Família",O Mistério da Fé (2017)
-http://cdntac.xyz:80/movie/971263968/793975503/1735306.mp4
 #EXTINF:-1 tvg-name="O Mistério da Fé (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FyNXVboCNiKlD2G2hY0H97NPUG.jpg" group-title="Filmes | Religioso",O Mistério da Fé (2017)
 http://cdntac.xyz:80/movie/971263968/793975503/1735306.mp4
 #EXTINF:-1 tvg-name="Poderia Me Perdoar? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg" group-title="Filmes | Religioso",Poderia Me Perdoar? (2018)
 http://cdntac.xyz:80/movie/971263968/793975503/1735331.mp4
-#EXTINF:-1 tvg-name="O Jardim do Inimigo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uzlTulMRJjqmEjEViQ2qL511eJ.jpg" group-title="Para Toda Família",O Jardim do Inimigo (2011)
-http://cdntac.xyz:80/movie/971263968/793975503/1735326.mp4
-#EXTINF:-1 tvg-name="O Jardim do Inimigo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uzlTulMRJjqmEjEViQ2qL511eJ.jpg" group-title="Mistérios que Mantêm Você na Ponta da Cadeira",O Jardim do Inimigo (2011)
-http://cdntac.xyz:80/movie/971263968/793975503/1735326.mp4
 #EXTINF:-1 tvg-name="O Jardim do Inimigo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uzlTulMRJjqmEjEViQ2qL511eJ.jpg" group-title="Filmes | Religioso",O Jardim do Inimigo (2011)
 http://cdntac.xyz:80/movie/971263968/793975503/1735326.mp4
 #EXTINF:-1 tvg-name="Deus Não Está Morto (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urjNU6L1NMQVcN9JzmxlHoQhOs9.jpg" group-title="Filmes | Religioso",Deus Não Está Morto (2014)
@@ -5628,8 +5562,6 @@ http://cdntac.xyz:80/movie/971263968/793975503/1735268.mp4
 http://cdntac.xyz:80/movie/971263968/793975503/1735287.mp4
 #EXTINF:-1 tvg-name="Quarto de Guerra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyssvvCXc13c9VC7QTWjRo12FyE.jpg" group-title="Filmes | Religioso",Quarto de Guerra (2015)
 http://cdntac.xyz:80/movie/971263968/793975503/1735330.mp4
-#EXTINF:-1 tvg-name="Apóstolo Pedro e a Última Ceia (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvZUgMS7fc2BIkLcvKqFaMJ9gVv.jpg" group-title="Histórias que Inspiram",Apóstolo Pedro e a Última Ceia (2013)
-http://cdntac.xyz:80/movie/971263968/793975503/1735321.mp4
 #EXTINF:-1 tvg-name="Apóstolo Pedro e a Última Ceia (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvZUgMS7fc2BIkLcvKqFaMJ9gVv.jpg" group-title="Filmes | Religioso",Apóstolo Pedro e a Última Ceia (2013)
 http://cdntac.xyz:80/movie/971263968/793975503/1735321.mp4
 #EXTINF:-1 tvg-name="O Peregrino: Uma Jornada Para o Céu (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aE2ryADO2PVezrxVUUiBz6Niuj7.jpg" group-title="Filmes | Religioso",O Peregrino: Uma Jornada Para o Céu (2008)
@@ -5640,12 +5572,8 @@ http://cdntac.xyz:80/movie/971263968/793975503/1735296.mp4
 http://cdntac.xyz:80/movie/971263968/793975503/1735308.mp4
 #EXTINF:-1 tvg-name="José - O Favorito De Deus (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RdAYSlyAAa3xexhPsuY66Blj3i.jpg" group-title="Filmes | Religioso",José - O Favorito De Deus (1995)
 http://cdntac.xyz:80/movie/971263968/793975503/1735307.mp4
-#EXTINF:-1 tvg-name="Jaco (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKKmFdxwy7HEq5j98QOwlRratUo.jpg" group-title="Filmes para Cantar e Dançar Sem Parar",Jaco (2015)
-http://cdntac.xyz:80/movie/971263968/793975503/1735318.mp4
 #EXTINF:-1 tvg-name="Jaco (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKKmFdxwy7HEq5j98QOwlRratUo.jpg" group-title="Filmes | Religioso",Jaco (2015)
 http://cdntac.xyz:80/movie/971263968/793975503/1735318.mp4
-#EXTINF:-1 tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LD4vsEFV1o1vSt0LQf7v8IHma.jpg" group-title="Para Toda Família",A Estrela de Belém (2017)
-http://cdntac.xyz:80/movie/971263968/793975503/1735277.mp4
 #EXTINF:-1 tvg-name="A Estrela de Belém (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9LD4vsEFV1o1vSt0LQf7v8IHma.jpg" group-title="Filmes | Religioso",A Estrela de Belém (2017)
 http://cdntac.xyz:80/movie/971263968/793975503/1735277.mp4
 #EXTINF:-1 tvg-name="Jeremias (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoZWW32Jn2jYTvJ4lOQWNoA6VNI.jpg" group-title="Filmes | Religioso",Jeremias (1998)
@@ -5664,10 +5592,6 @@ http://cdntac.xyz:80/movie/971263968/793975503/1735317.mp4
 http://cdntac.xyz:80/movie/971263968/793975503/1735336.mp4
 #EXTINF:-1 tvg-name="Em Defesa de Cristo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyxN3LztDtPus5JSOv1HiRHkSco.jpg" group-title="Filmes | Religioso",Em Defesa de Cristo (2017)
 http://cdntac.xyz:80/movie/971263968/793975503/1735274.mp4
-#EXTINF:-1 tvg-name="O Milagre em Cokeville (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMdxSIZrPdsCi4Q9XiOd1APMJKJ.jpg" group-title="Histórias que Inspiram",O Milagre em Cokeville (2015)
-http://cdntac.xyz:80/movie/971263968/793975503/1735272.mp4
-#EXTINF:-1 tvg-name="O Milagre em Cokeville (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMdxSIZrPdsCi4Q9XiOd1APMJKJ.jpg" group-title="Mistérios que Mantêm Você na Ponta da Cadeira",O Milagre em Cokeville (2015)
-http://cdntac.xyz:80/movie/971263968/793975503/1735272.mp4
 #EXTINF:-1 tvg-name="O Milagre em Cokeville (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMdxSIZrPdsCi4Q9XiOd1APMJKJ.jpg" group-title="Filmes | Religioso",O Milagre em Cokeville (2015)
 http://cdntac.xyz:80/movie/971263968/793975503/1735272.mp4
 #EXTINF:-1 tvg-name="Deus Não Está Morto: Uma Luz na Escuridão (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSV0a3TxdJCiniddhETG8EGVTeb.jpg" group-title="Filmes | Religioso",Deus Não Está Morto: Uma Luz na Escuridão (2018)
@@ -5678,20 +5602,14 @@ http://cdntac.xyz:80/movie/971263968/793975503/1735344.mp4
 http://cdntac.xyz:80/movie/971263968/793975503/1735323.mp4
 #EXTINF:-1 tvg-name="Entre a Vingança e o Perdão (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EugZAIVqAVIVattPlKeAXM8lMi.jpg" group-title="Filmes | Religioso",Entre a Vingança e o Perdão (2015)
 http://cdntac.xyz:80/movie/971263968/793975503/1735290.mp4
-#EXTINF:-1 tvg-name="Milagres do Paraíso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="Para Toda Família",Milagres do Paraíso (2016)
-http://cdntac.xyz:80/movie/971263968/793975503/1735312.mp4
 #EXTINF:-1 tvg-name="Milagres do Paraíso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg" group-title="Filmes | Religioso",Milagres do Paraíso (2016)
 http://cdntac.xyz:80/movie/971263968/793975503/1735312.mp4
-#EXTINF:-1 tvg-name="Homem de Fé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqlgOum1SYccUYN9wVM5bcu6Hk7.jpg" group-title="Histórias que Inspiram",Homem de Fé (2021)
-http://cdntac.xyz:80/movie/971263968/793975503/1735310.mp4
 #EXTINF:-1 tvg-name="Homem de Fé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqlgOum1SYccUYN9wVM5bcu6Hk7.jpg" group-title="Filmes | Religioso",Homem de Fé (2021)
 http://cdntac.xyz:80/movie/971263968/793975503/1735310.mp4
 #EXTINF:-1 tvg-name="Daniel na Cova dos Leões (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Filmes | Religioso",Daniel na Cova dos Leões (2006)
 http://cdntac.xyz:80/movie/971263968/793975503/1735266.mp4
 #EXTINF:-1 tvg-name="Salvo pela Graça (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utG8iiezSfmQyU8SuifRJjHReuR.jpg" group-title="Filmes | Religioso",Salvo pela Graça (2016)
 http://cdntac.xyz:80/movie/971263968/793975503/1735342.mp4
-#EXTINF:-1 tvg-name="À Procura da Liberdade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKzVrVF2fvgqYWDobzZbFKcNxL.jpg" group-title="Filmes para Cantar e Dançar Sem Parar",À Procura da Liberdade (2014)
-http://cdntac.xyz:80/movie/971263968/793975503/1735267.mp4
 #EXTINF:-1 tvg-name="À Procura da Liberdade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGKzVrVF2fvgqYWDobzZbFKcNxL.jpg" group-title="Filmes | Religioso",À Procura da Liberdade (2014)
 http://cdntac.xyz:80/movie/971263968/793975503/1735267.mp4
 #EXTINF:-1 tvg-name="Ester, a Rainha da Pérsia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jabBz0hLli0xiwg5YTLC7becCYi.jpg" group-title="Filmes | Religioso",Ester, a Rainha da Pérsia (1999)
@@ -5712,14 +5630,8 @@ http://cdntac.xyz:80/movie/971263968/793975503/1735349.mp4
 http://cdntac.xyz:80/movie/971263968/793975503/1735286.mp4
 #EXTINF:-1 tvg-name="A Virada (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gP8SLm29PL31W8Un77BANx0m3Dx.jpg" group-title="Filmes | Religioso",A Virada (2003)
 http://cdntac.xyz:80/movie/971263968/793975503/1735286.mp4
-#EXTINF:-1 tvg-name="Um Verão Para Recordar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmmq7RrLAEhonCxC8gVug1Ctcnd.jpg" group-title="Para Toda Família",Um Verão Para Recordar (2022)
-http://cdntac.xyz:80/movie/971263968/793975503/1735337.mp4
 #EXTINF:-1 tvg-name="Um Verão Para Recordar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmmq7RrLAEhonCxC8gVug1Ctcnd.jpg" group-title="Filmes | Religioso",Um Verão Para Recordar (2022)
 http://cdntac.xyz:80/movie/971263968/793975503/1735337.mp4
-#EXTINF:-1 tvg-name="Motel Acácia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7RLuWe4AXrA5udOZtn6lA3Tvmv.jpg" group-title="Mistérios que Mantêm Você na Ponta da Cadeira",Motel Acácia (2020)
-http://cdntac.xyz:80/movie/971263968/793975503/1735281.mp4
-#EXTINF:-1 tvg-name="Motel Acácia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7RLuWe4AXrA5udOZtn6lA3Tvmv.jpg" group-title="Filmes | Terror",Motel Acácia (2020)
-http://cdntac.xyz:80/movie/971263968/793975503/1735281.mp4
 #EXTINF:-1 tvg-name="A Cabana (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf2WNfO1b0E1IcJDLUiGj7ccKRm.jpg" group-title="Filmes | Religioso",A Cabana (2017)
 http://cdntac.xyz:80/movie/971263968/793975503/1735261.mp4
 #EXTINF:-1 tvg-name="Graças a Deus (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGON91viglFuiug8BIue0JADxI7.jpg" group-title="Filmes | Religioso",Graças a Deus (2019)
