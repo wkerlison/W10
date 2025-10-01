@@ -586,6 +586,22 @@ http://edgenova.sbs:80/2421727/4412484/1191877
 http://edgenova.sbs:80/2421727/4412484/1191880
 #EXTINF:-1 tvg-id="Maissbt.br" tvg-name="SBT+ Tvzyn" tvg-logo="https://icons.ipcdn4.com/pasta%203/sbtmais.png" group-title="Canais | Abertos",SBT+ Tvzyn
 http://edgenova.sbs:80/2421727/4412484/1191881
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA 3" tvg-logo="" group-title="Canais | Estrela da Casa",ESTRELA DA CASA 3
+http://dnscine.top:80/987897148/178770797/1975966.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA 4" tvg-logo="" group-title="Canais | Estrela da Casa",ESTRELA DA CASA 4
+http://dnscine.top:80/987897148/178770797/1975967.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 01" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 01
+http://dnscine.top:80/987897148/178770797/1975984.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 02" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 02
+http://dnscine.top:80/987897148/178770797/1975985.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 03" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 03
+http://dnscine.top:80/987897148/178770797/1975986.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 04" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 04
+http://dnscine.top:80/987897148/178770797/1975987.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 05" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 05
+http://dnscine.top:80/987897148/178770797/1975988.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 06" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 06
+http://dnscine.top:80/987897148/178770797/1975989.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 01
 http://aguacomgas.shop:80/222222222/222222222/2602063.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 02
@@ -890,6 +906,152 @@ http://inetplus.lat:80/play/tf9kvD9_y30yUsMCekSOIi2iCVePk27Upl4L0HL84uQ/ts
 http://inetplus.lat:80/play/tf9kvD9_y30yUsMCekSOIl4GOID2uSfgVF9jODNlpvg/ts
 #EXTINF:-1 tvg-id="Sessao.da.Tarde.24H" tvg-name="Sessão da Tarde 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR2vfOrYViA6q5fm5JkADm-bv3VL86Hn1C9B1ePoz3fhw.png" group-title="24 Horas | Filmes e Series",Sessão da Tarde 24H
 http://dnscine.top:80/731656921/134825640/202266.ts
+#EXTINF:-1 tvg-id="CDZ.Saga.as.Doze.Casas.24H" tvg-name="CDZ Saga as Doze Casas 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRzOC7NsDpGLj1nEhLHSZDKFjMQT5YR9JWkObSmiiD7PQ.png" group-title="24 Horas | Teen",CDZ Saga as Doze Casas 24H
+http://dnscine.top:80/987897148/178770797/202248.ts
+#EXTINF:-1 tvg-id="Chapolin.2.24H" tvg-name="Chapolin 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQPcn2SYKMUPI63Rj7-sPdj.png" group-title="24 Horas | Teen",Chapolin 24H
+http://dnscine.top:80/987897148/178770797/202250.ts
+#EXTINF:-1 tvg-id="Chaves.24H" tvg-name="Chaves 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRMbevQ0N9pVyCqGvD_bbiS.png" group-title="24 Horas | Infantil",Chaves 24H
+http://dnscine.top:80/987897148/178770797/202304.ts
+#EXTINF:-1 tvg-id="Chaves.Desenho.24H" tvg-name="Chaves Desenho 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSp2BZ_NP-JrPwZOpT6Yhfu.png" group-title="24 Horas | Infantil",Chaves Desenho 24H
+http://dnscine.top:80/987897148/178770797/202302.ts
+#EXTINF:-1 tvg-id="Cine.Aventura.24H.HD" tvg-name="Cine Aventura" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRA8mNxS9VMeT0Ckbo6-SGl.png" group-title="24 Horas | Filmes e Series",Cine Aventura
+http://dnscine.top:80/987897148/178770797/202254.ts
+#EXTINF:-1 tvg-id="Cine.Action.24H.HD" tvg-name="Cine Ação 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTeXwcLmcMc1MAySSa1Ccja.png" group-title="24 Horas | Filmes e Series",Cine Ação 24H HD
+http://dnscine.top:80/987897148/178770797/202277.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL HD" tvg-logo="http://dnscine.top:80/images/b8f7e11a5b8b039c0bbc82d228721d7d.png" group-title="Canais | Abertos",CINE BRASIL HD
+http://dnscine.top:80/987897148/178770797/198.ts
+#EXTINF:-1 tvg-id="Cine.Fun.24H.HD" tvg-name="Cine Comedia 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSj-YUzXyOJ9GEjSEKGpq3r.png" group-title="24 Horas | Filmes e Series",Cine Comedia 24H HD
+http://dnscine.top:80/987897148/178770797/202275.ts
+#EXTINF:-1 tvg-id="Cine.Drama.24H.HD" tvg-name="Cine Drama 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSs8b7qVvxhbgY8kTjn_gaB.png" group-title="24 Horas | Filmes e Series",Cine Drama 24H HD
+http://dnscine.top:80/987897148/178770797/202255.ts
+#EXTINF:-1 tvg-id="Cine.Family.24H.HD" tvg-name="Cine Family 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQOofVksbj7gh1BBUd3SsU_TgRU_V70DDfzFXJkN3uK7g.png" group-title="24 Horas | Filmes e Series",Cine Family 24H HD
+http://dnscine.top:80/987897148/178770797/202276.ts
+#EXTINF:-1 tvg-id="Cine.Faroeste.24H.HD" tvg-name="Cine Faroeste 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTNVMyLVznMWGRmVoZKf5YjR7OVl8wz_fTZaF9pUjZ94Q.png" group-title="24 Horas | Filmes e Series",Cine Faroeste 24H HD
+http://dnscine.top:80/987897148/178770797/202261.ts
+#EXTINF:-1 tvg-id="Cine.Fiction.24H.HD" tvg-name="Cine Fiction 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQd7cYB-MF9FVVPODOdcyxi.png" group-title="24 Horas | Filmes e Series",Cine Fiction 24H HD
+http://dnscine.top:80/987897148/178770797/202258.ts
+#EXTINF:-1 tvg-id="Cine.Guerra.24H.HD" tvg-name="Cine Guerra 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRS8yiV1iGRI6gq5AIRaNMlZmDr8RD9gEEum8_xyzf2zrQ.png" group-title="24 Horas | Filmes e Series",Cine Guerra 24H HD
+http://dnscine.top:80/987897148/178770797/202259.ts
+#EXTINF:-1 tvg-id="Cine.kids.24H.HD" tvg-name="Cine kids 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQ36-IVjgsUmsSuqxrgvHkIDOpU_NvEmPKGwiOcaRY6ew.png" group-title="24 Horas | Filmes e Series",Cine kids 24H HD
+http://dnscine.top:80/987897148/178770797/202274.ts
+#EXTINF:-1 tvg-id="Cine.Nacionais.24H.HD" tvg-name="Cine Nacionais 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSs5ggVXilidmW4H2tsYuYl.png" group-title="24 Horas | Filmes e Series",Cine Nacionais 24H HD
+http://dnscine.top:80/987897148/178770797/202256.ts
+#EXTINF:-1 tvg-id="Cine.Horror.24H.HD" tvg-name="Cine Terror" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTkvevWusAu79BEzIaAObXy.png" group-title="24 Horas | Filmes e Series",Cine Terror
+http://dnscine.top:80/987897148/178770797/202273.ts
+#EXTINF:-1 tvg-id="Doug.24H" tvg-name="Doug 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQQXF95_86HvzlqTTF1lcL5.jpg" group-title="24 Horas | Infantil",Doug 24H
+http://dnscine.top:80/987897148/178770797/202296.ts
+#EXTINF:-1 tvg-id="Dr..House.2.24H" tvg-name="Dr. House 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTnAL9Fv0AaQUsGRXev8eza.png" group-title="24 Horas | Filmes e Series",Dr. House 24H
+http://dnscine.top:80/987897148/178770797/202263.ts
+#EXTINF:-1 tvg-id="Dragon.Ball.GT.24H" tvg-name="Dragon Ball GT 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR5z6oa5W9FUqlMmK5sX95Meih6NwiggjZ59e1jKkThPA.jpg" group-title="24 Horas | Teen",Dragon Ball GT 24H
+http://dnscine.top:80/987897148/178770797/202245.ts
+#EXTINF:-1 tvg-id="Dragon.Ball.Super.24H" tvg-name="Dragon Ball Super 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR5z6oa5W9FUqlMmK5sX95Meih6NwiggjZ59e1jKkThPA.jpg" group-title="24 Horas | Teen",Dragon Ball Super 24H
+http://dnscine.top:80/987897148/178770797/202229.ts
+#EXTINF:-1 tvg-id="Dragon.Ball.X.Freeza.24H" tvg-name="Dragon Ball X Freeza 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR5z6oa5W9FUqlMmK5sX95Meih6NwiggjZ59e1jKkThPA.jpg" group-title="24 Horas | Teen",Dragon Ball X Freeza 24H
+http://dnscine.top:80/987897148/178770797/202231.ts
+#EXTINF:-1 tvg-id="Dragon.Ball.Z.Androides.24H" tvg-name="Dragon Ball Z Androides 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR5z6oa5W9FUqlMmK5sX95Meih6NwiggjZ59e1jKkThPA.jpg" group-title="24 Horas | Teen",Dragon Ball Z Androides 24H
+http://dnscine.top:80/987897148/178770797/202234.ts
+#EXTINF:-1 tvg-id="Dragon.Ball.Z.Sayajins.24H" tvg-name="Dragon Ball Z Sayajins 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR5z6oa5W9FUqlMmK5sX95Meih6NwiggjZ59e1jKkThPA.jpg" group-title="24 Horas | Teen",Dragon Ball Z Sayajins 24H
+http://dnscine.top:80/987897148/178770797/202236.ts
+#EXTINF:-1 tvg-id="Dragoes..24H" tvg-name="Dragões  24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQxAlGWBSCwLe6rWfeF2cfE.png" group-title="24 Horas | Infantil",Dragões  24H
+http://dnscine.top:80/987897148/178770797/202300.ts
+#EXTINF:-1 tvg-id="Ducktales.24H" tvg-name="Ducktales 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQsdNLGTITV2yC4ELsljGG_.png" group-title="24 Horas | Infantil",Ducktales 24H
+http://dnscine.top:80/987897148/178770797/202301.ts
+#EXTINF:-1 tvg-id="Familia.da.Pesada.24H" tvg-name="Familia da Pesada 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTz08IRQYOjyHnryA34Tup8EOiO1cnywx8dBhgyg4Eeaw.jpg" group-title="24 Horas | Teen",Familia da Pesada 24H
+http://dnscine.top:80/987897148/178770797/202241.ts
+#EXTINF:-1 tvg-id="Familia.Dinossauro..24H" tvg-name="Familia Dinossauro  24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSky8YaqdqWkYdAtZ0wz6shFXc8luLN655FWx_sp2ahAg.jpg" group-title="24 Horas | Teen",Familia Dinossauro  24H
+http://dnscine.top:80/987897148/178770797/202238.ts
+#EXTINF:-1 tvg-id="Irmao.do.Jorel.24H" tvg-name="Irmão do Jorel 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRT2UYUI7O5Ss4Y9omm5TFxs1F2MnOK2qQvDAeoH2vl3wg.png" group-title="24 Horas | Infantil",Irmão do Jorel 24H
+http://dnscine.top:80/987897148/178770797/202289.ts
+#EXTINF:-1 tvg-id="Jaspion.24H" tvg-name="Jaspion 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQOKc9fo6H5NZMiDTRbBuPN.png" group-title="24 Horas | Tokatsu",Jaspion 24H
+http://dnscine.top:80/987897148/178770797/202318.ts
+#EXTINF:-1 tvg-id="JIBAN.24H" tvg-name="JIBAN 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQWdsbH933yQWfv-l9tNthS.png" group-title="24 Horas | Tokatsu",JIBAN 24H
+http://dnscine.top:80/987897148/178770797/202316.ts
+#EXTINF:-1 tvg-id="Jiraya..O.Incrivel.Ninja.24H" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQ8spwXRZnkyfNxQrfBxlwM.jpg" group-title="24 Horas | Tokatsu",Jiraya  O Incrivel Ninja 24H
+http://dnscine.top:80/987897148/178770797/202319.ts
+#EXTINF:-1 tvg-id="Kenan.e.Kell.24H" tvg-name="Kenan e Kell 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQdliM-oM0ayVlik6BpUnXKdQrSIH7Rd69FT1hz4Sxlfg.jpg" group-title="24 Horas | Teen",Kenan e Kell 24H
+http://dnscine.top:80/987897148/178770797/202247.ts
+#EXTINF:-1 tvg-id="Kim.Possible.24H" tvg-name="Kim Possible 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQQddDwAp3lYzl9RQFyDP4xdDhxcXXFcI5_-whlkFPC4g.jpg" group-title="24 Horas | Infantil",Kim Possible 24H
+http://dnscine.top:80/987897148/178770797/202280.ts
+#EXTINF:-1 tvg-id="KND.A.Turma.do.Bairro.24H" tvg-name="KND A Turma do Bairro 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQjHT_lYgh0_apsZJPTEE0v.jpg" group-title="24 Horas | Infantil",KND A Turma do Bairro 24H
+http://dnscine.top:80/987897148/178770797/202278.ts
+#EXTINF:-1 tvg-id="Larva.24H" tvg-name="Larva 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRuSbyGCMUyxdNPFLXCCubs.png" group-title="24 Horas | Infantil",Larva 24H
+http://dnscine.top:80/987897148/178770797/202312.ts
+#EXTINF:-1 tvg-id="Lion.Man.24H" tvg-name="Lion Man 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRS4_EOgsV6R2CWFpqdmPVzw.png" group-title="24 Horas | Tokatsu",Lion Man 24H
+http://dnscine.top:80/987897148/178770797/202314.ts
+#EXTINF:-1 tvg-id="Little.Baby.Bum.24H" tvg-name="Little Baby Bum 24H" tvg-logo="http://dnscine.top:80/images/c42649330320556afb2f6f965449d3f9.jpg" group-title="24 Horas | Baby",Little Baby Bum 24H
+http://dnscine.top:80/987897148/178770797/305881.ts
+#EXTINF:-1 tvg-id="Looney.Tunnes.24H" tvg-name="Looney Tunnes 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTDmqIf6YbXtAyPkoOosuXInGOyVdoLBbPpw2uu3Ya6_A.jpg" group-title="24 Horas | Infantil",Looney Tunnes 24H
+http://dnscine.top:80/987897148/178770797/202311.ts
+#EXTINF:-1 tvg-id="+.Globosat" tvg-name="Marvel & DC 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRq0fDD7cuZy7xw4mq-w0KD.jpg" group-title="24 Horas | Filmes e Series",Marvel & DC 24H
+http://dnscine.top:80/987897148/178770797/202257.ts
+#EXTINF:-1 tvg-id="Meu.Amigaozao.24H" tvg-name="Meu Amigãozão 24H" tvg-logo="http://dnscine.top:80/images/4881ab9d2104286c5ff0b6608080a392.png" group-title="24 Horas | Baby",Meu Amigãozão 24H
+http://dnscine.top:80/987897148/178770797/305885.ts
+#EXTINF:-1 tvg-id="Mickey.e.Donald.24H" tvg-name="Mickey e Donald 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTseJFGADpYHvIPqThKFBUEprUI4x9M9opsyXD6kaN7qx2ZQ6AMPkXSKkHddSVZ59Q.jpg" group-title="24 Horas | Infantil",Mickey e Donald 24H
+http://dnscine.top:80/987897148/178770797/202291.ts
+#EXTINF:-1 tvg-id="Miraculous.Lady.Bug.24H" tvg-name="Miraculous Lady Bug 24H" tvg-logo="http://dnscine.top:80/images/622c1c18cb6f249d15c2b13f09c87115.png" group-title="24 Horas | Baby",Miraculous Lady Bug 24H
+http://dnscine.top:80/987897148/178770797/305880.ts
+#EXTINF:-1 tvg-id="MR..Bean.24H" tvg-name="MR. Bean 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRyKZlJIgqT00-lGuduCSez.png" group-title="24 Horas | Teen",MR. Bean 24H
+http://dnscine.top:80/987897148/178770797/202239.ts
+#EXTINF:-1 tvg-id="MR..Bean.24H" tvg-name="MR. Bean Desenho 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSV1LCFu4W31L14kmYmGPZg.jpg" group-title="24 Horas | Infantil",MR. Bean Desenho 24H
+http://dnscine.top:80/987897148/178770797/202292.ts
+#EXTINF:-1 tvg-id="Mutante.Rex..24H" tvg-name="Mutante Rex  24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSAsCydjn8YAB1GtU2AEW0DNp6xfXw1UxxbyttZu-wnDw.png" group-title="24 Horas | Infantil",Mutante Rex  24H
+http://dnscine.top:80/987897148/178770797/202294.ts
+#EXTINF:-1 tvg-id="Naruto.24H" tvg-name="Naruto 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQNsAmFsP6Al9aLlX6X-hONHLbTn48aLwvgHk48_yc23A.png" group-title="24 Horas | Teen",Naruto 24H
+http://dnscine.top:80/987897148/178770797/202235.ts
+#EXTINF:-1 tvg-id="O.Laboratorio.do.Dexter.24H" tvg-name="O Laboratório do Dexter 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTRL9g5uD0nzOtYlQXsRLRxQzwC6ecz4MZlg7aeFwHtrw.png" group-title="24 Horas | Teen",O Laboratório do Dexter 24H
+http://dnscine.top:80/987897148/178770797/202251.ts
+#EXTINF:-1 tvg-id="O.Maskara.24H" tvg-name="O Máskara 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRS8y3RImjW2CVX2CQUEHCIm.png" group-title="24 Horas | Infantil",O Máskara 24H
+http://dnscine.top:80/987897148/178770797/202307.ts
+#EXTINF:-1 tvg-id="O.Pequeno.Urso.24H" tvg-name="O Pequeno Urso 24H" tvg-logo="http://dnscine.top:80/images/a09d469c1314df1350dc383f755b355a.jpg" group-title="24 Horas | Baby",O Pequeno Urso 24H
+http://dnscine.top:80/987897148/178770797/305884.ts
+#EXTINF:-1 tvg-id="O.Show.do.Ze.Colmeia.24H" tvg-name="O Show do Zé Colmeia 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSQ593eHgMH9t9qCDP6RntpwoCg-b3kwpbkNKqvSHfL7g.png" group-title="24 Horas | Infantil",O Show do Zé Colmeia 24H
+http://dnscine.top:80/987897148/178770797/202285.ts
+#EXTINF:-1 tvg-id="Operacao.Big.Hero.24H" tvg-name="Operação Big Hero 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR4ti9i9yDZvUW4mCjcSGCG8V_UXaxSO1T96qu_vhWY4Q.png" group-title="24 Horas | Infantil",Operação Big Hero 24H
+http://dnscine.top:80/987897148/178770797/202283.ts
+#EXTINF:-1 tvg-id="Os.3.patetas.24H" tvg-name="Os 3 patetas 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQHeoovfzPM0-sBkrP46NOT.png" group-title="24 Horas | Filmes e Series",Os 3 patetas 24H
+http://dnscine.top:80/987897148/178770797/202262.ts
+#EXTINF:-1 tvg-id="Os.Flintstones.1.24H" tvg-name="Os Flintstones 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQjyrQd56GNEq1o4D98FK71EwOZX1VuRxZ48UWdJgfKfA.jpg" group-title="24 Horas | Infantil",Os Flintstones 24H
+http://dnscine.top:80/987897148/178770797/202306.ts
+#EXTINF:-1 tvg-id="Os.Jetsons.24H" tvg-name="Os Jetsons 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRuYseBFR_UM3imuF2URViOZvyf11bgirms6Slvmp74Ug.jpg" group-title="24 Horas | Infantil",Os Jetsons 24H
+http://dnscine.top:80/987897148/178770797/202279.ts
+#EXTINF:-1 tvg-id="Os.Simpsons.2.24H" tvg-name="Os Simpsons 2 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRNfxYllBkXyUgPM1huC2GW.png" group-title="24 Horas | Teen",Os Simpsons 2 24H
+http://dnscine.top:80/987897148/178770797/202246.ts
+#EXTINF:-1 tvg-id="Os.Simpsons.24H" tvg-name="Os Simpsons 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRNfxYllBkXyUgPM1huC2GW.png" group-title="24 Horas | Teen",Os Simpsons 24H
+http://dnscine.top:80/987897148/178770797/202230.ts
+#EXTINF:-1 tvg-id="Os.Simpsons.2.24H" tvg-name="Os Simpsons 3 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRNfxYllBkXyUgPM1huC2GW.png" group-title="24 Horas | Teen",Os Simpsons 3 24H
+http://dnscine.top:80/987897148/178770797/202242.ts
+#EXTINF:-1 tvg-id="Os.Vingadores.24H" tvg-name="Os Vingadores 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRJI5OFJCKsjhQG_Jhl3gbbU_mxjEsJY7wiUgUqCL28gg.jpg" group-title="24 Horas | Teen",Os Vingadores 24H
+http://dnscine.top:80/987897148/178770797/202228.ts
+#EXTINF:-1 tvg-id="Pantera.Cor.de.Rosa.24H" tvg-name="Pantera Cor-de-Rosa 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSYHlD20orB7uoJQQSOty9k-oKCYFEuLaKqMV5tVVbfeQ.png" group-title="24 Horas | Infantil",Pantera Cor-de-Rosa 24H
+http://dnscine.top:80/987897148/178770797/202295.ts
+#EXTINF:-1 tvg-id="Peppa.Pig.24H" tvg-name="Peppa Pig 24H" tvg-logo="http://dnscine.top:80/images/b719df564f02f6215dae003fc82e96c1.png" group-title="24 Horas | Baby",Peppa Pig 24H
+http://dnscine.top:80/987897148/178770797/305874.ts
+#EXTINF:-1 tvg-id="Perdidos.no.Espaco.24H" tvg-name="Perdidos no Espaço 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQaU_L5qmunocRb1gYU_zshqhFIq5-CVXUnDcZhYDmE2Q.jpg" group-title="24 Horas | Filmes e Series",Perdidos no Espaço 24H
+http://dnscine.top:80/987897148/178770797/202264.ts
+#EXTINF:-1 tvg-id="Pica.Pau.24H" tvg-name="Pica Pau 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSNMdZEeSlVRCavAavV_1OcjQFHmo5Rb-ZWfJEZCL3FgQ.png" group-title="24 Horas | Infantil",Pica Pau 24H
+http://dnscine.top:80/987897148/178770797/202305.ts
+#EXTINF:-1 tvg-id="Pocoyo.24H" tvg-name="Pocoyo 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRkq703nhEfRC9g9W6ZrS32.png" group-title="24 Horas | Infantil",Pocoyo 24H
+http://dnscine.top:80/987897148/178770797/202303.ts
+#EXTINF:-1 tvg-id="Pocoyo.24H" tvg-name="Pocoyo 24H" tvg-logo="http://dnscine.top:80/images/60454609564ce46b7cb44499c1bf7a80.png" group-title="24 Horas | Baby",Pocoyo 24H
+http://dnscine.top:80/987897148/178770797/305878.ts
+#EXTINF:-1 tvg-id="Pokemon.24H" tvg-name="Pokemon 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQBUexyuarymhCt_YhYuo0w.jpg" group-title="24 Horas | Infantil",Pokemon 24H
+http://dnscine.top:80/987897148/178770797/202310.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSrZ5AC3QzwoNN8_KDyDqkxms4nuwVK6twjXIv62NXUBQ.png" group-title="24 Horas | Filmes e Series",Sai de Baixo 24H
+http://dnscine.top:80/987897148/178770797/202268.ts
+#EXTINF:-1 tvg-id="Scooby.Doo.24H" tvg-name="Scooby-Doo 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSgqAZetzbFJ7O2q_2D1J9F5Ory5fLU8oOvyXIWlGGx-Q.jpg" group-title="24 Horas | Infantil",Scooby-Doo 24H
+http://dnscine.top:80/987897148/178770797/202286.ts
+#EXTINF:-1 tvg-id="Sessao.da.Tarde.24H" tvg-name="Sessão da Tarde 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRR2vfOrYViA6q5fm5JkADm-bv3VL86Hn1C9B1ePoz3fhw.png" group-title="24 Horas | Filmes e Series",Sessão da Tarde 24H
+http://dnscine.top:80/987897148/178770797/202266.ts
+#EXTINF:-1 tvg-id="The.Backyardigans.24H" tvg-name="The Backyardigans 24H" tvg-logo="http://dnscine.top:80/images/0a9703f2343d6eb0aceaddf639a6dcbf.jpg" group-title="24 Horas | Baby",The Backyardigans 24H
+http://dnscine.top:80/987897148/178770797/305876.ts
+#EXTINF:-1 tvg-id="The.Big.Bang.Theory.24H" tvg-name="The Big Bang Theory 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRTDoonMapwf5TYDBLWs2A9u.png" group-title="24 Horas | Filmes e Series",The Big Bang Theory 24H
+http://dnscine.top:80/987897148/178770797/202272.ts
+#EXTINF:-1 tvg-id="The.Twilight.Zone.24H" tvg-name="The Twilight Zone 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRSOCev_phFhF8Gbz1HyCAJLr2FCk3zMEbXU86bdJAfNw.png" group-title="24 Horas | Filmes e Series",The Twilight Zone 24H
+http://dnscine.top:80/987897148/178770797/202265.ts
+#EXTINF:-1 tvg-id="ThunderCats.24H.HD" tvg-name="ThunderCats (2011) 24H HD" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRRDfvK55eWIqBIHm8z3t7cMWYzra7NLDDIhl39vPkWYCg.png" group-title="24 Horas | Infantil",ThunderCats (2011) 24H HD
+http://dnscine.top:80/987897148/178770797/202298.ts
+#EXTINF:-1 tvg-id="Timao.e.Pumba.24H" tvg-name="Timão e Pumba 24H" tvg-logo="http://dnscine.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRSUqsoCcTJejjz4hipJ-ajB.png" group-title="24 Horas | Infantil",Timão e Pumba 24H
+http://dnscine.top:80/987897148/178770797/202288.ts
 #EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris S01" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Seriados",Todo Mundo Odeia o Chris S01
 http://aguacomgas.shop:80/222222222/222222222/813462.ts
 #EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris S02" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Seriados",Todo Mundo Odeia o Chris S02
@@ -5554,6 +5716,650 @@ http://cdntac.xyz:80/movie/971263968/793975503/1735289.mp4
 http://cdntac.xyz:80/movie/971263968/793975503/1735248.mp4
 #EXTINF:-1 tvg-name="Luta Pela Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg" group-title="Filmes | Religioso",Luta Pela Fé (2019)
 http://cdntac.xyz:80/movie/971263968/793975503/1735299.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XrHXrzK6oNmDzogm8w1LENBvNu.jpg" group-title="Novelas",Os Dez Mandamentos S01E01
+http://dnscine.top:80/series/987897148/178770797/1954024.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLZYf87Gd7TDALKCZngm455lgpo.jpg" group-title="Novelas",Os Dez Mandamentos S01E02
+http://dnscine.top:80/series/987897148/178770797/1954025.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gevyQa2VUKvjtS5aTYW7o7wQRz0.jpg" group-title="Novelas",Os Dez Mandamentos S01E03
+http://dnscine.top:80/series/987897148/178770797/1954026.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7rDD1ihG2fLknxRXOcL6ApxZTJ.jpg" group-title="Novelas",Os Dez Mandamentos S01E04
+http://dnscine.top:80/series/987897148/178770797/1954027.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEA4ktAmAGr3OEJFth6aYLyVSuE.jpg" group-title="Novelas",Os Dez Mandamentos S01E05
+http://dnscine.top:80/series/987897148/178770797/1954028.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmmvczdZdmzllqlYH5nnDy6ecQo.jpg" group-title="Novelas",Os Dez Mandamentos S01E06
+http://dnscine.top:80/series/987897148/178770797/1954029.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5EehvDqi1IE4lCSG57FwAejzRz.jpg" group-title="Novelas",Os Dez Mandamentos S01E07
+http://dnscine.top:80/series/987897148/178770797/1954030.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngwpHEfMEZivHzJQIOj9I9KvkcK.jpg" group-title="Novelas",Os Dez Mandamentos S01E08
+http://dnscine.top:80/series/987897148/178770797/1954031.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUU6M0Es2sKclJ2cx7fFxcrBkPR.jpg" group-title="Novelas",Os Dez Mandamentos S01E09
+http://dnscine.top:80/series/987897148/178770797/1954032.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Cn9pVjBOTwFkkjjvQ3dP1s6Xmi.jpg" group-title="Novelas",Os Dez Mandamentos S01E10
+http://dnscine.top:80/series/987897148/178770797/1954033.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRvDhmhkOLHshqRShVy80Qe9Pjs.jpg" group-title="Novelas",Os Dez Mandamentos S01E11
+http://dnscine.top:80/series/987897148/178770797/1954034.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIWWi3zxHO6aDonntLgdlglHh1A.jpg" group-title="Novelas",Os Dez Mandamentos S01E12
+http://dnscine.top:80/series/987897148/178770797/1954035.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ib4diyWbJeaE6786T8nmNBsnk.jpg" group-title="Novelas",Os Dez Mandamentos S01E13
+http://dnscine.top:80/series/987897148/178770797/1954036.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZWD0QGL4yqN23a6JHG9q6EBq3f.jpg" group-title="Novelas",Os Dez Mandamentos S01E14
+http://dnscine.top:80/series/987897148/178770797/1954037.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wdRqg2Gv9fYTRLFbigoBmPJNqF.jpg" group-title="Novelas",Os Dez Mandamentos S01E15
+http://dnscine.top:80/series/987897148/178770797/1954038.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQVK9WKehwOM5JtNdVcVcVng4Zk.jpg" group-title="Novelas",Os Dez Mandamentos S01E16
+http://dnscine.top:80/series/987897148/178770797/1954039.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKKb5HFHhSVMigYTkoYjyqs3e7o.jpg" group-title="Novelas",Os Dez Mandamentos S01E17
+http://dnscine.top:80/series/987897148/178770797/1954040.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysRo3XoB4h6H1gPj3q4GsIQolu.jpg" group-title="Novelas",Os Dez Mandamentos S01E18
+http://dnscine.top:80/series/987897148/178770797/1954041.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgYoQW1Oc1juZLMFK4GsS0c2KFa.jpg" group-title="Novelas",Os Dez Mandamentos S01E19
+http://dnscine.top:80/series/987897148/178770797/1954042.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Nqyt2fFxYgOeeN6D9cydhQo6sq.jpg" group-title="Novelas",Os Dez Mandamentos S01E20
+http://dnscine.top:80/series/987897148/178770797/1954043.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNVNLcGO0NAwu0w24rSWhBzb6ow.jpg" group-title="Novelas",Os Dez Mandamentos S01E21
+http://dnscine.top:80/series/987897148/178770797/1954044.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWdlesz3EsriocOKrJgp6sdeFTI.jpg" group-title="Novelas",Os Dez Mandamentos S01E22
+http://dnscine.top:80/series/987897148/178770797/1954045.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WeobGdBY114xCsJjSONwyUgmFj.jpg" group-title="Novelas",Os Dez Mandamentos S01E23
+http://dnscine.top:80/series/987897148/178770797/1954046.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4wYg2ptLUzcjOu6srnXQqSIxB1.jpg" group-title="Novelas",Os Dez Mandamentos S01E24
+http://dnscine.top:80/series/987897148/178770797/1954047.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j3nPGMWCq2XpmYspk6pSvPGXHa.jpg" group-title="Novelas",Os Dez Mandamentos S01E25
+http://dnscine.top:80/series/987897148/178770797/1954048.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTkRT7fKFLUe0j0vk2Zw8MfBtuc.jpg" group-title="Novelas",Os Dez Mandamentos S01E26
+http://dnscine.top:80/series/987897148/178770797/1954049.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMy2Ey0aVGa0WHvEtCn7hBeWiWG.jpg" group-title="Novelas",Os Dez Mandamentos S01E27
+http://dnscine.top:80/series/987897148/178770797/1954050.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK2JFZ6Dh5Czz0st1tjhxyMgh2l.jpg" group-title="Novelas",Os Dez Mandamentos S01E28
+http://dnscine.top:80/series/987897148/178770797/1954051.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnYSan6iPHg2kkUGmoEZVRFC0Gk.jpg" group-title="Novelas",Os Dez Mandamentos S01E29
+http://dnscine.top:80/series/987897148/178770797/1954052.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yKA2lScJ1mbOp9LW01I6G5JyUB.jpg" group-title="Novelas",Os Dez Mandamentos S01E30
+http://dnscine.top:80/series/987897148/178770797/1954053.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDViMHZLwKqTWMvHw2QxyV2PDPA.jpg" group-title="Novelas",Os Dez Mandamentos S01E31
+http://dnscine.top:80/series/987897148/178770797/1954054.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRtrg96nfjtHU5oGTeLH04mkwXo.jpg" group-title="Novelas",Os Dez Mandamentos S01E32
+http://dnscine.top:80/series/987897148/178770797/1954055.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aClgusrijlXyVSeekWsJptsc6Le.jpg" group-title="Novelas",Os Dez Mandamentos S01E33
+http://dnscine.top:80/series/987897148/178770797/1954056.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFGGBGnZR0suBgeNWJtOaM52ByM.jpg" group-title="Novelas",Os Dez Mandamentos S01E34
+http://dnscine.top:80/series/987897148/178770797/1954057.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OY4Mt2qofB1ORpU9ThfKENI9Pl.jpg" group-title="Novelas",Os Dez Mandamentos S01E35
+http://dnscine.top:80/series/987897148/178770797/1954058.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQy1zoBnizMjiFbTIFl7ErokNV.jpg" group-title="Novelas",Os Dez Mandamentos S01E36
+http://dnscine.top:80/series/987897148/178770797/1954059.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3lTSeCUdozE64TBHLwO7XRYu8c.jpg" group-title="Novelas",Os Dez Mandamentos S01E37
+http://dnscine.top:80/series/987897148/178770797/1954060.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JqVn54kLqTV5HKlEYrbeS4qrDm.jpg" group-title="Novelas",Os Dez Mandamentos S01E38
+http://dnscine.top:80/series/987897148/178770797/1954061.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55WRFu0cGiRwZdUeGAfJ6mhpGrr.jpg" group-title="Novelas",Os Dez Mandamentos S01E39
+http://dnscine.top:80/series/987897148/178770797/1954062.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRYOBDXU31wSavxzh2lCVpNGz1Q.jpg" group-title="Novelas",Os Dez Mandamentos S01E40
+http://dnscine.top:80/series/987897148/178770797/1954063.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXMmMKtZlSTok7eYujQcRlsuv1e.jpg" group-title="Novelas",Os Dez Mandamentos S01E41
+http://dnscine.top:80/series/987897148/178770797/1954064.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6WrFmrJMrzwLCXg2XzVbUmT9LW.jpg" group-title="Novelas",Os Dez Mandamentos S01E42
+http://dnscine.top:80/series/987897148/178770797/1954065.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siT38TRl2OQtlvcPICxqZyqqayH.jpg" group-title="Novelas",Os Dez Mandamentos S01E43
+http://dnscine.top:80/series/987897148/178770797/1954066.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkNQDgL1k5Hh8oF9WBnsxorokAy.jpg" group-title="Novelas",Os Dez Mandamentos S01E44
+http://dnscine.top:80/series/987897148/178770797/1954067.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgDTIvOzq6derJzltVaPH4aHpGy.jpg" group-title="Novelas",Os Dez Mandamentos S01E45
+http://dnscine.top:80/series/987897148/178770797/1954068.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOIDbtVLVrn7nupBpJLpnFTdLz9.jpg" group-title="Novelas",Os Dez Mandamentos S01E46
+http://dnscine.top:80/series/987897148/178770797/1954069.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjzfya6SKphUk4cPmLySmplBpW4.jpg" group-title="Novelas",Os Dez Mandamentos S01E47
+http://dnscine.top:80/series/987897148/178770797/1954070.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbMq2tfG7X7XWiQaZS6Jf4e4Gad.jpg" group-title="Novelas",Os Dez Mandamentos S01E48
+http://dnscine.top:80/series/987897148/178770797/1954071.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbdeoNP5MpFv4VdI5wrcOfXsqFE.jpg" group-title="Novelas",Os Dez Mandamentos S01E49
+http://dnscine.top:80/series/987897148/178770797/1954072.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWcGTUXj2OYB30hLQRevx4y9WGw.jpg" group-title="Novelas",Os Dez Mandamentos S01E50
+http://dnscine.top:80/series/987897148/178770797/1954073.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p40vt1ld0GsanLEmQ65Kem9UGwf.jpg" group-title="Novelas",Os Dez Mandamentos S01E51
+http://dnscine.top:80/series/987897148/178770797/1954074.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10yjgccUsv5NB8nuIXgWBzNmpwg.jpg" group-title="Novelas",Os Dez Mandamentos S01E52
+http://dnscine.top:80/series/987897148/178770797/1954075.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAK1HHhOl65LmMsmRfFOBIkrooR.jpg" group-title="Novelas",Os Dez Mandamentos S01E53
+http://dnscine.top:80/series/987897148/178770797/1954076.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBHfNPBu2myX5WHURUE3FpQHl6h.jpg" group-title="Novelas",Os Dez Mandamentos S01E54
+http://dnscine.top:80/series/987897148/178770797/1954077.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Rclk0oMixDUL6P1UwfyKw5SgSu.jpg" group-title="Novelas",Os Dez Mandamentos S01E55
+http://dnscine.top:80/series/987897148/178770797/1954078.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mD9Ke6bvlATXKwJ2gYg9bfFQ12.jpg" group-title="Novelas",Os Dez Mandamentos S01E56
+http://dnscine.top:80/series/987897148/178770797/1954079.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46ui4JALNuqb9kaFRw5CNv9yccN.jpg" group-title="Novelas",Os Dez Mandamentos S01E57
+http://dnscine.top:80/series/987897148/178770797/1954080.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OQnSxnYKV95iKyB5rQRgkqmz9Q.jpg" group-title="Novelas",Os Dez Mandamentos S01E58
+http://dnscine.top:80/series/987897148/178770797/1954081.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeGCZ1yh6qoP43DZO8QpZvMVnxV.jpg" group-title="Novelas",Os Dez Mandamentos S01E59
+http://dnscine.top:80/series/987897148/178770797/1954082.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKd97gS4dxZwL65SvUK0eGW3vHh.jpg" group-title="Novelas",Os Dez Mandamentos S01E60
+http://dnscine.top:80/series/987897148/178770797/1954083.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdrpyH3sF1lJfRC8IoANSU5ju7r.jpg" group-title="Novelas",Os Dez Mandamentos S01E61
+http://dnscine.top:80/series/987897148/178770797/1954084.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XZDT4Kd9BBxzR4ZkIyTsmiwjgn.jpg" group-title="Novelas",Os Dez Mandamentos S01E62
+http://dnscine.top:80/series/987897148/178770797/1954085.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOLEtEcVto2VqHUdFoEQw2IthFe.jpg" group-title="Novelas",Os Dez Mandamentos S01E63
+http://dnscine.top:80/series/987897148/178770797/1954086.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amWx1dC1aBlbTHfs8giWdA8MRgL.jpg" group-title="Novelas",Os Dez Mandamentos S01E64
+http://dnscine.top:80/series/987897148/178770797/1954087.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEmHgbwbF35G7A3VxWvZeN9M1Hf.jpg" group-title="Novelas",Os Dez Mandamentos S01E65
+http://dnscine.top:80/series/987897148/178770797/1954088.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKnQBbVxBZ3N4iKMPtqGdm5f2z7.jpg" group-title="Novelas",Os Dez Mandamentos S01E66
+http://dnscine.top:80/series/987897148/178770797/1954089.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EAyNMyTu0Hte5bmjcepT13R2IP.jpg" group-title="Novelas",Os Dez Mandamentos S01E67
+http://dnscine.top:80/series/987897148/178770797/1954090.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAuZvIvi2EQT4Eg2O8zZQWxabsO.jpg" group-title="Novelas",Os Dez Mandamentos S01E68
+http://dnscine.top:80/series/987897148/178770797/1954091.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4GbweqSx5WLjk22hsAdc0bGXtd.jpg" group-title="Novelas",Os Dez Mandamentos S01E69
+http://dnscine.top:80/series/987897148/178770797/1954092.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAAeOvCZGZnk1YC4Pf4yokEOchk.jpg" group-title="Novelas",Os Dez Mandamentos S01E70
+http://dnscine.top:80/series/987897148/178770797/1954093.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agLEJR7Hh2qqi9ux07Bk24sjDGY.jpg" group-title="Novelas",Os Dez Mandamentos S01E71
+http://dnscine.top:80/series/987897148/178770797/1954094.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4jL5dryfV6H2mYKo8q3Yhw4RoE.jpg" group-title="Novelas",Os Dez Mandamentos S01E72
+http://dnscine.top:80/series/987897148/178770797/1954095.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVTKus8kLFFdq4ifbeVYT0stCl2.jpg" group-title="Novelas",Os Dez Mandamentos S01E73
+http://dnscine.top:80/series/987897148/178770797/1954096.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqzZ4BUTaJZWzNN237dFrB6YQs2.jpg" group-title="Novelas",Os Dez Mandamentos S01E74
+http://dnscine.top:80/series/987897148/178770797/1954097.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRuM5PWZE7jkb00cXlC0NSY8jq5.jpg" group-title="Novelas",Os Dez Mandamentos S01E75
+http://dnscine.top:80/series/987897148/178770797/1954098.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7M6WQJyFJl6cDYnOEF5Mj5n6wc.jpg" group-title="Novelas",Os Dez Mandamentos S01E76
+http://dnscine.top:80/series/987897148/178770797/1954099.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xlHDjWJgbrzZjaElRgrcrPpmQi.jpg" group-title="Novelas",Os Dez Mandamentos S01E77
+http://dnscine.top:80/series/987897148/178770797/1954100.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVp91AA0PUnpyRVBmGKM2TADJLD.jpg" group-title="Novelas",Os Dez Mandamentos S01E78
+http://dnscine.top:80/series/987897148/178770797/1954101.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgqHkHovZboE1WmKutp5VmgIDu1.jpg" group-title="Novelas",Os Dez Mandamentos S01E79
+http://dnscine.top:80/series/987897148/178770797/1954102.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alEyWxMLa5SYxPBDCbgqQINQmeT.jpg" group-title="Novelas",Os Dez Mandamentos S01E80
+http://dnscine.top:80/series/987897148/178770797/1954103.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGY2y1ugYkS7axKELiTPKzFOL37.jpg" group-title="Novelas",Os Dez Mandamentos S01E81
+http://dnscine.top:80/series/987897148/178770797/1954104.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qUYt22wWQuFwaWy5FhwyUMZwyZ.jpg" group-title="Novelas",Os Dez Mandamentos S01E82
+http://dnscine.top:80/series/987897148/178770797/1954105.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WYvYBXb1vw49MlS2LYDhHscxAH.jpg" group-title="Novelas",Os Dez Mandamentos S01E83
+http://dnscine.top:80/series/987897148/178770797/1954106.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0TTuqPtQwYKo5OVzlS06D5YVyC.jpg" group-title="Novelas",Os Dez Mandamentos S01E84
+http://dnscine.top:80/series/987897148/178770797/1954107.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olDY6UASeFPcrdYr4SEcXZRQuvC.jpg" group-title="Novelas",Os Dez Mandamentos S01E85
+http://dnscine.top:80/series/987897148/178770797/1954108.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hnWiTY3zAKoJt9NMvWHvZttrwV.jpg" group-title="Novelas",Os Dez Mandamentos S01E86
+http://dnscine.top:80/series/987897148/178770797/1954109.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aznqq2sDmHZcgCdj8YOfREcFI6M.jpg" group-title="Novelas",Os Dez Mandamentos S01E87
+http://dnscine.top:80/series/987897148/178770797/1954110.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahq7Koh2ch7MgQrUbR3xcqtkzT9.jpg" group-title="Novelas",Os Dez Mandamentos S01E88
+http://dnscine.top:80/series/987897148/178770797/1954111.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TZ6xT4S92NTOD91WvpsVeHaLTO.jpg" group-title="Novelas",Os Dez Mandamentos S01E89
+http://dnscine.top:80/series/987897148/178770797/1954112.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DdNJNVEBXvsaFUeZV68j7NPi9v.jpg" group-title="Novelas",Os Dez Mandamentos S01E90
+http://dnscine.top:80/series/987897148/178770797/1954113.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FjNafGXkc27IgtOJGUveqpgtCc.jpg" group-title="Novelas",Os Dez Mandamentos S01E91
+http://dnscine.top:80/series/987897148/178770797/1954114.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Krg8VdtOeFGUgvrtjdh8ZklJbP.jpg" group-title="Novelas",Os Dez Mandamentos S01E92
+http://dnscine.top:80/series/987897148/178770797/1954115.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXETm33RmiIHf5TjaCpUZ4L0owC.jpg" group-title="Novelas",Os Dez Mandamentos S01E93
+http://dnscine.top:80/series/987897148/178770797/1954116.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCAKnCrv9mnzCFPCaoOoPsiE0bo.jpg" group-title="Novelas",Os Dez Mandamentos S01E94
+http://dnscine.top:80/series/987897148/178770797/1954117.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hskXMaEHEHtzPobIV0EWPiK0DLU.jpg" group-title="Novelas",Os Dez Mandamentos S01E95
+http://dnscine.top:80/series/987897148/178770797/1954118.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1icLLFkVaJoRbYzjx77qgNcBLe1.jpg" group-title="Novelas",Os Dez Mandamentos S01E96
+http://dnscine.top:80/series/987897148/178770797/1954119.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqCn65KWMqcveQQRPZjWIGxWT7n.jpg" group-title="Novelas",Os Dez Mandamentos S01E97
+http://dnscine.top:80/series/987897148/178770797/1954120.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMsJAa84HIgGdCxJWgqoP3NXZY3.jpg" group-title="Novelas",Os Dez Mandamentos S01E98
+http://dnscine.top:80/series/987897148/178770797/1954121.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1lwMhGVUBO8D3KMMN7MxVVAd6T.jpg" group-title="Novelas",Os Dez Mandamentos S01E99
+http://dnscine.top:80/series/987897148/178770797/1954122.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EnABKC1yCDVVt5FMw0J8kn5fGg.jpg" group-title="Novelas",Os Dez Mandamentos S01E100
+http://dnscine.top:80/series/987897148/178770797/1954123.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePwopRG1YmfsA6gxWlLNf8gdtvA.jpg" group-title="Novelas",Os Dez Mandamentos S01E101
+http://dnscine.top:80/series/987897148/178770797/1954124.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXdTFIxCB0T72toPpifCqbltufT.jpg" group-title="Novelas",Os Dez Mandamentos S01E102
+http://dnscine.top:80/series/987897148/178770797/1954125.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/840kxvg2vVheLSk5RNdlT8WSmG1.jpg" group-title="Novelas",Os Dez Mandamentos S01E103
+http://dnscine.top:80/series/987897148/178770797/1954126.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsDWzhBtwfSRlQzUlNxUF4r0RrN.jpg" group-title="Novelas",Os Dez Mandamentos S01E104
+http://dnscine.top:80/series/987897148/178770797/1954127.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jlPnoSbAmWl1aDmQMmi5vLsgk9.jpg" group-title="Novelas",Os Dez Mandamentos S01E105
+http://dnscine.top:80/series/987897148/178770797/1954128.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsPAeQBjjadUKRvfIgUD0AOfVzs.jpg" group-title="Novelas",Os Dez Mandamentos S01E106
+http://dnscine.top:80/series/987897148/178770797/1954129.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNcGL5rUQkWcMI8Bl9Yy3E67jV6.jpg" group-title="Novelas",Os Dez Mandamentos S01E107
+http://dnscine.top:80/series/987897148/178770797/1954130.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lW9ndCJhqsE6gnMrvkA5qkOsI7j.jpg" group-title="Novelas",Os Dez Mandamentos S01E108
+http://dnscine.top:80/series/987897148/178770797/1954131.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Dsvt4RZWe8l8MFODKWy8LaefvH.jpg" group-title="Novelas",Os Dez Mandamentos S01E109
+http://dnscine.top:80/series/987897148/178770797/1954132.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDzoFboHa5LtxvKmDXu7sIZ5XfK.jpg" group-title="Novelas",Os Dez Mandamentos S01E110
+http://dnscine.top:80/series/987897148/178770797/1954133.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1RcaaCfUQCT4SMFHTwOofAmpgl.jpg" group-title="Novelas",Os Dez Mandamentos S01E111
+http://dnscine.top:80/series/987897148/178770797/1954134.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6svDVfGHkqyaNOrCD9cHZwz6KBv.jpg" group-title="Novelas",Os Dez Mandamentos S01E112
+http://dnscine.top:80/series/987897148/178770797/1954135.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1vQUv3qiZ1H870k1SLPJS6OJP6.jpg" group-title="Novelas",Os Dez Mandamentos S01E113
+http://dnscine.top:80/series/987897148/178770797/1954136.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eETpGAR0IVrzsQjaYHfXhYIPkW.jpg" group-title="Novelas",Os Dez Mandamentos S01E114
+http://dnscine.top:80/series/987897148/178770797/1954137.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gdzCaOKl2XQHFVN90CsPU0Niiz.jpg" group-title="Novelas",Os Dez Mandamentos S01E115
+http://dnscine.top:80/series/987897148/178770797/1954138.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVOtXzL99uyIPXRU6x1h1uLd8M1.jpg" group-title="Novelas",Os Dez Mandamentos S01E116
+http://dnscine.top:80/series/987897148/178770797/1954139.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SZYRXlOdgiOGwnb27CtTwVLTAR.jpg" group-title="Novelas",Os Dez Mandamentos S01E117
+http://dnscine.top:80/series/987897148/178770797/1954140.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XlcfoUqHA6ojYFpR4FL8hk3meA.jpg" group-title="Novelas",Os Dez Mandamentos S01E118
+http://dnscine.top:80/series/987897148/178770797/1954141.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7deoUgxFgw6cGis7m8lTPUmWQaV.jpg" group-title="Novelas",Os Dez Mandamentos S01E119
+http://dnscine.top:80/series/987897148/178770797/1954142.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNp1kwtPZGEYJKWBVmKinl9tDk1.jpg" group-title="Novelas",Os Dez Mandamentos S01E120
+http://dnscine.top:80/series/987897148/178770797/1954143.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGoCUFRfwbK1X5sEkpuKR2AnvGv.jpg" group-title="Novelas",Os Dez Mandamentos S01E121
+http://dnscine.top:80/series/987897148/178770797/1954144.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvVKsK6IOroUGI5L92LzRdSDfVo.jpg" group-title="Novelas",Os Dez Mandamentos S01E122
+http://dnscine.top:80/series/987897148/178770797/1954145.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMxT6EsgM31A8h4U3eeu20ebgd0.jpg" group-title="Novelas",Os Dez Mandamentos S01E123
+http://dnscine.top:80/series/987897148/178770797/1954146.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTD5tsITJLaPguDPqcoNpmAllVW.jpg" group-title="Novelas",Os Dez Mandamentos S01E124
+http://dnscine.top:80/series/987897148/178770797/1954147.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7DoqtC50N1oHDTINzciLHFwaKm.jpg" group-title="Novelas",Os Dez Mandamentos S01E125
+http://dnscine.top:80/series/987897148/178770797/1954148.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4KscTLWFhNsRTTY7Twsi9aWEbS.jpg" group-title="Novelas",Os Dez Mandamentos S01E126
+http://dnscine.top:80/series/987897148/178770797/1954149.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ISOWetyQmmHUjPzr3GLKcKEZf7.jpg" group-title="Novelas",Os Dez Mandamentos S01E127
+http://dnscine.top:80/series/987897148/178770797/1954150.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgt1YRDmdcwxkOiiNinjsRY6VNU.jpg" group-title="Novelas",Os Dez Mandamentos S01E128
+http://dnscine.top:80/series/987897148/178770797/1954151.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfp84waZpW9OfdYMmYovm5RVkM0.jpg" group-title="Novelas",Os Dez Mandamentos S01E129
+http://dnscine.top:80/series/987897148/178770797/1954152.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E130
+http://dnscine.top:80/series/987897148/178770797/1954153.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E131
+http://dnscine.top:80/series/987897148/178770797/1954154.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E132
+http://dnscine.top:80/series/987897148/178770797/1954155.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E133
+http://dnscine.top:80/series/987897148/178770797/1954156.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E134
+http://dnscine.top:80/series/987897148/178770797/1954157.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E135
+http://dnscine.top:80/series/987897148/178770797/1954158.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E136
+http://dnscine.top:80/series/987897148/178770797/1954159.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E137
+http://dnscine.top:80/series/987897148/178770797/1954160.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E138
+http://dnscine.top:80/series/987897148/178770797/1954161.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E139
+http://dnscine.top:80/series/987897148/178770797/1954162.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E140
+http://dnscine.top:80/series/987897148/178770797/1954163.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E141
+http://dnscine.top:80/series/987897148/178770797/1954164.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E142
+http://dnscine.top:80/series/987897148/178770797/1954165.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E143
+http://dnscine.top:80/series/987897148/178770797/1954166.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E144
+http://dnscine.top:80/series/987897148/178770797/1954167.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E145
+http://dnscine.top:80/series/987897148/178770797/1954168.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E146
+http://dnscine.top:80/series/987897148/178770797/1954169.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E147
+http://dnscine.top:80/series/987897148/178770797/1954170.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E148
+http://dnscine.top:80/series/987897148/178770797/1954171.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E149
+http://dnscine.top:80/series/987897148/178770797/1954172.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E150
+http://dnscine.top:80/series/987897148/178770797/1954173.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E151
+http://dnscine.top:80/series/987897148/178770797/1954174.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E152
+http://dnscine.top:80/series/987897148/178770797/1954175.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E153
+http://dnscine.top:80/series/987897148/178770797/1954176.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E154
+http://dnscine.top:80/series/987897148/178770797/1954177.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E155
+http://dnscine.top:80/series/987897148/178770797/1954178.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E156
+http://dnscine.top:80/series/987897148/178770797/1954179.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E157
+http://dnscine.top:80/series/987897148/178770797/1954180.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E158
+http://dnscine.top:80/series/987897148/178770797/1954181.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E159
+http://dnscine.top:80/series/987897148/178770797/1954182.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E160" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E160
+http://dnscine.top:80/series/987897148/178770797/1954183.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E161" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E161
+http://dnscine.top:80/series/987897148/178770797/1954184.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E162" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E162
+http://dnscine.top:80/series/987897148/178770797/1954185.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E163" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E163
+http://dnscine.top:80/series/987897148/178770797/1954186.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E164" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E164
+http://dnscine.top:80/series/987897148/178770797/1954187.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E165" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E165
+http://dnscine.top:80/series/987897148/178770797/1954188.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E166" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E166
+http://dnscine.top:80/series/987897148/178770797/1954189.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E167" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E167
+http://dnscine.top:80/series/987897148/178770797/1954190.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E168" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E168
+http://dnscine.top:80/series/987897148/178770797/1954191.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E169" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E169
+http://dnscine.top:80/series/987897148/178770797/1954192.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E170" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E170
+http://dnscine.top:80/series/987897148/178770797/1954193.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E171" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E171
+http://dnscine.top:80/series/987897148/178770797/1954194.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E172" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E172
+http://dnscine.top:80/series/987897148/178770797/1954195.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E173" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E173
+http://dnscine.top:80/series/987897148/178770797/1954196.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E174" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E174
+http://dnscine.top:80/series/987897148/178770797/1954197.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E175" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E175
+http://dnscine.top:80/series/987897148/178770797/1954198.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E176" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E176
+http://dnscine.top:80/series/987897148/178770797/1954199.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E177" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E177
+http://dnscine.top:80/series/987897148/178770797/1954200.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E178" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E178
+http://dnscine.top:80/series/987897148/178770797/1954201.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E179" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E179
+http://dnscine.top:80/series/987897148/178770797/1954202.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E180" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E180
+http://dnscine.top:80/series/987897148/178770797/1954203.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E181" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E181
+http://dnscine.top:80/series/987897148/178770797/1954204.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E182" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E182
+http://dnscine.top:80/series/987897148/178770797/1954205.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E183" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E183
+http://dnscine.top:80/series/987897148/178770797/1954206.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E184" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E184
+http://dnscine.top:80/series/987897148/178770797/1954207.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E185" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E185
+http://dnscine.top:80/series/987897148/178770797/1954208.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E186" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E186
+http://dnscine.top:80/series/987897148/178770797/1954209.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E187" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E187
+http://dnscine.top:80/series/987897148/178770797/1954210.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E188" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E188
+http://dnscine.top:80/series/987897148/178770797/1954211.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E189" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E189
+http://dnscine.top:80/series/987897148/178770797/1954212.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E190" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E190
+http://dnscine.top:80/series/987897148/178770797/1954213.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E191" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E191
+http://dnscine.top:80/series/987897148/178770797/1954214.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E192" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E192
+http://dnscine.top:80/series/987897148/178770797/1954215.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E193" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E193
+http://dnscine.top:80/series/987897148/178770797/1954216.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E194" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E194
+http://dnscine.top:80/series/987897148/178770797/1954217.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E195" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E195
+http://dnscine.top:80/series/987897148/178770797/1954218.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E196" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E196
+http://dnscine.top:80/series/987897148/178770797/1954219.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E197" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E197
+http://dnscine.top:80/series/987897148/178770797/1954220.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E198" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E198
+http://dnscine.top:80/series/987897148/178770797/1954221.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E199" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E199
+http://dnscine.top:80/series/987897148/178770797/1954222.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E200" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E200
+http://dnscine.top:80/series/987897148/178770797/1954223.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E201" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E201
+http://dnscine.top:80/series/987897148/178770797/1954224.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E202" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E202
+http://dnscine.top:80/series/987897148/178770797/1954225.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E203" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E203
+http://dnscine.top:80/series/987897148/178770797/1954226.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E204" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E204
+http://dnscine.top:80/series/987897148/178770797/1954227.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E205" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E205
+http://dnscine.top:80/series/987897148/178770797/1954228.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E206" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E206
+http://dnscine.top:80/series/987897148/178770797/1954229.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E207" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E207
+http://dnscine.top:80/series/987897148/178770797/1954230.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E208" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E208
+http://dnscine.top:80/series/987897148/178770797/1954231.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E209" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E209
+http://dnscine.top:80/series/987897148/178770797/1954232.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E210" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E210
+http://dnscine.top:80/series/987897148/178770797/1954233.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E211" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E211
+http://dnscine.top:80/series/987897148/178770797/1954234.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E212" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E212
+http://dnscine.top:80/series/987897148/178770797/1954235.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E213" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E213
+http://dnscine.top:80/series/987897148/178770797/1954236.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E214" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E214
+http://dnscine.top:80/series/987897148/178770797/1954237.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E215" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E215
+http://dnscine.top:80/series/987897148/178770797/1954238.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E216" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E216
+http://dnscine.top:80/series/987897148/178770797/1954239.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E217" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E217
+http://dnscine.top:80/series/987897148/178770797/1954240.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E218" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E218
+http://dnscine.top:80/series/987897148/178770797/1954241.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E219" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E219
+http://dnscine.top:80/series/987897148/178770797/1954242.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E220" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E220
+http://dnscine.top:80/series/987897148/178770797/1954243.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E221" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E221
+http://dnscine.top:80/series/987897148/178770797/1954244.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E222" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E222
+http://dnscine.top:80/series/987897148/178770797/1954245.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E223" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E223
+http://dnscine.top:80/series/987897148/178770797/1954246.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E224" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E224
+http://dnscine.top:80/series/987897148/178770797/1954247.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E225" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E225
+http://dnscine.top:80/series/987897148/178770797/1954248.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E226" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E226
+http://dnscine.top:80/series/987897148/178770797/1954249.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E227" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E227
+http://dnscine.top:80/series/987897148/178770797/1954250.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E228" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E228
+http://dnscine.top:80/series/987897148/178770797/1954251.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E229" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E229
+http://dnscine.top:80/series/987897148/178770797/1954252.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E230" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E230
+http://dnscine.top:80/series/987897148/178770797/1954253.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E231" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E231
+http://dnscine.top:80/series/987897148/178770797/1954254.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E232" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E232
+http://dnscine.top:80/series/987897148/178770797/1954255.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E233" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E233
+http://dnscine.top:80/series/987897148/178770797/1954256.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E234" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E234
+http://dnscine.top:80/series/987897148/178770797/1954257.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E235" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E235
+http://dnscine.top:80/series/987897148/178770797/1954258.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E236" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E236
+http://dnscine.top:80/series/987897148/178770797/1954259.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E237" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E237
+http://dnscine.top:80/series/987897148/178770797/1954260.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E238" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E238
+http://dnscine.top:80/series/987897148/178770797/1954261.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E239" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E239
+http://dnscine.top:80/series/987897148/178770797/1954262.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E240" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E240
+http://dnscine.top:80/series/987897148/178770797/1954263.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E241" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E241
+http://dnscine.top:80/series/987897148/178770797/1954264.mp4
+#EXTINF:-1 tvg-name="Os Dez Mandamentos S01E242" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DLSXYHZ9LRj28wQ6OTnBsr2x0x.jpg" group-title="Novelas",Os Dez Mandamentos S01E242
+http://dnscine.top:80/series/987897148/178770797/1954265.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EWEkF9gLPcK0xrVZZ2ltZHPPFL.jpg" group-title="Novelas",Jezabel S01E01
+http://dnscine.top:80/series/987897148/178770797/1954266.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31YtEBVbbOcs6aR7YaCjDpYzet.jpg" group-title="Novelas",Jezabel S01E02
+http://dnscine.top:80/series/987897148/178770797/1954267.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trr4f9hMxg4c9xj5ConlCPBhpGU.jpg" group-title="Novelas",Jezabel S01E03
+http://dnscine.top:80/series/987897148/178770797/1954268.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/km0Vk7w7SmVdyCy6vpWCCcrhkqc.jpg" group-title="Novelas",Jezabel S01E04
+http://dnscine.top:80/series/987897148/178770797/1954269.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoPzHwLV2dG3W64EqILpQagt4em.jpg" group-title="Novelas",Jezabel S01E05
+http://dnscine.top:80/series/987897148/178770797/1954270.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZ6c4fhmNW7DWv8fllpSGByE63R.jpg" group-title="Novelas",Jezabel S01E06
+http://dnscine.top:80/series/987897148/178770797/1954271.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE2RkfTPhLt3L1kSQ0FuOWZeZUg.jpg" group-title="Novelas",Jezabel S01E07
+http://dnscine.top:80/series/987897148/178770797/1954272.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnZr7m819GQtfcDVi3z0a3GyJUp.jpg" group-title="Novelas",Jezabel S01E08
+http://dnscine.top:80/series/987897148/178770797/1954273.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcbG7HX9tD8e6M5ZxnmvwJBSEhQ.jpg" group-title="Novelas",Jezabel S01E09
+http://dnscine.top:80/series/987897148/178770797/1954274.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muYELEYsShqHwpmUgHVl6BTKpsi.jpg" group-title="Novelas",Jezabel S01E10
+http://dnscine.top:80/series/987897148/178770797/1954275.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjt4BsOIIM4OXEsGMzV2PEIsuDz.jpg" group-title="Novelas",Jezabel S01E11
+http://dnscine.top:80/series/987897148/178770797/1954276.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjt4BsOIIM4OXEsGMzV2PEIsuDz.jpg" group-title="Novelas",Jezabel S01E12
+http://dnscine.top:80/series/987897148/178770797/1954277.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1xLqAp1eXbQEcx6adZvmjJQ5LU.jpg" group-title="Novelas",Jezabel S01E13
+http://dnscine.top:80/series/987897148/178770797/1954278.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGWsmC0QIpHQ2lXYueShElUWhaj.jpg" group-title="Novelas",Jezabel S01E14
+http://dnscine.top:80/series/987897148/178770797/1954279.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBv7AIRwMZHXHRKIAuTxwjZJFyk.jpg" group-title="Novelas",Jezabel S01E15
+http://dnscine.top:80/series/987897148/178770797/1954280.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZKwWacOKaO3TGAm9Kz10WV166l.jpg" group-title="Novelas",Jezabel S01E16
+http://dnscine.top:80/series/987897148/178770797/1954281.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jT54I883MRD2OlY52gIxIyuJ43M.jpg" group-title="Novelas",Jezabel S01E17
+http://dnscine.top:80/series/987897148/178770797/1954282.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59xM8AadziZcUwECOxJRSuoPWz1.jpg" group-title="Novelas",Jezabel S01E18
+http://dnscine.top:80/series/987897148/178770797/1954283.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEVBQpFmHJHFJPOF5XIL0JxH7es.jpg" group-title="Novelas",Jezabel S01E19
+http://dnscine.top:80/series/987897148/178770797/1954284.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BqKOfomVfhWEu320iTS3ilOMiS.jpg" group-title="Novelas",Jezabel S01E20
+http://dnscine.top:80/series/987897148/178770797/1954285.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zU69v1WJH5ByNxtoPFMfHSPWApi.jpg" group-title="Novelas",Jezabel S01E21
+http://dnscine.top:80/series/987897148/178770797/1954286.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmbBzQ0XYToZIiG57kliqiM9dfl.jpg" group-title="Novelas",Jezabel S01E22
+http://dnscine.top:80/series/987897148/178770797/1954287.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ungr85ehQQM8phCKaE95Obg0NGc.jpg" group-title="Novelas",Jezabel S01E23
+http://dnscine.top:80/series/987897148/178770797/1954288.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cytUXDF7qz9cNuMwBOiFQNDtf6.jpg" group-title="Novelas",Jezabel S01E24
+http://dnscine.top:80/series/987897148/178770797/1954289.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuM3e6pIAhpcWiNbCadt3uXzLyZ.jpg" group-title="Novelas",Jezabel S01E25
+http://dnscine.top:80/series/987897148/178770797/1954290.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1TYemE2Z0FMywznmmg8VOU6bsCg.jpg" group-title="Novelas",Jezabel S01E26
+http://dnscine.top:80/series/987897148/178770797/1954291.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khYnsscQ3oveYD8gqITEpk4FzBj.jpg" group-title="Novelas",Jezabel S01E27
+http://dnscine.top:80/series/987897148/178770797/1954292.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk9ABoQeov14kAjs7vQEIMPcaOH.jpg" group-title="Novelas",Jezabel S01E28
+http://dnscine.top:80/series/987897148/178770797/1954293.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOzEib6vZWBE1RmS86zPGHIYCxG.jpg" group-title="Novelas",Jezabel S01E29
+http://dnscine.top:80/series/987897148/178770797/1954294.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74IzsDzonK7ocAAULM7hMi7Wx4U.jpg" group-title="Novelas",Jezabel S01E30
+http://dnscine.top:80/series/987897148/178770797/1954295.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfEEkTwNyc4TZGcBKQTeDCRqGNX.jpg" group-title="Novelas",Jezabel S01E31
+http://dnscine.top:80/series/987897148/178770797/1954296.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8wDIpHSXBctswtxZMEpIBsoTR1.jpg" group-title="Novelas",Jezabel S01E32
+http://dnscine.top:80/series/987897148/178770797/1954297.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3agOASvwuH2TZcvuhvCNegdQab.jpg" group-title="Novelas",Jezabel S01E33
+http://dnscine.top:80/series/987897148/178770797/1954298.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yovcEWRyJ2BIPcswLO2J489BO3.jpg" group-title="Novelas",Jezabel S01E34
+http://dnscine.top:80/series/987897148/178770797/1954299.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wCujsjkFDUQ0XqjaX35pIFOdSL.jpg" group-title="Novelas",Jezabel S01E35
+http://dnscine.top:80/series/987897148/178770797/1954300.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgmXaGBA96pkWAlhx7PjFjSIaVL.jpg" group-title="Novelas",Jezabel S01E36
+http://dnscine.top:80/series/987897148/178770797/1954301.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcUNdgYm06go4VejVG9FarFFYUg.jpg" group-title="Novelas",Jezabel S01E37
+http://dnscine.top:80/series/987897148/178770797/1954302.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LAIXXPq5nkBDYjF198QzhMGetI.jpg" group-title="Novelas",Jezabel S01E38
+http://dnscine.top:80/series/987897148/178770797/1954303.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E39
+http://dnscine.top:80/series/987897148/178770797/1954304.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E40
+http://dnscine.top:80/series/987897148/178770797/1954305.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E41
+http://dnscine.top:80/series/987897148/178770797/1954306.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E42
+http://dnscine.top:80/series/987897148/178770797/1954307.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E43
+http://dnscine.top:80/series/987897148/178770797/1954308.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E44
+http://dnscine.top:80/series/987897148/178770797/1954309.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E45
+http://dnscine.top:80/series/987897148/178770797/1954310.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E46
+http://dnscine.top:80/series/987897148/178770797/1954311.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E47
+http://dnscine.top:80/series/987897148/178770797/1954312.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E48
+http://dnscine.top:80/series/987897148/178770797/1954313.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E49
+http://dnscine.top:80/series/987897148/178770797/1954314.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E50
+http://dnscine.top:80/series/987897148/178770797/1954315.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E51
+http://dnscine.top:80/series/987897148/178770797/1954316.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E52
+http://dnscine.top:80/series/987897148/178770797/1954317.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E53
+http://dnscine.top:80/series/987897148/178770797/1954318.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E54
+http://dnscine.top:80/series/987897148/178770797/1954319.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E55
+http://dnscine.top:80/series/987897148/178770797/1954320.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E56
+http://dnscine.top:80/series/987897148/178770797/1954321.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E57
+http://dnscine.top:80/series/987897148/178770797/1954322.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E58
+http://dnscine.top:80/series/987897148/178770797/1954323.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E59
+http://dnscine.top:80/series/987897148/178770797/1954324.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E60
+http://dnscine.top:80/series/987897148/178770797/1954325.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E61
+http://dnscine.top:80/series/987897148/178770797/1954326.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E62
+http://dnscine.top:80/series/987897148/178770797/1954327.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E63
+http://dnscine.top:80/series/987897148/178770797/1954328.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E64
+http://dnscine.top:80/series/987897148/178770797/1954329.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E65
+http://dnscine.top:80/series/987897148/178770797/1954330.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E66
+http://dnscine.top:80/series/987897148/178770797/1954331.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E67
+http://dnscine.top:80/series/987897148/178770797/1954332.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E68
+http://dnscine.top:80/series/987897148/178770797/1954333.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E69
+http://dnscine.top:80/series/987897148/178770797/1954334.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E70
+http://dnscine.top:80/series/987897148/178770797/1954335.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E71
+http://dnscine.top:80/series/987897148/178770797/1954336.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E72
+http://dnscine.top:80/series/987897148/178770797/1954337.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E73
+http://dnscine.top:80/series/987897148/178770797/1954338.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E74
+http://dnscine.top:80/series/987897148/178770797/1954339.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E75
+http://dnscine.top:80/series/987897148/178770797/1954340.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E76
+http://dnscine.top:80/series/987897148/178770797/1954341.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E77
+http://dnscine.top:80/series/987897148/178770797/1954342.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E78
+http://dnscine.top:80/series/987897148/178770797/1954343.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E79
+http://dnscine.top:80/series/987897148/178770797/1954344.mp4
+#EXTINF:-1 tvg-name="Jezabel S01E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIgUbCYVMvYdq45ibjYJ5GJBTdL.jpg" group-title="Novelas",Jezabel S01E80
+http://dnscine.top:80/series/987897148/178770797/1954345.mp4
 #EXTINF:-1 tvg-name="Abraao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg" group-title="Filmes | Religioso",Abraao
 http://cdntac.xyz:80/movie/971263968/793975503/1735311.mp4
 #EXTINF:-1 tvg-name="Genesis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOgWvHRZGH9SdEG33ScuMSPtuK3.jpg" group-title="Filmes | Religioso",Genesis (2018)
