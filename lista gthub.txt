@@ -4628,6 +4628,14 @@ http://saga10.pro:80/760927/499344/2627334
 http://saga10.pro:80/760927/499344/2649066
 #EXTINF:-1 tvg-id="" tvg-name="Ufc Figth Pass 2" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/fYoMcp.png" group-title="CANAIS | ESPORTES PAY-PER-VIEW",Ufc Figth Pass 2
 http://saga10.pro:80/760927/499344/2852020
+#EXTINF:-1 tvg-name="O Sinal S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDEyOLDecaVXdE1qgCd1Ou1tcXf.jpg" group-title="S • Netflix",O Sinal S01E01
+http://dnscine.top:80/series/987897148/178770797/1826922.mp4
+#EXTINF:-1 tvg-name="O Sinal S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k89SqSaSz1HUMQ5BEydfy4OfVuh.jpg" group-title="S • Netflix",O Sinal S01E02
+http://dnscine.top:80/series/987897148/178770797/1826923.mp4
+#EXTINF:-1 tvg-name="O Sinal S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gf5TLW6GvZBtcF0cVvb4Wne5VR.jpg" group-title="S • Netflix",O Sinal S01E03
+http://dnscine.top:80/series/987897148/178770797/1826924.mp4
+#EXTINF:-1 tvg-name="O Sinal S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNTlhSmQvOPS570KqcUX0S8ZQ6Z.jpg" group-title="S • Netflix",O Sinal S01E04
+http://dnscine.top:80/series/987897148/178770797/1826925.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jesus S01 E01" tvg-logo="http://dns.aipim.info:80/images/646eca47b5976ed8cb4ce464b0fa8148.jpg" group-title="NOVELAS",Jesus S01 E01
 http://alpacinoo.com:8080/series/Ednacademia/9338376877/350239.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jesus S01 E02" tvg-logo="http://dns.aipim.info:80/images/646eca47b5976ed8cb4ce464b0fa8148.jpg" group-title="NOVELAS",Jesus S01 E02
