@@ -11242,8 +11242,6 @@ http://prata23.shop:80/movie/222222222/222222222/3987259.mp4
 http://prata23.shop:80/movie/222222222/222222222/3987260.mp4
 #EXTINF:-1 tvg-name="Assalto à 13ª DP (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd1ukLaudlhjY7dSSe9Dhnuvy1p.jpg" group-title="♠️Filmes | Ação",Assalto à 13ª DP (2005)
 http://prata23.shop:80/movie/222222222/222222222/3987261.mp4
-#EXTINF:-1 tvg-name="Love (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyJIhINIfwlSRBpllwHKm87QJ2u.jpg" group-title="♠️Filmes | XXX Adultos",Love (2015)
-http://prata23.shop:80/movie/222222222/222222222/3987262.mp4
 #EXTINF:-1 tvg-name="O Rei dos Reis (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkU5XUKhTZNWVsGAjgko9iDYCKa.jpg" group-title="♠️Filmes | Lançamentos",O Rei dos Reis (2025)
 http://prata23.shop:80/movie/222222222/222222222/3987263.mp4
 #EXTINF:-1 tvg-name="Anjos Rebeldes 2 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bgUG9Lf4FcTpia93qu5oS9XzK6.jpg" group-title="♠️Filmes | Terror",Anjos Rebeldes 2 (1998)
@@ -13226,8 +13224,6 @@ http://prata23.shop:80/movie/222222222/222222222/3988251.mkv
 http://prata23.shop:80/movie/222222222/222222222/3988252.mp4
 #EXTINF:-1 tvg-name="Tamara (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zQaMgFEBKtSB2ZZu73nBis71t9.jpg" group-title="♠️Filmes | Terror",Tamara (2005)
 http://prata23.shop:80/movie/222222222/222222222/3988253.mp4
-#EXTINF:-1 tvg-name="Swingers: Os Limites do Amor[L] (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5KDA6ppG231uEd6mhG8YO4I04d.jpg" group-title="♠️Filmes | XXX Adultos",Swingers: Os Limites do Amor[L] (2022)
-http://prata23.shop:80/movie/222222222/222222222/3988254.mp4
 #EXTINF:-1 tvg-name="Enterre-me Quando Eu Morrer (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8R1vPXPpftsrX1TxUD5M1W0KvTS.jpg" group-title="♠️Filmes | Lançamentos",Enterre-me Quando Eu Morrer (2025)
 http://prata23.shop:80/movie/222222222/222222222/3988255.mp4
 #EXTINF:-1 tvg-name="Chaim Yakarim (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZVPMVdiTqiE6L47blUOrSID5Ut.jpg" group-title="♠️Filmes | Documentários",Chaim Yakarim (2011)
@@ -14396,8 +14392,6 @@ http://prata23.shop:80/movie/222222222/222222222/3988840.mp4
 http://prata23.shop:80/movie/222222222/222222222/3988841.mp4
 #EXTINF:-1 tvg-name="Invocação do Mal - O Último Ritual 4K (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40nHGUfypLhlr7gJx8At1IbYkaK.jpg" group-title="♠️Filmes | 4K",Invocação do Mal - O Último Ritual 4K (2025)
 http://prata23.shop:80/movie/222222222/222222222/3988842.mp4
-#EXTINF:-1 tvg-name="A Criada Proibida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64FMoee8uhYNuUZrxqVWvLf9kgG.jpg" group-title="♠️Filmes | XXX Adultos",A Criada Proibida (2021)
-http://prata23.shop:80/movie/222222222/222222222/3988843.mp4
 #EXTINF:-1 tvg-name="Ladrões (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1ezVQbjxqnoTPMOLLKQmdTNen1.jpg" group-title="♠️Filmes | Lançamentos",Ladrões (2025)
 http://prata23.shop:80/movie/222222222/222222222/3988844.none
 #EXTINF:-1 tvg-name="Diga Quem Sou (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMfiD7wjdwRxPSdZ7gz7iNO3Z0B.jpg" group-title="♠️Filmes | Documentários",Diga Quem Sou (2019)
