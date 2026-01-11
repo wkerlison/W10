@@ -33,18 +33,6 @@ http://prata23.shop:80/222222222/222222222/828552.ts
 http://prata23.shop:80/222222222/222222222/223486.ts
 #EXTINF:-1 tvg-id="" tvg-name="94 Live" tvg-logo="https://img.radios.com.br/radio/lg/radio118_1680791358.png" group-title="♦️Canais | Rádio",94 Live
 http://prata23.shop:80/222222222/222222222/223501.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 01" tvg-logo="https://i.imgur.com/xSQdoNc.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 01
-http://prata23.shop:80/222222222/222222222/2602063.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 02" tvg-logo="https://i.imgur.com/xSQdoNc.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 02
-http://prata23.shop:80/222222222/222222222/2602064.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 03" tvg-logo="https://i.imgur.com/xSQdoNc.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 03
-http://prata23.shop:80/222222222/222222222/2602065.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 04" tvg-logo="https://i.imgur.com/xSQdoNc.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 04
-http://prata23.shop:80/222222222/222222222/2602066.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 05" tvg-logo="https://i.imgur.com/xSQdoNc.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 05
-http://prata23.shop:80/222222222/222222222/2602067.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 06" tvg-logo="https://i.imgur.com/xSQdoNc.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 06
-http://prata23.shop:80/222222222/222222222/2602068.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Seriados",A Grande Família S01
 http://prata23.shop:80/222222222/222222222/827819.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Família S02" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Seriados",A Grande Família S02
@@ -6911,34 +6899,6 @@ http://edgenova.sbs:80/2421727/4412484/1191877
 http://edgenova.sbs:80/2421727/4412484/1191880
 #EXTINF:-1 tvg-id="Maissbt.br" tvg-name="SBT+ Tvzyn" tvg-logo="https://icons.ipcdn4.com/pasta%203/sbtmais.png" group-title="Canais | Abertos",SBT+ Tvzyn
 http://edgenova.sbs:80/2421727/4412484/1191881
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA 3" tvg-logo="" group-title="Canais | Estrela da Casa",ESTRELA DA CASA 3
-http://dnscine.top:80/987897148/178770797/1975966.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA DA CASA 4" tvg-logo="" group-title="Canais | Estrela da Casa",ESTRELA DA CASA 4
-http://dnscine.top:80/987897148/178770797/1975967.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 01" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 01
-http://dnscine.top:80/987897148/178770797/1975984.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 02" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 02
-http://dnscine.top:80/987897148/178770797/1975985.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 03" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 03
-http://dnscine.top:80/987897148/178770797/1975986.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 04" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 04
-http://dnscine.top:80/987897148/178770797/1975987.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 05" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 05
-http://dnscine.top:80/987897148/178770797/1975988.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 17 CAM 06" tvg-logo="http://dnscine.top:80/images/545b300819f8967797a5db166b86d23a.png" group-title="Canais | A Fazenda",A FAZENDA 17 CAM 06
-http://dnscine.top:80/987897148/178770797/1975989.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 01
-http://aguacomgas.shop:80/222222222/222222222/2602063.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 02
-http://aguacomgas.shop:80/222222222/222222222/2602064.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 03
-http://aguacomgas.shop:80/222222222/222222222/2602065.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 04
-http://aguacomgas.shop:80/222222222/222222222/2602066.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 05
-http://aguacomgas.shop:80/222222222/222222222/2602067.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Fazenda 17 Cam 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="♦️Canais | A Fazenda 17",A Fazenda 17 Cam 06
-http://aguacomgas.shop:80/222222222/222222222/2602068.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL 01" tvg-logo="https://i.ibb.co/tmw6vzy/marvel56785.png" group-title="24/7 FILMES",CINE MARVEL 01
 http://datecplayfirewll.naoutilizaressadns3015.xyz:80/0987654321/0987654321/3751361.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL 02" tvg-logo="https://i.ibb.co/tmw6vzy/marvel56785.png" group-title="24/7 FILMES",CINE MARVEL 02
