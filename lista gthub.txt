@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas S01" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S01
+http://prata23.shop:80/222222222/222222222/828550.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas S02" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S02
+http://prata23.shop:80/222222222/222222222/828551.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas S03" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S03
+http://prata23.shop:80/222222222/222222222/828552.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H Eletronica" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Musicas",24H Eletronica
 http://prata23.shop:80/222222222/222222222/2550524.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H Filmes Animação Infantil" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Filmes",24H Filmes Animação Infantil
@@ -23,12 +29,6 @@ http://prata23.shop:80/222222222/222222222/2551127.ts
 http://prata23.shop:80/222222222/222222222/2550526.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H Sertanejo" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Musicas",24H Sertanejo
 http://prata23.shop:80/222222222/222222222/2531018.ts
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas S01" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S01
-http://prata23.shop:80/222222222/222222222/828550.ts
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas S02" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S02
-http://prata23.shop:80/222222222/222222222/828551.ts
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas S03" tvg-logo="https://logos.imperioapps.xyz/24H.png" group-title="♦️Canais | 24H Animes&Desenhos",3 Palavrinhas S03
-http://prata23.shop:80/222222222/222222222/828552.ts
 #EXTINF:-1 tvg-id="" tvg-name="89 FM Rádio Rock" tvg-logo="https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg" group-title="♦️Canais | Rádio",89 FM Rádio Rock
 http://prata23.shop:80/222222222/222222222/223486.ts
 #EXTINF:-1 tvg-id="" tvg-name="94 Live" tvg-logo="https://img.radios.com.br/radio/lg/radio118_1680791358.png" group-title="♦️Canais | Rádio",94 Live
