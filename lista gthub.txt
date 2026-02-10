@@ -50,6 +50,306 @@ http://cdn4k.net:80/mceliat/4157y8715/260293
 http://cdn4k.net:80/mceliat/4157y8715/260294
 #EXTINF:-1 tvg-id="BBB 2025" tvg-name="Academia HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Academia HD
 http://cdn4k.net:80/mceliat/4157y8715/260295
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD Legendado" tvg-logo="https://cdn4k.store/logos/axn.png" group-title="LEGENDADOS",AXN HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28585
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD Legendado" tvg-logo="https://cdn4k.store/logos/hbo.png" group-title="LEGENDADOS",HBO FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95580
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD Legendado" tvg-logo="https://cdn4k.store/logos/hbo.png" group-title="LEGENDADOS",HBO HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28581
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Mundi FHD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-MUNDI.png" group-title="LEGENDADOS",HBO Mundi FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95584
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Mundi HD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-MUNDI.png" group-title="LEGENDADOS",HBO Mundi HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28576
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO+ FHD Legendado" tvg-logo="https://cdn4k.store/logos/hboplus.png" group-title="LEGENDADOS",HBO+ FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95581
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO+ HD Legendado" tvg-logo="https://cdn4k.store/logos/hboplus.png" group-title="LEGENDADOS",HBO+ HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28579
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Pop FHD Legendado" tvg-logo="https://cdn4k.store/logos/HBO-POP.png" group-title="LEGENDADOS",HBO Pop FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95585
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Pop HD Legendado" tvg-logo="https://cdn4k.store/logos/HBO-POP.png" group-title="LEGENDADOS",HBO Pop HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28561
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Signature FHD Legendado" tvg-logo="https://cdn4k.store/logos/hbosignature.png" group-title="LEGENDADOS",HBO Signature FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95582
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Signature HD Legendado" tvg-logo="https://cdn4k.store/logos/hbosignature.png" group-title="LEGENDADOS",HBO Signature HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95583
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Xtreme FHD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-XTREME.png" group-title="LEGENDADOS",HBO Xtreme FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95586
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Xtreme HD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-XTREME.png" group-title="LEGENDADOS",HBO Xtreme HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28577
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="Megapix HD Legendado" tvg-logo="https://cdn4k.store/logos/megapix.png" group-title="LEGENDADOS",Megapix HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28559
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="Sony HD Legendado" tvg-logo="https://cdn4k.store/logos/sony.png" group-title="LEGENDADOS",Sony HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28551
+#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space HD Legendado" tvg-logo="https://cdn4k.store/logos/space.png" group-title="LEGENDADOS",Space HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28557
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action FHD Legendado" tvg-logo="https://fivetv.xyz/logos/telecineaction.png" group-title="LEGENDADOS",Telecine Action FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95575
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD Legendado" tvg-logo="https://cdn4k.ink/logos/TELECINE-ACTION.png" group-title="LEGENDADOS",Telecine Action HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28575
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinecult.png" group-title="LEGENDADOS",Telecine Cult FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95578
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinecult.png" group-title="LEGENDADOS",Telecine Cult HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95579
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinefun.png" group-title="LEGENDADOS",Telecine Fun FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95577
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinefun.png" group-title="LEGENDADOS",Telecine Fun HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28573
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepipoca.png" group-title="LEGENDADOS",Telecine Pipoca FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95573
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepipoca.png" group-title="LEGENDADOS",Telecine Pipoca HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28571
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepremium.png" group-title="LEGENDADOS",Telecine Premium FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95574
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepremium.png" group-title="LEGENDADOS",Telecine Premium HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28569
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinetouch.png" group-title="LEGENDADOS",Telecine Touch FHD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/95576
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinetouch.png" group-title="LEGENDADOS",Telecine Touch HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28567
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD Legendado" tvg-logo="https://cdn4k.ink/logos/TNT.png" group-title="LEGENDADOS",TNT HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28565
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Series HD Legendado" tvg-logo="https://cdn4k.store/logos/tntseries.png" group-title="LEGENDADOS",TNT Series HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28555
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="Warner Channel HD Legendado" tvg-logo="https://cdn4k.store/logos/warner.png" group-title="LEGENDADOS",Warner Channel HD Legendado
+http://cdn4k.net:80/mceliat/4157y8715/28553
+#EXTINF:-1 tvg-id="" tvg-name="MaXXXine - 2024 (L)" tvg-logo="http://cdn4k.store:80/images/dmi277uSdCavkSLTVNBUMlyDYy0_big.jpg" group-title="LEGENDADOS",MaXXXine - 2024 (L)
+http://cdn4k.net:80/movie/mceliat/4157y8715/255171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Look At Me  XXXTENTACION - 2022 (L)" tvg-logo="http://cdn4k.store:80/images/3BUCbEMFdizaBrNbH6lEfDdNtku_big.jpg" group-title="LEGENDADOS",Look At Me  XXXTENTACION - 2022 (L)
+http://cdn4k.net:80/movie/mceliat/4157y8715/226985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar  O Caminho da Agua - 2022 (L) UHD 4K" tvg-logo="http://cdn4k.store:80/images/mbYQLLluS651W89jO7MOZcLSCUw_big.jpg" group-title="LEGENDADOS",Avatar  O Caminho da Agua - 2022 (L) UHD 4K
+http://cdn4k.net:80/movie/mceliat/4157y8715/220729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Reino Ameacado - 2018 UHD 4k (L)" tvg-logo="http://cdn4k.store:80/images/7xykpkKqfBfDgEKvS4jqpFF0S4K_big.jpg" group-title="UHD 4K",Jurassic World Reino Ameacado - 2018 UHD 4k (L)
+http://cdn4k.net:80/movie/mceliat/4157y8715/61043.mp4
+#EXTINF:-1 tvg-id="A_E" tvg-name="A&E H265/HEVC" tvg-logo="https://cdn4k.store/logos/a&e.png" group-title="H265/HEVC",A&E H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34822
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC H265/HEVC" tvg-logo="https://cdn4k.store/logos/amc.png" group-title="H265/HEVC",AMC H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34821
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="Animal Planet H265/HEVC" tvg-logo="https://cdn4k.store/logos/animalplanet.png" group-title="H265/HEVC",Animal Planet H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34820
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN H265/HEVC" tvg-logo="https://cdn4k.store/logos/axn.png" group-title="H265/HEVC",AXN H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34902
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="Band News H265/HEVC" tvg-logo="https://cdn4k.store/logos/bandnews.png" group-title="H265/HEVC",Band News H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34900
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis H265/HEVC" tvg-logo="http://70.ms/UH" group-title="H265/HEVC",Bis H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34898
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito  H265/HEVC" tvg-logo="https://cdn4k.store/logos/CARTOONITO.png" group-title="H265/HEVC",Cartoonito  H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34897
+#EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network H265/HEVC" tvg-logo="http://70.ms/U4" group-title="H265/HEVC",Cartoon Network H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34895
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax H265/HEVC" tvg-logo="http://70.ms/Ub" group-title="H265/HEVC",Cinemax H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34894
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate H265/HEVC" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="H265/HEVC",Combate H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34893
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="NFL 14" tvg-logo="https://irp-cdn.multiscreensite.com/c5a09bd2/dms3rep/multi/Screen+Shot+2019-03-10+at+9.55.12+PM.png" group-title="NFL GAMEPASS",NFL 14
+http://cdn4k.net:80/mceliat/4157y8715/34892
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Channel H265/HEVC" tvg-logo="http://70.ms/Ur" group-title="H265/HEVC",Discovery Channel H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34891
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery H&H H265/HEVC" tvg-logo="http://70.ms/UN" group-title="H265/HEVC",Discovery H&H H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34889
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Kids H265/HEVC" tvg-logo="http://70.ms/Ua" group-title="H265/HEVC",Discovery Kids H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34888
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Science H265" tvg-logo="http://70.ms/UB" group-title="H265/HEVC",Discovery Science H265
+http://cdn4k.net:80/mceliat/4157y8715/34887
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Theater H265/HEVC" tvg-logo="http://70.ms/UI" group-title="H265/HEVC",Discovery Theater H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34886
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Turbo H265/HEVC" tvg-logo="http://70.ms/UC" group-title="H265/HEVC",Discovery Turbo H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34885
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery World H265/HEVC" tvg-logo="http://70.ms/UW" group-title="H265/HEVC",Discovery World H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34884
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! H265/HEVC" tvg-logo="https://cdn4k.store/logos/e!.png" group-title="H265/HEVC",E! H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42476
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 H265/HEVC" tvg-logo="https://cdn4k.store/logos/espn2.png" group-title="H265/HEVC",ESPN 2 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34881
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 H265/HEVC" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="H265/HEVC",ESPN 6 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42467
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN H265/HEVC" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="H265/HEVC",ESPN H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34879
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV H265/HEVC" tvg-logo="https://cdn4k.store/logos/fishtv.png" group-title="H265/HEVC",Fish TV H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42479
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-name="Food Network H265/HEVC" tvg-logo="http://70.ms/Up" group-title="H265/HEVC",Food Network H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34878
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Minas H265/HEVC" tvg-logo="https://cdn4k.store/logos/globo.png" group-title="H265/HEVC",Globo Minas H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/63846
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo News H265/HEVC" tvg-logo="https://cdn4k.store/logos/globo.png" group-title="H265/HEVC",Globo News H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34872
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo SP H265/HEVC" tvg-logo="https://cdn4k.store/logos/globo.png" group-title="H265/HEVC",Globo SP H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/61426
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo Tv Anhaguera H265/HEVC" tvg-logo="https://abrela.me/glanhanguera" group-title="H265/HEVC",Globo Tv Anhaguera H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34869
+#EXTINF:-1 tvg-id="History2.br" tvg-name="H2 FHD H265" tvg-logo="http://70.ms/Uw" group-title="H265/HEVC",H2 FHD H265
+http://cdn4k.net:80/mceliat/4157y8715/34867
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 2 H265/HEVC" tvg-logo="http://70.ms/Uz" group-title="H265/HEVC",HBO 2 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34866
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Family H265/HEVC" tvg-logo="http://70.ms/U8" group-title="H265/HEVC",HBO Family H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34865
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO H265/HEVC" tvg-logo="http://70.ms/Uf" group-title="H265/HEVC",HBO H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34864
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Mundi H265/HEVC" tvg-logo="https://fivetv.xyz/logos/HBO-MUNDI.png" group-title="H265/HEVC",HBO Mundi H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34858
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO+ H265/HEVC" tvg-logo="https://cdn4k.store/logos/hboplus.png" group-title="H265/HEVC",HBO+ H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34863
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Pop H265/HEVC" tvg-logo="https://cdn4k.store/logos/HBO-POP.png" group-title="H265/HEVC",HBO Pop H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34856
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Signature H265/HEVC" tvg-logo="http://70.ms/UK" group-title="H265/HEVC",HBO Signature H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34862
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Xtreme H265/HEVC" tvg-logo="https://fivetv.xyz/logos/HBO-XTREME.png" group-title="H265/HEVC",HBO Xtreme H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34857
+#EXTINF:-1 tvg-id="ID HD" tvg-name="Investigação Discovery H265/HEVC" tvg-logo="http://70.ms/Uj" group-title="H265/HEVC",Investigação Discovery H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34860
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime Channel H265/HEVC" tvg-logo="https://cdn4k.store/logos/lifetime.png" group-title="H265/HEVC",Lifetime Channel H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34859
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="Megapix H265/HEVC" tvg-logo="https://cdn4k.store/logos/megapix.png" group-title="H265/HEVC",Megapix H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34855
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV H265/HEVC" tvg-logo="http://70.ms/U7" group-title="H265/HEVC",MTV H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34854
+#EXTINF:-1 tvg-id="MULTISHOW HD" tvg-name="Multishow H265/HEVC" tvg-logo="http://70.ms/UG" group-title="H265/HEVC",Multishow H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34853
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr. H265/HEVC" tvg-logo="http://70.ms/UP" group-title="H265/HEVC",Nick Jr. H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34848
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon H265/HEVC" tvg-logo="http://70.ms/U3" group-title="H265/HEVC",Nickelodeon H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34849
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF H265/HEVC" tvg-logo="https://cdn4k.store/logos/off.png" group-title="H265/HEVC",OFF H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42472
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="Paramount Network  H265/HEVC" tvg-logo="http://70.ms/UU" group-title="H265/HEVC",Paramount Network  H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34847
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 H265/HEVC" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="H265/HEVC",Premiere 2 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34846
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 H265/HEVC" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="H265/HEVC",Premiere 3 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34845
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 H265/HEVC" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="H265/HEVC",Premiere 4 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34844
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 H265/HEVC" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="H265/HEVC",Premiere 5 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34843
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 H265/HEVC" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="H265/HEVC",Premiere 6 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34842
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 H265/HEVC" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="H265/HEVC",Premiere 7 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34841
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes H265/HEVC" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="H265/HEVC",Premiere Clubes H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34840
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record Campinas FHD H265" tvg-logo="https://cdn4k.store/logos/record.png" group-title="H265/HEVC",Record Campinas FHD H265
+http://cdn4k.net:80/mceliat/4157y8715/42480
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record H265/HEVC" tvg-logo="https://cdn4k.store/logos/record.png" group-title="H265/HEVC",Record H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34839
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record SP H265/HEVC" tvg-logo="https://cdn4k.store/logos/record.png" group-title="H265/HEVC",Record SP H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/63847
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record TV Goiania FHD H265/HEVC" tvg-logo="https://cdn4k.store/logos/record.png" group-title="H265/HEVC",Record TV Goiania FHD H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/68100
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="Rede TV H265/HEVC" tvg-logo="https://cdn4k.store/logos/redetv.png" group-title="H265/HEVC",Rede TV H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42473
+#EXTINF:-1 tvg-id="SBT" tvg-name="Serra Dourada FHD H265" tvg-logo="https://cdn4k.store/logos/sbt.png" group-title="H265/HEVC",Serra Dourada FHD H265
+http://cdn4k.net:80/mceliat/4157y8715/42481
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="Sony H265/HEVC" tvg-logo="https://cdn4k.store/logos/sony.png" group-title="H265/HEVC",Sony H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34896
+#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space H265/HEVC" tvg-logo="http://70.ms/Uh" group-title="H265/HEVC",Space H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34838
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="Sportv 2 H265/HEVC" tvg-logo="https://cdn4k.store/logos/sportv2.png" group-title="H265/HEVC",Sportv 2 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34837
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="Sportv 3 H265/HEVC" tvg-logo="https://cdn4k.store/logos/sportv3.png" group-title="H265/HEVC",Sportv 3 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34836
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="Sportv H265/HEVC" tvg-logo="http://70.ms/Ug" group-title="H265/HEVC",Sportv H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34835
+#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="Studio universal H265/HEVC" tvg-logo="http://70.ms/mS" group-title="H265/HEVC",Studio universal H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34834
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA H265/HEVC" tvg-logo="https://abrela.me/49a493127242260277dfcd9c0ba8c839" group-title="H265/HEVC",USA H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34833
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265" tvg-logo="https://cdn4k.store/logos/tbs.png" group-title="H265/HEVC",TBS FHD H265
+http://cdn4k.net:80/mceliat/4157y8715/42478
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action H265/HEVC" tvg-logo="https://fivetv.xyz/logos/telecineaction.png" group-title="H265/HEVC",Telecine Action H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34832
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult H265/HEVC" tvg-logo="http://70.ms/mL" group-title="H265/HEVC",Telecine Cult H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34831
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun H265/HEVC" tvg-logo="https://cdn4k.store/logos/telecinefun.png" group-title="H265/HEVC",Telecine Fun H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34830
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca H265/HEVC" tvg-logo="https://cdn4k.store/logos/telecinepipoca.png" group-title="H265/HEVC",Telecine Pipoca H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34829
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium H265/HEVC" tvg-logo="https://cdn4k.store/logos/telecinepremium.png" group-title="H265/HEVC",Telecine Premium H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34828
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch H265/HEVC" tvg-logo="https://cdn4k.store/logos/telecinetouch.png" group-title="H265/HEVC",Telecine Touch H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34827
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="The History Channel H265/HEVC" tvg-logo="http://70.ms/Ul" group-title="H265/HEVC",The History Channel H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34861
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC H265/HEVC" tvg-logo="https://cdn4k.store/logos/tlc.png" group-title="H265/HEVC",TLC H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42469
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT H265/HEVC" tvg-logo="https://cdn4k.store/logos/tnt.png" group-title="H265/HEVC",TNT H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34826
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Séries H265/HEVC" tvg-logo="https://cdn4k.store/logos/tntseries.png" group-title="H265/HEVC",TNT Séries H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34825
+#EXTINF:-1 tvg-id="Globogo.br" tvg-name="TV Anhanguera FHD H265" tvg-logo="https://abrela.me/glanhanguera" group-title="H265/HEVC",TV Anhanguera FHD H265
+http://cdn4k.net:80/mceliat/4157y8715/42483
+#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="Universal Channel H265/HEVC" tvg-logo="http://70.ms/mN" group-title="H265/HEVC",Universal Channel H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34824
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 H265/HEVC" tvg-logo="https://cdn4k.store/logos/vh1.png" group-title="H265/HEVC",VH1 H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42477
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="Warner Channel H265/HEVC" tvg-logo="https://cdn4k.store/logos/warner.png" group-title="H265/HEVC",Warner Channel H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/34823
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo H265/HEVC" tvg-logo="https://cdn4k.store/logos/woohoo.png" group-title="H265/HEVC",Woohoo H265/HEVC
+http://cdn4k.net:80/mceliat/4157y8715/42468
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo UHD 4K" tvg-logo="https://cdn4k.store/logos/globo.png" group-title="UHD 4K",Globo UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/28586
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="Record UHD 4K" tvg-logo="https://cdn4k.store/logos/record.png" group-title="UHD 4K",Record UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/39677
+#EXTINF:-1 tvg-id="BAND HD" tvg-name="Band UHD 4K" tvg-logo="https://cdn4k.store/logos/band.png" group-title="UHD 4K",Band UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/39410
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT UHD 4K" tvg-logo="https://cdn4k.store/logos/sbt.png" group-title="UHD 4K",SBT UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/39676
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="Animal Planet UHD 4K" tvg-logo="https://cdn4k.store/logos/animalplanet.png" group-title="UHD 4K",Animal Planet UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/109538
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN UHD 4K" tvg-logo="https://cdn4k.store/logos/axn.png" group-title="UHD 4K",AXN UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122144
+#EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network UHD 4K" tvg-logo="https://cdn4k.store/logos/cartoon.png" group-title="UHD 4K",Cartoon Network UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122247
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil UHD 4K" tvg-logo="https://cdn4k.store/logos/canalbrasil.png" group-title="UHD 4K",CNN Brasil UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122146
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate UHD 4K" tvg-logo="https://cdn4k.store/logos/combate.png" group-title="UHD 4K",Combate UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/28587
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="NFL 12" tvg-logo="https://irp-cdn.multiscreensite.com/c5a09bd2/dms3rep/multi/Screen+Shot+2019-03-10+at+9.55.12+PM.png" group-title="NFL GAMEPASS",NFL 12
+http://cdn4k.net:80/mceliat/4157y8715/122245
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Channel UHD 4K" tvg-logo="https://cdn4k.store/logos/discoverychannel.png" group-title="UHD 4K",Discovery Channel UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/39649
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery H&H UHD 4K" tvg-logo="https://cdn4k.store/logos/discoveryh&h.png" group-title="UHD 4K",Discovery H&H UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122243
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery Turbo UHD 4K" tvg-logo="https://cdn4k.store/logos/discoveryturbo.png" group-title="UHD 4K",Discovery Turbo UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122246
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN UHD 4K" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="UHD 4K",ESPN UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/98901
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 UHD 4K" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="UHD 4K",ESPN 5 UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/40785
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 UHD 4K" tvg-logo="https://cdn4k.store/logos/espn.png" group-title="UHD 4K",ESPN 4 UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/28589
+#EXTINF:-1 tvg-id="Tvgazetasp.br" tvg-name="Gazeta UHD 4K" tvg-logo="https://cdn4k.store/logos/tvgazeta.png" group-title="UHD 4K",Gazeta UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/98905
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo News UDH 4K" tvg-logo="https://cdn4k.store/logos/globo.png" group-title="UHD 4K",Globo News UDH 4K
+http://cdn4k.net:80/mceliat/4157y8715/122145
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT UHD 4K" tvg-logo="https://cdn4k.store/logos/gnt.png" group-title="UHD 4K",GNT UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122248
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Xtreme UHD 4K" tvg-logo="https://fivetv.xyz/logos/HBO-XTREME.png" group-title="UHD 4K",HBO Xtreme UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/98907
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO UHD 4K" tvg-logo="https://cdn4k.store/logos/hbo.png" group-title="UHD 4K",HBO UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/98904
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="Megapix UHD 4K" tvg-logo="https://cdn4k.store/logos/megapix.png" group-title="UHD 4K",Megapix UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/40784
+#EXTINF:-1 tvg-id="MULTISHOW HD" tvg-name="Multishow UHD 4K" tvg-logo="https://cdn4k.store/logos/multishow.png" group-title="UHD 4K",Multishow UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/40228
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes UHD 4K" tvg-logo="https://cdn4k.store/logos/premiere.png" group-title="UHD 4K",Premiere Clubes UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/28588
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="Rede TV UHD 4K" tvg-logo="https://cdn4k.store/logos/redetv.png" group-title="UHD 4K",Rede TV UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/39678
+#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space UHD 4K" tvg-logo="https://cdn4k.store/logos/space.png" group-title="UHD 4K",Space UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/98902
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV UHD 4K" tvg-logo="https://cdn4k.store/logos/sportv.png" group-title="UHD 4K",SporTV UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/28590
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action UHD 4K" tvg-logo="https://cdn4k.store/logos/telecineaction.png" group-title="UHD 4K",Telecine Action UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122250
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca UHD 4K" tvg-logo="https://cdn4k.store/logos/telecinepipoca.png" group-title="UHD 4K",Telecine Pipoca UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/98908
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium UHD 4K" tvg-logo="https://cdn4k.store/logos/telecinepremium.png" group-title="UHD 4K",Telecine Premium UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/98903
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT UHD 4K" tvg-logo="https://cdn4k.store/logos/tnt.png" group-title="UHD 4K",TNT UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/39648
+#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="Universal TV UHD 4K" tvg-logo="https://cdn4k.store/logos/universalchannel.png" group-title="UHD 4K",Universal TV UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122249
+#EXTINF:-1 tvg-id="VIVA HD" tvg-name="Viva UHD 4K" tvg-logo="https://cdn4k.store/logos/viva.png" group-title="UHD 4K",Viva UHD 4K
+http://cdn4k.net:80/mceliat/4157y8715/122244
 #EXTINF:-1 tvg-id="" tvg-name="Rock To You" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rock To You
 http://otrasbx.com:80/Aires2392/hbl7oecsu5/141040
 #EXTINF:-1 tvg-id="" tvg-name="Edmonton CHEDAM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Edmonton CHEDAM
