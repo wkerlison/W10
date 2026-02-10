@@ -2,7 +2,54 @@
 
 
 
-
+#EXTINF:-1 tvg-id="A Fazenda" tvg-name="Acompanhe a Casa FHD" tvg-logo="http://cdn4k.ink/logos/BBB26.png" group-title="BBB 26",Acompanhe a Casa FHD
+http://cdn4k.net:80/mceliat/4157y8715/256344
+#EXTINF:-1 tvg-id="" tvg-name="Acompanhe a Casa HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Acompanhe a Casa HD
+http://cdn4k.net:80/mceliat/4157y8715/256345
+#EXTINF:-1 tvg-id="" tvg-name="Acompanhe a Casa 2 FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Acompanhe a Casa 2 FHD
+http://cdn4k.net:80/mceliat/4157y8715/256346
+#EXTINF:-1 tvg-id="" tvg-name="Acompanhe a Casa 2 HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Acompanhe a Casa 2 HD
+http://cdn4k.net:80/mceliat/4157y8715/256347
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Mosaico FHD
+http://cdn4k.net:80/mceliat/4157y8715/256348
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Mosaico HD
+http://cdn4k.net:80/mceliat/4157y8715/256349
+#EXTINF:-1 tvg-id="" tvg-name="Cozinha FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Cozinha FHD
+http://cdn4k.net:80/mceliat/4157y8715/256350
+#EXTINF:-1 tvg-id="" tvg-name="Cozinha HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Cozinha HD
+http://cdn4k.net:80/mceliat/4157y8715/256352
+#EXTINF:-1 tvg-id="" tvg-name="Q. Sonho de Eternidade FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Q. Sonho de Eternidade FHD
+http://cdn4k.net:80/mceliat/4157y8715/256353
+#EXTINF:-1 tvg-id="" tvg-name="Q. Sonho de Eternidade HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Q. Sonho de Eternidade HD
+http://cdn4k.net:80/mceliat/4157y8715/256358
+#EXTINF:-1 tvg-id="" tvg-name="Q. Sonho de Voar FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Q. Sonho de Voar FHD
+http://cdn4k.net:80/mceliat/4157y8715/256372
+#EXTINF:-1 tvg-id="" tvg-name="Q. Sonho de Voar HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Q. Sonho de Voar HD
+http://cdn4k.net:80/mceliat/4157y8715/256373
+#EXTINF:-1 tvg-id="" tvg-name="Q. Sonho de Grande Amor FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Q. Sonho de Grande Amor FHD
+http://cdn4k.net:80/mceliat/4157y8715/256374
+#EXTINF:-1 tvg-id="" tvg-name="Q. Sonho de Grande Amor HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Q. Sonho de Grande Amor HD
+http://cdn4k.net:80/mceliat/4157y8715/256375
+#EXTINF:-1 tvg-id="" tvg-name="Cozinha 2 FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Cozinha 2 FHD
+http://cdn4k.net:80/mceliat/4157y8715/256377
+#EXTINF:-1 tvg-id="" tvg-name="Cozinha 2 HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Cozinha 2 HD
+http://cdn4k.net:80/mceliat/4157y8715/256378
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Banheiro FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Banheiro FHD
+http://cdn4k.net:80/mceliat/4157y8715/260288
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Banheiro HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Banheiro HD
+http://cdn4k.net:80/mceliat/4157y8715/260289
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Sala FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Sala FHD
+http://cdn4k.net:80/mceliat/4157y8715/260290
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Sala HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Sala HD
+http://cdn4k.net:80/mceliat/4157y8715/260291
+#EXTINF:-1 tvg-id="Afazenda.br" tvg-name="Piscina FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Piscina FHD
+http://cdn4k.net:80/mceliat/4157y8715/260292
+#EXTINF:-1 tvg-id="BBB 2025" tvg-name="Piscina HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Piscina HD
+http://cdn4k.net:80/mceliat/4157y8715/260293
+#EXTINF:-1 tvg-id="BBB 2025" tvg-name="Academia FHD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Academia FHD
+http://cdn4k.net:80/mceliat/4157y8715/260294
+#EXTINF:-1 tvg-id="BBB 2025" tvg-name="Academia HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Academia HD
+http://cdn4k.net:80/mceliat/4157y8715/260295
 #EXTINF:-1 tvg-id="" tvg-name="Rock To You" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rock To You
 http://otrasbx.com:80/Aires2392/hbl7oecsu5/141040
 #EXTINF:-1 tvg-id="" tvg-name="Edmonton CHEDAM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Edmonton CHEDAM
