@@ -50,72 +50,6 @@ http://cdn4k.net:80/mceliat/4157y8715/260293
 http://cdn4k.net:80/mceliat/4157y8715/260294
 #EXTINF:-1 tvg-id="BBB 2025" tvg-name="Academia HD" tvg-logo="http://cdn4k.club/logos/BBB26.png" group-title="BBB 26",Academia HD
 http://cdn4k.net:80/mceliat/4157y8715/260295
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD Legendado" tvg-logo="https://cdn4k.store/logos/axn.png" group-title="LEGENDADOS",AXN HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28585
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD Legendado" tvg-logo="https://cdn4k.store/logos/hbo.png" group-title="LEGENDADOS",HBO FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95580
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD Legendado" tvg-logo="https://cdn4k.store/logos/hbo.png" group-title="LEGENDADOS",HBO HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28581
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Mundi FHD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-MUNDI.png" group-title="LEGENDADOS",HBO Mundi FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95584
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Mundi HD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-MUNDI.png" group-title="LEGENDADOS",HBO Mundi HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28576
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO+ FHD Legendado" tvg-logo="https://cdn4k.store/logos/hboplus.png" group-title="LEGENDADOS",HBO+ FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95581
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO+ HD Legendado" tvg-logo="https://cdn4k.store/logos/hboplus.png" group-title="LEGENDADOS",HBO+ HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28579
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Pop FHD Legendado" tvg-logo="https://cdn4k.store/logos/HBO-POP.png" group-title="LEGENDADOS",HBO Pop FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95585
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Pop HD Legendado" tvg-logo="https://cdn4k.store/logos/HBO-POP.png" group-title="LEGENDADOS",HBO Pop HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28561
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Signature FHD Legendado" tvg-logo="https://cdn4k.store/logos/hbosignature.png" group-title="LEGENDADOS",HBO Signature FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95582
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Signature HD Legendado" tvg-logo="https://cdn4k.store/logos/hbosignature.png" group-title="LEGENDADOS",HBO Signature HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95583
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Xtreme FHD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-XTREME.png" group-title="LEGENDADOS",HBO Xtreme FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95586
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO Xtreme HD Legendado" tvg-logo="https://cdn4k.ink/logos/HBO-XTREME.png" group-title="LEGENDADOS",HBO Xtreme HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28577
-#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="Megapix HD Legendado" tvg-logo="https://cdn4k.store/logos/megapix.png" group-title="LEGENDADOS",Megapix HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28559
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="Sony HD Legendado" tvg-logo="https://cdn4k.store/logos/sony.png" group-title="LEGENDADOS",Sony HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28551
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space HD Legendado" tvg-logo="https://cdn4k.store/logos/space.png" group-title="LEGENDADOS",Space HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28557
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action FHD Legendado" tvg-logo="https://fivetv.xyz/logos/telecineaction.png" group-title="LEGENDADOS",Telecine Action FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95575
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD Legendado" tvg-logo="https://cdn4k.ink/logos/TELECINE-ACTION.png" group-title="LEGENDADOS",Telecine Action HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28575
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinecult.png" group-title="LEGENDADOS",Telecine Cult FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95578
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinecult.png" group-title="LEGENDADOS",Telecine Cult HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95579
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinefun.png" group-title="LEGENDADOS",Telecine Fun FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95577
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinefun.png" group-title="LEGENDADOS",Telecine Fun HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28573
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepipoca.png" group-title="LEGENDADOS",Telecine Pipoca FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95573
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepipoca.png" group-title="LEGENDADOS",Telecine Pipoca HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28571
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepremium.png" group-title="LEGENDADOS",Telecine Premium FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95574
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinepremium.png" group-title="LEGENDADOS",Telecine Premium HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28569
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch FHD Legendado" tvg-logo="https://cdn4k.store/logos/telecinetouch.png" group-title="LEGENDADOS",Telecine Touch FHD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/95576
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD Legendado" tvg-logo="https://cdn4k.store/logos/telecinetouch.png" group-title="LEGENDADOS",Telecine Touch HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28567
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD Legendado" tvg-logo="https://cdn4k.ink/logos/TNT.png" group-title="LEGENDADOS",TNT HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28565
-#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Series HD Legendado" tvg-logo="https://cdn4k.store/logos/tntseries.png" group-title="LEGENDADOS",TNT Series HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28555
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="Warner Channel HD Legendado" tvg-logo="https://cdn4k.store/logos/warner.png" group-title="LEGENDADOS",Warner Channel HD Legendado
-http://cdn4k.net:80/mceliat/4157y8715/28553
-#EXTINF:-1 tvg-id="" tvg-name="MaXXXine - 2024 (L)" tvg-logo="http://cdn4k.store:80/images/dmi277uSdCavkSLTVNBUMlyDYy0_big.jpg" group-title="LEGENDADOS",MaXXXine - 2024 (L)
-http://cdn4k.net:80/movie/mceliat/4157y8715/255171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Look At Me  XXXTENTACION - 2022 (L)" tvg-logo="http://cdn4k.store:80/images/3BUCbEMFdizaBrNbH6lEfDdNtku_big.jpg" group-title="LEGENDADOS",Look At Me  XXXTENTACION - 2022 (L)
-http://cdn4k.net:80/movie/mceliat/4157y8715/226985.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avatar  O Caminho da Agua - 2022 (L) UHD 4K" tvg-logo="http://cdn4k.store:80/images/mbYQLLluS651W89jO7MOZcLSCUw_big.jpg" group-title="LEGENDADOS",Avatar  O Caminho da Agua - 2022 (L) UHD 4K
 http://cdn4k.net:80/movie/mceliat/4157y8715/220729.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World Reino Ameacado - 2018 UHD 4k (L)" tvg-logo="http://cdn4k.store:80/images/7xykpkKqfBfDgEKvS4jqpFF0S4K_big.jpg" group-title="UHD 4K",Jurassic World Reino Ameacado - 2018 UHD 4k (L)
@@ -350,6 +284,1296 @@ http://cdn4k.net:80/mceliat/4157y8715/39648
 http://cdn4k.net:80/mceliat/4157y8715/122249
 #EXTINF:-1 tvg-id="VIVA HD" tvg-name="Viva UHD 4K" tvg-logo="https://cdn4k.store/logos/viva.png" group-title="UHD 4K",Viva UHD 4K
 http://cdn4k.net:80/mceliat/4157y8715/122244
+#EXTINF:-1 tvg-id="" tvg-name="Meu Ex Meu Amor o Plano Perfeito" tvg-logo="" group-title="REELSHORT 24 HORAS",Meu Ex Meu Amor o Plano Perfeito
+http://cdn4k.net:80/mceliat/4157y8715/370403
+#EXTINF:-1 tvg-id="" tvg-name="Meu Bebe gangster Papai Me Mima Ate o Paraiso" tvg-logo="" group-title="REELSHORT 24 HORAS",Meu Bebe gangster Papai Me Mima Ate o Paraiso
+http://cdn4k.net:80/mceliat/4157y8715/370402
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amante e um Sniper" tvg-logo="" group-title="REELSHORT 24 HORAS",Meu Amante e um Sniper
+http://cdn4k.net:80/mceliat/4157y8715/370401
+#EXTINF:-1 tvg-id="" tvg-name="Mamae Nao Chore Papai Esta Arrependido" tvg-logo="" group-title="REELSHORT 24 HORAS",Mamae Nao Chore Papai Esta Arrependido
+http://cdn4k.net:80/mceliat/4157y8715/370400
+#EXTINF:-1 tvg-id="" tvg-name="Ja Que Voce Nunca Foi Minha" tvg-logo="" group-title="REELSHORT 24 HORAS",Ja Que Voce Nunca Foi Minha
+http://cdn4k.net:80/mceliat/4157y8715/370399
+#EXTINF:-1 tvg-id="" tvg-name="Imortal  ja Estive la Fiz Isso" tvg-logo="" group-title="REELSHORT 24 HORAS",Imortal  ja Estive la Fiz Isso
+http://cdn4k.net:80/mceliat/4157y8715/370398
+#EXTINF:-1 tvg-id="" tvg-name="Gravida Pelo Pai do Meu EX" tvg-logo="" group-title="REELSHORT 24 HORAS",Gravida Pelo Pai do Meu EX
+http://cdn4k.net:80/mceliat/4157y8715/370397
+#EXTINF:-1 tvg-id="" tvg-name="Fortuna Revelada Meu Marido e de Estouro" tvg-logo="" group-title="REELSHORT 24 HORAS",Fortuna Revelada Meu Marido e de Estouro
+http://cdn4k.net:80/mceliat/4157y8715/370396
+#EXTINF:-1 tvg-id="" tvg-name="Escuto Sua Voz" tvg-logo="" group-title="REELSHORT 24 HORAS",Escuto Sua Voz
+http://cdn4k.net:80/mceliat/4157y8715/370395
+#EXTINF:-1 tvg-id="" tvg-name="Encontrei um Marido Multimilionario Sem Teto Para o Natal" tvg-logo="" group-title="REELSHORT 24 HORAS",Encontrei um Marido Multimilionario Sem Teto Para o Natal
+http://cdn4k.net:80/mceliat/4157y8715/370394
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Bob Zoom
+http://cdn4k.net:80/mceliat/4157y8715/348651
+#EXTINF:-1 tvg-id="" tvg-name="Voce Sera Meu Amor Novamente" tvg-logo="" group-title="REELSHORT 24 HORAS",Voce Sera Meu Amor Novamente
+http://cdn4k.net:80/mceliat/4157y8715/345023
+#EXTINF:-1 tvg-id="" tvg-name="Viciado Nela a Querida Mimada do Ceo" tvg-logo="" group-title="REELSHORT 24 HORAS",Viciado Nela a Querida Mimada do Ceo
+http://cdn4k.net:80/mceliat/4157y8715/345022
+#EXTINF:-1 tvg-id="" tvg-name="Ultima Batida por Amor" tvg-logo="" group-title="REELSHORT 24 HORAS",Ultima Batida por Amor
+http://cdn4k.net:80/mceliat/4157y8715/345021
+#EXTINF:-1 tvg-id="" tvg-name="Substituta Errada para o Bilionário Implacável" tvg-logo="" group-title="REELSHORT 24 HORAS",Substituta Errada para o Bilionário Implacável
+http://cdn4k.net:80/mceliat/4157y8715/345020
+#EXTINF:-1 tvg-id="" tvg-name="Substituta Acidental para o Alfa" tvg-logo="" group-title="REELSHORT 24 HORAS",Substituta Acidental para o Alfa
+http://cdn4k.net:80/mceliat/4157y8715/345019
+#EXTINF:-1 tvg-id="" tvg-name="Sou Nada Mais Que Um Mortal" tvg-logo="" group-title="REELSHORT 24 HORAS",Sou Nada Mais Que Um Mortal
+http://cdn4k.net:80/mceliat/4157y8715/345018
+#EXTINF:-1 tvg-id="" tvg-name="Sob a Luz das Flores Caidas Dublado" tvg-logo="" group-title="REELSHORT 24 HORAS",Sob a Luz das Flores Caidas Dublado
+http://cdn4k.net:80/mceliat/4157y8715/345017
+#EXTINF:-1 tvg-id="" tvg-name="Seja Meu Obediente Sr Oliveira" tvg-logo="" group-title="REELSHORT 24 HORAS",Seja Meu Obediente Sr Oliveira
+http://cdn4k.net:80/mceliat/4157y8715/345016
+#EXTINF:-1 tvg-id="" tvg-name="Segredos da Orquidea Dublado" tvg-logo="" group-title="REELSHORT 24 HORAS",Segredos da Orquidea Dublado
+http://cdn4k.net:80/mceliat/4157y8715/345015
+#EXTINF:-1 tvg-id="" tvg-name="Rumoa Ruina Pagar As Suas Acoes Dublado" tvg-logo="" group-title="REELSHORT 24 HORAS",Rumoa Ruina Pagar As Suas Acoes Dublado
+http://cdn4k.net:80/mceliat/4157y8715/345014
+#EXTINF:-1 tvg-id="" tvg-name="A ceo secreta" tvg-logo="" group-title="REELSHORT 24 HORAS",A ceo secreta
+http://cdn4k.net:80/mceliat/4157y8715/334709
+#EXTINF:-1 tvg-id="" tvg-name="A chefa nao finge mais" tvg-logo="" group-title="REELSHORT 24 HORAS",A chefa nao finge mais
+http://cdn4k.net:80/mceliat/4157y8715/334708
+#EXTINF:-1 tvg-id="" tvg-name="A dama chefe da traida a amada" tvg-logo="" group-title="REELSHORT 24 HORAS",A dama chefe da traida a amada
+http://cdn4k.net:80/mceliat/4157y8715/334707
+#EXTINF:-1 tvg-id="" tvg-name="A doce esposa gravida mimada pelo marido milionario" tvg-logo="" group-title="REELSHORT 24 HORAS",A doce esposa gravida mimada pelo marido milionario
+http://cdn4k.net:80/mceliat/4157y8715/334706
+#EXTINF:-1 tvg-id="" tvg-name="A esposa xxl do prefeito seu retorno incrivel" tvg-logo="" group-title="REELSHORT 24 HORAS",A esposa xxl do prefeito seu retorno incrivel
+http://cdn4k.net:80/mceliat/4157y8715/334705
+#EXTINF:-1 tvg-id="" tvg-name="A herdeira bilionaria divorciada" tvg-logo="" group-title="REELSHORT 24 HORAS",A herdeira bilionaria divorciada
+http://cdn4k.net:80/mceliat/4157y8715/334703
+#EXTINF:-1 tvg-id="" tvg-name="A incrivel celilia" tvg-logo="" group-title="REELSHORT 24 HORAS",A incrivel celilia
+http://cdn4k.net:80/mceliat/4157y8715/334697
+#EXTINF:-1 tvg-id="" tvg-name="Alma Gemea Indesejada" tvg-logo="" group-title="REELSHORT 24 HORAS",Alma Gemea Indesejada
+http://cdn4k.net:80/mceliat/4157y8715/334695
+#EXTINF:-1 tvg-id="" tvg-name="Amantes Inimigos" tvg-logo="" group-title="REELSHORT 24 HORAS",Amantes Inimigos
+http://cdn4k.net:80/mceliat/4157y8715/334693
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Primeira Vista" tvg-logo="" group-title="REELSHORT 24 HORAS",Amor a Primeira Vista
+http://cdn4k.net:80/mceliat/4157y8715/334692
+#EXTINF:-1 tvg-id="" tvg-name="A vida secreta do meu marido milionario" tvg-logo="" group-title="REELSHORT 24 HORAS",A vida secreta do meu marido milionario
+http://cdn4k.net:80/mceliat/4157y8715/334689
+#EXTINF:-1 tvg-id="" tvg-name="Quilos Mortais" tvg-logo="" group-title="SERIES 24 HORAS",Quilos Mortais
+http://cdn4k.net:80/mceliat/4157y8715/334680
+#EXTINF:-1 tvg-id="" tvg-name="Power Slap" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Power Slap
+http://cdn4k.net:80/mceliat/4157y8715/198504
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Area Restrica 24h" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Aeroporto Area Restrica 24h
+http://cdn4k.net:80/mceliat/4157y8715/327840
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Vingadores" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel - Vingadores
+http://cdn4k.net:80/mceliat/4157y8715/310374
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Trilogia Homem-Aranha" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel - Trilogia Homem-Aranha
+http://cdn4k.net:80/mceliat/4157y8715/310373
+#EXTINF:-1 tvg-id="" tvg-name="Marvel The Gifted S01" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel The Gifted S01
+http://cdn4k.net:80/mceliat/4157y8715/310372
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Quarteto Fantastico" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel - Quarteto Fantastico
+http://cdn4k.net:80/mceliat/4157y8715/310371
+#EXTINF:-1 tvg-id="" tvg-name="Marvel o Mandaloriano S01" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel o Mandaloriano S01
+http://cdn4k.net:80/mceliat/4157y8715/310370
+#EXTINF:-1 tvg-id="" tvg-name="Marvel o Legado de Jupiter S01" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel o Legado de Jupiter S01
+http://cdn4k.net:80/mceliat/4157y8715/310369
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Jessica Jones S02" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Jessica Jones S02
+http://cdn4k.net:80/mceliat/4157y8715/310264
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Jessica Jones S01" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Jessica Jones S01
+http://cdn4k.net:80/mceliat/4157y8715/310263
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Inumanos S01" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel - Inumanos S01
+http://cdn4k.net:80/mceliat/4157y8715/310262
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Homem de Ferro" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel - Homem de Ferro
+http://cdn4k.net:80/mceliat/4157y8715/310249
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Luke Cage S02" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Luke Cage S02
+http://cdn4k.net:80/mceliat/4157y8715/310182
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Luke Cage S01" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Luke Cage S01
+http://cdn4k.net:80/mceliat/4157y8715/310181
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agents da Shield S06" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Agents da Shield S06
+http://cdn4k.net:80/mceliat/4157y8715/310180
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agents da Shield S05" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Agents da Shield S05
+http://cdn4k.net:80/mceliat/4157y8715/310179
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agents da Shield S04" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Agents da Shield S04
+http://cdn4k.net:80/mceliat/4157y8715/310113
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agents da Shield S03" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Agents da Shield S03
+http://cdn4k.net:80/mceliat/4157y8715/310112
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agents da Shield S02" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Agents da Shield S02
+http://cdn4k.net:80/mceliat/4157y8715/310111
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Agents da Shield S01" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Marvel Agents da Shield S01
+http://cdn4k.net:80/mceliat/4157y8715/310110
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Desenho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Marvel Desenho
+http://cdn4k.net:80/mceliat/4157y8715/310109
+#EXTINF:-1 tvg-id="" tvg-name="Marvel - Ordem Cronologica 01" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel - Ordem Cronologica 01
+http://cdn4k.net:80/mceliat/4157y8715/310108
+#EXTINF:-1 tvg-id="" tvg-name="Pagode 2" tvg-logo="" group-title="CLIPES 24 HORAS",Pagode 2
+http://cdn4k.net:80/mceliat/4157y8715/310107
+#EXTINF:-1 tvg-id="" tvg-name="Gospel 2" tvg-logo="" group-title="CLIPES 24 HORAS",Gospel 2
+http://cdn4k.net:80/mceliat/4157y8715/310106
+#EXTINF:-1 tvg-id="" tvg-name="Forró" tvg-logo="" group-title="CLIPES 24 HORAS",Forró
+http://cdn4k.net:80/mceliat/4157y8715/310088
+#EXTINF:-1 tvg-id="" tvg-name="Eletrônica" tvg-logo="" group-title="CLIPES 24 HORAS",Eletrônica
+http://cdn4k.net:80/mceliat/4157y8715/310012
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S05" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Bates Motel S05
+http://cdn4k.net:80/mceliat/4157y8715/309531
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S04" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Bates Motel S04
+http://cdn4k.net:80/mceliat/4157y8715/309530
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S03" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Bates Motel S03
+http://cdn4k.net:80/mceliat/4157y8715/309529
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S02" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Bates Motel S02
+http://cdn4k.net:80/mceliat/4157y8715/309528
+#EXTINF:-1 tvg-id="" tvg-name="Bates Motel S01" tvg-logo="" group-title="SERIES 24H POR TEMPORADA",Bates Motel S01
+http://cdn4k.net:80/mceliat/4157y8715/309527
+#EXTINF:-1 tvg-id="" tvg-name="Marvel-Filmes 2" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel-Filmes 2
+http://cdn4k.net:80/mceliat/4157y8715/309526
+#EXTINF:-1 tvg-id="" tvg-name="Marvel-Filmes 1
+" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Marvel-Filmes 1
+
+http://cdn4k.net:80/mceliat/4157y8715/309525
+#EXTINF:-1 tvg-id="" tvg-name="Mini Filmes" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mini Filmes
+http://cdn4k.net:80/mceliat/4157y8715/309524
+#EXTINF:-1 tvg-id="" tvg-name="A turma do charlie brown e snoopy" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do charlie brown e snoopy
+http://cdn4k.net:80/mceliat/4157y8715/309523
+#EXTINF:-1 tvg-id="" tvg-name="A turma do abobrinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do abobrinha
+http://cdn4k.net:80/mceliat/4157y8715/309522
+#EXTINF:-1 tvg-id="" tvg-name="A turma do archie" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do archie
+http://cdn4k.net:80/mceliat/4157y8715/309521
+#EXTINF:-1 tvg-id="" tvg-name="A pequena sereia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A pequena sereia
+http://cdn4k.net:80/mceliat/4157y8715/309520
+#EXTINF:-1 tvg-id="" tvg-name="A mumia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A mumia
+http://cdn4k.net:80/mceliat/4157y8715/309519
+#EXTINF:-1 tvg-id="" tvg-name="A mansao foster para amigos imaginarios" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A mansao foster para amigos imaginarios
+http://cdn4k.net:80/mceliat/4157y8715/309518
+#EXTINF:-1 tvg-id="" tvg-name="A guarda do leao" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A guarda do leao
+http://cdn4k.net:80/mceliat/4157y8715/309517
+#EXTINF:-1 tvg-id="" tvg-name="A formiga e o tamandua" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A formiga e o tamandua
+http://cdn4k.net:80/mceliat/4157y8715/309516
+#EXTINF:-1 tvg-id="" tvg-name="A feiticeira faceira" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A feiticeira faceira
+http://cdn4k.net:80/mceliat/4157y8715/309515
+#EXTINF:-1 tvg-id="" tvg-name="A corrida especial do ze colmeia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A corrida especial do ze colmeia
+http://cdn4k.net:80/mceliat/4157y8715/309514
+#EXTINF:-1 tvg-id="" tvg-name="A coisa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A coisa
+http://cdn4k.net:80/mceliat/4157y8715/309513
+#EXTINF:-1 tvg-id="" tvg-name="A cobrinha azul" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A cobrinha azul
+http://cdn4k.net:80/mceliat/4157y8715/309512
+#EXTINF:-1 tvg-id="" tvg-name="A cegonha da perna fina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A cegonha da perna fina
+http://cdn4k.net:80/mceliat/4157y8715/309511
+#EXTINF:-1 tvg-id="" tvg-name="A bruxinha sabrina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A bruxinha sabrina
+http://cdn4k.net:80/mceliat/4157y8715/309510
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang a Teoria" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Big Bang a Teoria
+http://cdn4k.net:80/mceliat/4157y8715/262915
+#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tres Espias Demais
+http://cdn4k.net:80/mceliat/4157y8715/262914
+#EXTINF:-1 tvg-id="" tvg-name="O xodo da vovo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O xodo da vovo
+http://cdn4k.net:80/mceliat/4157y8715/259779
+#EXTINF:-1 tvg-id="" tvg-name="Dora a Aventureira" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dora a Aventureira
+http://cdn4k.net:80/mceliat/4157y8715/258751
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Piggley Winks" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As Aventuras de Piggley Winks
+http://cdn4k.net:80/mceliat/4157y8715/258750
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mortal Kombat
+http://cdn4k.net:80/mceliat/4157y8715/257932
+#EXTINF:-1 tvg-id="" tvg-name="Mr.bean²" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Mr.bean²
+http://cdn4k.net:80/mceliat/4157y8715/257931
+#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Medabots
+http://cdn4k.net:80/mceliat/4157y8715/257929
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Luluzinha
+http://cdn4k.net:80/mceliat/4157y8715/257928
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Kenan e Kel
+http://cdn4k.net:80/mceliat/4157y8715/257927
+#EXTINF:-1 tvg-id="" tvg-name="Jiraya o Incrível Ninja" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Jiraya o Incrível Ninja
+http://cdn4k.net:80/mceliat/4157y8715/257926
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Jaspion
+http://cdn4k.net:80/mceliat/4157y8715/257925
+#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Jack-Chan
+http://cdn4k.net:80/mceliat/4157y8715/257924
+#EXTINF:-1 tvg-id="" tvg-name="Incrível Hulk" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Incrível Hulk
+http://cdn4k.net:80/mceliat/4157y8715/257916
+#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",MIB Homens de Preto
+http://cdn4k.net:80/mceliat/4157y8715/257872
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Homem de Ferro
+http://cdn4k.net:80/mceliat/4157y8715/257579
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Disney" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Histórias Disney
+http://cdn4k.net:80/mceliat/4157y8715/257562
+#EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Hercules
+http://cdn4k.net:80/mceliat/4157y8715/257561
+#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Guardioes da Galaxia
+http://cdn4k.net:80/mceliat/4157y8715/257560
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Formiga Atomica
+http://cdn4k.net:80/mceliat/4157y8715/257472
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Desenho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Chaves Desenho
+http://cdn4k.net:80/mceliat/4157y8715/257471
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Chapolin Colorado
+http://cdn4k.net:80/mceliat/4157y8715/257470
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragao" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Caverna do Dragao
+http://cdn4k.net:80/mceliat/4157y8715/257469
+#EXTINF:-1 tvg-id="" tvg-name="Cao Coragem" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Cao Coragem
+http://cdn4k.net:80/mceliat/4157y8715/257468
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",BEN 10
+http://cdn4k.net:80/mceliat/4157y8715/257467
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As Meninas Superpoderosas
+http://cdn4k.net:80/mceliat/4157y8715/257301
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Aladdin
+http://cdn4k.net:80/mceliat/4157y8715/257300
+#EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",He-Man
+http://cdn4k.net:80/mceliat/4157y8715/256660
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Raven" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",A Casa da Raven
+http://cdn4k.net:80/mceliat/4157y8715/255717
+#EXTINF:-1 tvg-id="" tvg-name="Friends S10" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S10
+http://cdn4k.net:80/mceliat/4157y8715/254595
+#EXTINF:-1 tvg-id="" tvg-name="Friends S09" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S09
+http://cdn4k.net:80/mceliat/4157y8715/254594
+#EXTINF:-1 tvg-id="" tvg-name="Friends S08" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S08
+http://cdn4k.net:80/mceliat/4157y8715/254593
+#EXTINF:-1 tvg-id="" tvg-name="Friends S07" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S07
+http://cdn4k.net:80/mceliat/4157y8715/254592
+#EXTINF:-1 tvg-id="" tvg-name="Friends S06" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S06
+http://cdn4k.net:80/mceliat/4157y8715/254590
+#EXTINF:-1 tvg-id="" tvg-name="Friends S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S05
+http://cdn4k.net:80/mceliat/4157y8715/254589
+#EXTINF:-1 tvg-id="" tvg-name="Friends S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S04
+http://cdn4k.net:80/mceliat/4157y8715/254588
+#EXTINF:-1 tvg-id="" tvg-name="Friends S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S03
+http://cdn4k.net:80/mceliat/4157y8715/254587
+#EXTINF:-1 tvg-id="" tvg-name="Friends S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S02
+http://cdn4k.net:80/mceliat/4157y8715/254585
+#EXTINF:-1 tvg-id="" tvg-name="Friends S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Friends S01
+http://cdn4k.net:80/mceliat/4157y8715/254583
+#EXTINF:-1 tvg-id="" tvg-name="O inspetor" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O inspetor
+http://cdn4k.net:80/mceliat/4157y8715/254388
+#EXTINF:-1 tvg-id="" tvg-name="Maguila o Gorila" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Maguila o Gorila
+http://cdn4k.net:80/mceliat/4157y8715/254387
+#EXTINF:-1 tvg-id="" tvg-name="A Familia Draculá" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Familia Draculá
+http://cdn4k.net:80/mceliat/4157y8715/254345
+#EXTINF:-1 tvg-id="" tvg-name="Para Relaxar oceano" tvg-logo="https://cdn4k.store/logos/RELAXAR-24HS.png" group-title="24 HORAS PARA RELAXAR",Para Relaxar oceano
+http://cdn4k.net:80/mceliat/4157y8715/155641
+#EXTINF:-1 tvg-id="" tvg-name="Para Relaxar natureza 4" tvg-logo="https://cdn4k.store/logos/RELAXAR-24HS.png" group-title="24 HORAS PARA RELAXAR",Para Relaxar natureza 4
+http://cdn4k.net:80/mceliat/4157y8715/155640
+#EXTINF:-1 tvg-id="" tvg-name="Para Relaxar natureza 3" tvg-logo="https://cdn4k.store/logos/RELAXAR-24HS.png" group-title="24 HORAS PARA RELAXAR",Para Relaxar natureza 3
+http://cdn4k.net:80/mceliat/4157y8715/155639
+#EXTINF:-1 tvg-id="" tvg-name="Para Relaxar Natureza 2" tvg-logo="https://cdn4k.store/logos/RELAXAR-24HS.png" group-title="24 HORAS PARA RELAXAR",Para Relaxar Natureza 2
+http://cdn4k.net:80/mceliat/4157y8715/155638
+#EXTINF:-1 tvg-id="" tvg-name="Para Relaxar natureza 1" tvg-logo="https://cdn4k.store/logos/RELAXAR-24HS.png" group-title="24 HORAS PARA RELAXAR",Para Relaxar natureza 1
+http://cdn4k.net:80/mceliat/4157y8715/155637
+#EXTINF:-1 tvg-id="" tvg-name="HunterXHunter" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",HunterXHunter
+http://cdn4k.net:80/mceliat/4157y8715/94254
+#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",One Piece
+http://cdn4k.net:80/mceliat/4157y8715/93030
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s04 campeões da liga johto" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s04 campeões da liga johto
+http://cdn4k.net:80/mceliat/4157y8715/155657
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s05 master quest" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s05 master quest
+http://cdn4k.net:80/mceliat/4157y8715/155656
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s06 advanced generation" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s06 advanced generation
+http://cdn4k.net:80/mceliat/4157y8715/155655
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s07 advanced challenge" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s07 advanced challenge
+http://cdn4k.net:80/mceliat/4157y8715/155654
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s08 advanced battle" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s08 advanced battle
+http://cdn4k.net:80/mceliat/4157y8715/155653
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s09 battle frontier" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s09 battle frontier
+http://cdn4k.net:80/mceliat/4157y8715/155652
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s10 diamond e pearl" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s10 diamond e pearl
+http://cdn4k.net:80/mceliat/4157y8715/155651
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s12 batalhas galáticas" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s12 batalhas galáticas
+http://cdn4k.net:80/mceliat/4157y8715/155649
+#EXTINF:-1 tvg-id="" tvg-name="Shuriken School" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Shuriken School
+http://cdn4k.net:80/mceliat/4157y8715/155644
+#EXTINF:-1 tvg-id="" tvg-name="kakegurui" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",kakegurui
+http://cdn4k.net:80/mceliat/4157y8715/156194
+#EXTINF:-1 tvg-id="" tvg-name="isekai wa smartphone to tomo ni" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",isekai wa smartphone to tomo ni
+http://cdn4k.net:80/mceliat/4157y8715/156191
+#EXTINF:-1 tvg-id="" tvg-name="hisone to maso tan pilotos de dragao" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",hisone to maso tan pilotos de dragao
+http://cdn4k.net:80/mceliat/4157y8715/156190
+#EXTINF:-1 tvg-id="" tvg-name="High Score Girl" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",High Score Girl
+http://cdn4k.net:80/mceliat/4157y8715/156189
+#EXTINF:-1 tvg-id="" tvg-name="Hellen Chan Bokurano" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Hellen Chan Bokurano
+http://cdn4k.net:80/mceliat/4157y8715/156188
+#EXTINF:-1 tvg-id="" tvg-name="heat guy j" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",heat guy j
+http://cdn4k.net:80/mceliat/4157y8715/156187
+#EXTINF:-1 tvg-id="" tvg-name="guts clann fate apocrypha" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",guts clann fate apocrypha
+http://cdn4k.net:80/mceliat/4157y8715/156186
+#EXTINF:-1 tvg-id="" tvg-name="Gunjou no Magmell" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Gunjou no Magmell
+http://cdn4k.net:80/mceliat/4157y8715/156185
+#EXTINF:-1 tvg-id="" tvg-name="gun frontier" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",gun frontier
+http://cdn4k.net:80/mceliat/4157y8715/156184
+#EXTINF:-1 tvg-id="" tvg-name="ghost hound" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",ghost hound
+http://cdn4k.net:80/mceliat/4157y8715/156183
+#EXTINF:-1 tvg-id="" tvg-name="gekkan shoujo nozaki kun" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",gekkan shoujo nozaki kun
+http://cdn4k.net:80/mceliat/4157y8715/156182
+#EXTINF:-1 tvg-id="" tvg-name="Free! iwatobi swim club" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Free! iwatobi swim club
+http://cdn4k.net:80/mceliat/4157y8715/156181
+#EXTINF:-1 tvg-id="" tvg-name="fatestay night" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",fatestay night
+http://cdn4k.net:80/mceliat/4157y8715/156180
+#EXTINF:-1 tvg-id="" tvg-name="el hazard" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",el hazard
+http://cdn4k.net:80/mceliat/4157y8715/156179
+#EXTINF:-1 tvg-id="" tvg-name="Dorohedoro" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dorohedoro
+http://cdn4k.net:80/mceliat/4157y8715/156178
+#EXTINF:-1 tvg-id="" tvg-name="DNA 2" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",DNA 2
+http://cdn4k.net:80/mceliat/4157y8715/156177
+#EXTINF:-1 tvg-id="" tvg-name="diabolik lovers" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",diabolik lovers
+http://cdn4k.net:80/mceliat/4157y8715/156176
+#EXTINF:-1 tvg-id="" tvg-name="demi chan wa kataritai" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",demi chan wa kataritai
+http://cdn4k.net:80/mceliat/4157y8715/156175
+#EXTINF:-1 tvg-id="" tvg-name="Conde de Monte Cristo" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Conde de Monte Cristo
+http://cdn4k.net:80/mceliat/4157y8715/156174
+#EXTINF:-1 tvg-id="" tvg-name="chikyuu shoujo arjuna" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",chikyuu shoujo arjuna
+http://cdn4k.net:80/mceliat/4157y8715/156173
+#EXTINF:-1 tvg-id="" tvg-name="carole tuesday" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",carole tuesday
+http://cdn4k.net:80/mceliat/4157y8715/156172
+#EXTINF:-1 tvg-id="" tvg-name="cannon busters" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",cannon busters
+http://cdn4k.net:80/mceliat/4157y8715/156171
+#EXTINF:-1 tvg-id="" tvg-name="Cacadores de Elfas atacam!" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Cacadores de Elfas atacam!
+http://cdn4k.net:80/mceliat/4157y8715/156170
+#EXTINF:-1 tvg-id="" tvg-name="bungou stray dogs" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",bungou stray dogs
+http://cdn4k.net:80/mceliat/4157y8715/156169
+#EXTINF:-1 tvg-id="" tvg-name="BNA" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",BNA
+http://cdn4k.net:80/mceliat/4157y8715/156168
+#EXTINF:-1 tvg-id="" tvg-name="black cat" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",black cat
+http://cdn4k.net:80/mceliat/4157y8715/156167
+#EXTINF:-1 tvg-id="" tvg-name="Beastars" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Beastars
+http://cdn4k.net:80/mceliat/4157y8715/156166
+#EXTINF:-1 tvg-id="" tvg-name="beast fighters the apocalypse" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",beast fighters the apocalypse
+http://cdn4k.net:80/mceliat/4157y8715/156165
+#EXTINF:-1 tvg-id="" tvg-name="Basilisk" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Basilisk
+http://cdn4k.net:80/mceliat/4157y8715/156164
+#EXTINF:-1 tvg-id="" tvg-name="Baki" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Baki
+http://cdn4k.net:80/mceliat/4157y8715/156163
+#EXTINF:-1 tvg-id="" tvg-name="babel 2 beyond infinity" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",babel 2 beyond infinity
+http://cdn4k.net:80/mceliat/4157y8715/156162
+#EXTINF:-1 tvg-id="" tvg-name="b daman crossfire" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",b daman crossfire
+http://cdn4k.net:80/mceliat/4157y8715/156161
+#EXTINF:-1 tvg-id="" tvg-name="Akame ga kill" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Akame ga kill
+http://cdn4k.net:80/mceliat/4157y8715/156160
+#EXTINF:-1 tvg-id="" tvg-name="Aico" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Aico
+http://cdn4k.net:80/mceliat/4157y8715/156159
+#EXTINF:-1 tvg-id="" tvg-name="A lenda de ellcia" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",A lenda de ellcia
+http://cdn4k.net:80/mceliat/4157y8715/156158
+#EXTINF:-1 tvg-id="" tvg-name="Zillion" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Zillion
+http://cdn4k.net:80/mceliat/4157y8715/156156
+#EXTINF:-1 tvg-id="" tvg-name="Zatch Bell" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Zatch Bell
+http://cdn4k.net:80/mceliat/4157y8715/156155
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH Clássico S07" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",YU-GI-OH Clássico S07
+http://cdn4k.net:80/mceliat/4157y8715/156154
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH Clássico S06" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",YU-GI-OH Clássico S06
+http://cdn4k.net:80/mceliat/4157y8715/156153
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH Clássico S05" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",YU-GI-OH Clássico S05
+http://cdn4k.net:80/mceliat/4157y8715/156152
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH Clássico S04" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",YU-GI-OH Clássico S04
+http://cdn4k.net:80/mceliat/4157y8715/156151
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH Clássico S03" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",YU-GI-OH Clássico S03
+http://cdn4k.net:80/mceliat/4157y8715/156150
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH Clássico S02" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",YU-GI-OH Clássico S02
+http://cdn4k.net:80/mceliat/4157y8715/156149
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH Clássico S01" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",YU-GI-OH Clássico S01
+http://cdn4k.net:80/mceliat/4157y8715/156148
+#EXTINF:-1 tvg-id="" tvg-name="Hamtaro" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Hamtaro
+http://cdn4k.net:80/mceliat/4157y8715/156147
+#EXTINF:-1 tvg-id="" tvg-name="Gundam Wing" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Gundam Wing
+http://cdn4k.net:80/mceliat/4157y8715/156146
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiras Magicas de Rayearth" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Guerreiras Magicas de Rayearth
+http://cdn4k.net:80/mceliat/4157y8715/156145
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S01" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Super S01
+http://cdn4k.net:80/mceliat/4157y8715/156144
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S02" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Super S02
+http://cdn4k.net:80/mceliat/4157y8715/156143
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S03" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Super S03
+http://cdn4k.net:80/mceliat/4157y8715/156142
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S04" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Super S04
+http://cdn4k.net:80/mceliat/4157y8715/156141
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super S05" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Super S05
+http://cdn4k.net:80/mceliat/4157y8715/156140
+#EXTINF:-1 tvg-id="" tvg-name="tenchi muyo" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",tenchi muyo
+http://cdn4k.net:80/mceliat/4157y8715/156139
+#EXTINF:-1 tvg-id="" tvg-name="the candidate for goddess" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",the candidate for goddess
+http://cdn4k.net:80/mceliat/4157y8715/156138
+#EXTINF:-1 tvg-id="" tvg-name="trigun" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",trigun
+http://cdn4k.net:80/mceliat/4157y8715/156137
+#EXTINF:-1 tvg-id="" tvg-name="Twelve Kingdoms" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Twelve Kingdoms
+http://cdn4k.net:80/mceliat/4157y8715/156136
+#EXTINF:-1 tvg-id="" tvg-name="xxxholic" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",xxxholic
+http://cdn4k.net:80/mceliat/4157y8715/156133
+#EXTINF:-1 tvg-id="" tvg-name="Yamada kun to 7 nin no Majo" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Yamada kun to 7 nin no Majo
+http://cdn4k.net:80/mceliat/4157y8715/156132
+#EXTINF:-1 tvg-id="" tvg-name="youjo senki" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",youjo senki
+http://cdn4k.net:80/mceliat/4157y8715/156131
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga de Cell" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Z Saga de Cell
+http://cdn4k.net:80/mceliat/4157y8715/156130
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga de Freeza" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Z Saga de Freeza
+http://cdn4k.net:80/mceliat/4157y8715/156129
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga de Garlic Jr" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Z Saga de Garlic Jr
+http://cdn4k.net:80/mceliat/4157y8715/156128
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga de Majin Boo" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Z Saga de Majin Boo
+http://cdn4k.net:80/mceliat/4157y8715/156127
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga dos Sayajins" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Z Saga dos Sayajins
+http://cdn4k.net:80/mceliat/4157y8715/156124
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrao Especial Winspector" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Esquadrao Especial Winspector
+http://cdn4k.net:80/mceliat/4157y8715/156123
+#EXTINF:-1 tvg-id="" tvg-name="Fly o Pequeno Guerreiro" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Fly o Pequeno Guerreiro
+http://cdn4k.net:80/mceliat/4157y8715/156122
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s01" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s01
+http://cdn4k.net:80/mceliat/4157y8715/156121
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s02" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s02
+http://cdn4k.net:80/mceliat/4157y8715/156120
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s03" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s03
+http://cdn4k.net:80/mceliat/4157y8715/156119
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s04" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s04
+http://cdn4k.net:80/mceliat/4157y8715/156118
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s05" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s05
+http://cdn4k.net:80/mceliat/4157y8715/156117
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s06" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s06
+http://cdn4k.net:80/mceliat/4157y8715/156116
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s07" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s07
+http://cdn4k.net:80/mceliat/4157y8715/156115
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s08" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s08
+http://cdn4k.net:80/mceliat/4157y8715/156114
+#EXTINF:-1 tvg-id="" tvg-name="Naruto clássico s09" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto clássico s09
+http://cdn4k.net:80/mceliat/4157y8715/156113
+#EXTINF:-1 tvg-id="" tvg-name="Os cavaleiros dos zodíaco completo" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Os cavaleiros dos zodíaco completo
+http://cdn4k.net:80/mceliat/4157y8715/156109
+#EXTINF:-1 tvg-id="" tvg-name="Os cavaleiros dos zodíaco saga de asgard" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Os cavaleiros dos zodíaco saga de asgard
+http://cdn4k.net:80/mceliat/4157y8715/155950
+#EXTINF:-1 tvg-id="" tvg-name="Os cavaleiros dos zodíaco saga de hades" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Os cavaleiros dos zodíaco saga de hades
+http://cdn4k.net:80/mceliat/4157y8715/155949
+#EXTINF:-1 tvg-id="" tvg-name="Os cavaleiros dos zodíaco saga de poseidon" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Os cavaleiros dos zodíaco saga de poseidon
+http://cdn4k.net:80/mceliat/4157y8715/155948
+#EXTINF:-1 tvg-id="" tvg-name="Os cavaleiros dos zodíaco saga do santuario" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Os cavaleiros dos zodíaco saga do santuario
+http://cdn4k.net:80/mceliat/4157y8715/155947
+#EXTINF:-1 tvg-id="" tvg-name="Patlabor" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Patlabor
+http://cdn4k.net:80/mceliat/4157y8715/155946
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Estelar" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Patrulha Estelar
+http://cdn4k.net:80/mceliat/4157y8715/155945
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Gt" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Gt
+http://cdn4k.net:80/mceliat/4157y8715/155943
+#EXTINF:-1 tvg-id="" tvg-name="Bucky Jibaku Kun" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Bucky Jibaku Kun
+http://cdn4k.net:80/mceliat/4157y8715/155937
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s01 liga indigo" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s01 liga indigo
+http://cdn4k.net:80/mceliat/4157y8715/155936
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon s02 liga laranja" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Pokémon s02 liga laranja
+http://cdn4k.net:80/mceliat/4157y8715/155935
+#EXTINF:-1 tvg-id="" tvg-name="Anime Dragon Ball" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Anime Dragon Ball
+http://cdn4k.net:80/mceliat/4157y8715/212110
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 1ª Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 1ª Temporada
+http://cdn4k.net:80/mceliat/4157y8715/215254
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 2 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 2 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/215255
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 3 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 3 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/215748
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 4 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 4 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/215861
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 5 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 5 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/216161
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 6 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 6 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/216162
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 7 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 7 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/216212
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 8 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 8 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/216635
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 9 temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 9 temporada
+http://cdn4k.net:80/mceliat/4157y8715/217257
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 10 temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 10 temporada
+http://cdn4k.net:80/mceliat/4157y8715/217258
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 11 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 11 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/217459
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 12 Temporada" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden 12 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/217460
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga dos Androides" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Z Saga dos Androides
+http://cdn4k.net:80/mceliat/4157y8715/217702
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Saga do Torneio do Outro Mundo" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Dragon Ball Z Saga do Torneio do Outro Mundo
+http://cdn4k.net:80/mceliat/4157y8715/217864
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S13 ate S13 ate S21" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Naruto Shippuden S13 ate S13 ate S21
+http://cdn4k.net:80/mceliat/4157y8715/217931
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Digital Monsters S01" tvg-logo="http://cdn4k.store/logos/ANIMES-24HS.png" group-title="ANIMES 24 HORAS",Digimon Digital Monsters S01
+http://cdn4k.net:80/mceliat/4157y8715/219513
+#EXTINF:-1 tvg-id="" tvg-name="Metropolitana Sertaneja (radios)" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Metropolitana Sertaneja (radios)
+http://cdn4k.net:80/mceliat/4157y8715/250595
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Sertanejo
+http://cdn4k.net:80/mceliat/4157y8715/250593
+#EXTINF:-1 tvg-id="" tvg-name="Rock" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Rock
+http://cdn4k.net:80/mceliat/4157y8715/82269
+#EXTINF:-1 tvg-id="" tvg-name="Patati Patata" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Patati Patata
+http://cdn4k.net:80/mceliat/4157y8715/204337
+#EXTINF:-1 tvg-id="" tvg-name="Zumba" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Zumba
+http://cdn4k.net:80/mceliat/4157y8715/204339
+#EXTINF:-1 tvg-id="" tvg-name="Rap Internacional" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Rap Internacional
+http://cdn4k.net:80/mceliat/4157y8715/204793
+#EXTINF:-1 tvg-id="" tvg-name="Gospel 1" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Gospel 1
+http://cdn4k.net:80/mceliat/4157y8715/209579
+#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Rap Nacional
+http://cdn4k.net:80/mceliat/4157y8715/211487
+#EXTINF:-1 tvg-id="" tvg-name="Rock in Rio 2022" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Rock in Rio 2022
+http://cdn4k.net:80/mceliat/4157y8715/212083
+#EXTINF:-1 tvg-id="" tvg-name="Pagode 1" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Pagode 1
+http://cdn4k.net:80/mceliat/4157y8715/214763
+#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="https://cdn4k.store/logos/CLIPES-24HS.png" group-title="CLIPES 24 HORAS",Funk
+http://cdn4k.net:80/mceliat/4157y8715/230667
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Patrulha Canina
+http://cdn4k.net:80/mceliat/4157y8715/250794
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Bob Esponja
+http://cdn4k.net:80/mceliat/4157y8715/250606
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Galinha Pintadinha
+http://cdn4k.net:80/mceliat/4157y8715/250605
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Peppa Pig
+http://cdn4k.net:80/mceliat/4157y8715/250604
+#EXTINF:-1 tvg-id="" tvg-name="Matracatrica e Fofoquinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Matracatrica e Fofoquinha
+http://cdn4k.net:80/mceliat/4157y8715/226836
+#EXTINF:-1 tvg-id="" tvg-name="As terriveis aventuras de billy e mandy" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As terriveis aventuras de billy e mandy
+http://cdn4k.net:80/mceliat/4157y8715/220094
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Caverna" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Capitão Caverna
+http://cdn4k.net:80/mceliat/4157y8715/220093
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Jaspion
+http://cdn4k.net:80/mceliat/4157y8715/217491
+#EXTINF:-1 tvg-id="" tvg-name="3 palavrinhas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",3 palavrinhas
+http://cdn4k.net:80/mceliat/4157y8715/217349
+#EXTINF:-1 tvg-id="" tvg-name="101 Dalmatas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",101 Dalmatas
+http://cdn4k.net:80/mceliat/4157y8715/98156
+#EXTINF:-1 tvg-id="" tvg-name="A cegonha perna fina" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A cegonha perna fina
+http://cdn4k.net:80/mceliat/4157y8715/100437
+#EXTINF:-1 tvg-id="" tvg-name="A nossa turma" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A nossa turma
+http://cdn4k.net:80/mceliat/4157y8715/106545
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Escola do Imperador" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Nova Escola do Imperador
+http://cdn4k.net:80/mceliat/4157y8715/104567
+#EXTINF:-1 tvg-id="" tvg-name="A pantera cor de rosa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A pantera cor de rosa
+http://cdn4k.net:80/mceliat/4157y8715/104753
+#EXTINF:-1 tvg-id="" tvg-name="A turma do pateta" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A turma do pateta
+http://cdn4k.net:80/mceliat/4157y8715/109168
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Pato Bill" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Turma do Pato Bill
+http://cdn4k.net:80/mceliat/4157y8715/104313
+#EXTINF:-1 tvg-id="" tvg-name="A vaca e o frango" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A vaca e o frango
+http://cdn4k.net:80/mceliat/4157y8715/106546
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e as Aventuras de Juniper Lee" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Vida e as Aventuras de Juniper Lee
+http://cdn4k.net:80/mceliat/4157y8715/109174
+#EXTINF:-1 tvg-id="" tvg-name="A vida moderna de rocko" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A vida moderna de rocko
+http://cdn4k.net:80/mceliat/4157y8715/112535
+#EXTINF:-1 tvg-id="" tvg-name="American Dad" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",American Dad
+http://cdn4k.net:80/mceliat/4157y8715/81948
+#EXTINF:-1 tvg-id="" tvg-name="Andy Panda" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Andy Panda
+http://cdn4k.net:80/mceliat/4157y8715/103993
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Animaniacs
+http://cdn4k.net:80/mceliat/4157y8715/110869
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Apenas Um Show
+http://cdn4k.net:80/mceliat/4157y8715/81704
+#EXTINF:-1 tvg-id="" tvg-name="As aventuras de tintim" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As aventuras de tintim
+http://cdn4k.net:80/mceliat/4157y8715/112525
+#EXTINF:-1 tvg-id="" tvg-name="As tartarugas ninja" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As tartarugas ninja
+http://cdn4k.net:80/mceliat/4157y8715/107072
+#EXTINF:-1 tvg-id="" tvg-name="As trapalhadas de flapjack" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",As trapalhadas de flapjack
+http://cdn4k.net:80/mceliat/4157y8715/111236
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Toones" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Baby Looney Toones
+http://cdn4k.net:80/mceliat/4157y8715/108553
+#EXTINF:-1 tvg-id="" tvg-name="Backyardigans" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Backyardigans
+http://cdn4k.net:80/mceliat/4157y8715/113544
+#EXTINF:-1 tvg-id="" tvg-name="Barney e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Barney e Seus Amigos
+http://cdn4k.net:80/mceliat/4157y8715/112532
+#EXTINF:-1 tvg-id="" tvg-name="Beavis And Butt Head" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beavis And Butt Head
+http://cdn4k.net:80/mceliat/4157y8715/104311
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 2006 - 2008" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",BEN 10 2006 - 2008
+http://cdn4k.net:80/mceliat/4157y8715/113550
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 forca alienigena 2008 - 2010" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ben 10 forca alienigena 2008 - 2010
+http://cdn4k.net:80/mceliat/4157y8715/112267
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 omniverse 2012 - 2014" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ben 10 omniverse 2012 - 2014
+http://cdn4k.net:80/mceliat/4157y8715/113859
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 supremacia alienigena 2010 - 2012" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ben 10 supremacia alienigena 2010 - 2012
+http://cdn4k.net:80/mceliat/4157y8715/110267
+#EXTINF:-1 tvg-id="" tvg-name="Betty Atomica" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Betty Atomica
+http://cdn4k.net:80/mceliat/4157y8715/107089
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beyblade
+http://cdn4k.net:80/mceliat/4157y8715/113545
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade G Revolution 2003" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beyblade G Revolution 2003
+http://cdn4k.net:80/mceliat/4157y8715/104754
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade V Force 2002" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Beyblade V Force 2002
+http://cdn4k.net:80/mceliat/4157y8715/104751
+#EXTINF:-1 tvg-id="" tvg-name="Boneco Atomico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Boneco Atomico
+http://cdn4k.net:80/mceliat/4157y8715/109371
+#EXTINF:-1 tvg-id="" tvg-name="Buzz Lightyear do Comando" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Buzz Lightyear do Comando
+http://cdn4k.net:80/mceliat/4157y8715/109370
+#EXTINF:-1 tvg-id="" tvg-name="Cadillacs e Dinossauros" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Cadillacs e Dinossauros
+http://cdn4k.net:80/mceliat/4157y8715/106666
+#EXTINF:-1 tvg-id="" tvg-name="Caezinhos do Canil" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Caezinhos do Canil
+http://cdn4k.net:80/mceliat/4157y8715/105177
+#EXTINF:-1 tvg-id="" tvg-name="Campeões do Sendokai" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Campeões do Sendokai
+http://cdn4k.net:80/mceliat/4157y8715/111620
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Planeta" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Capitão Planeta
+http://cdn4k.net:80/mceliat/4157y8715/112075
+#EXTINF:-1 tvg-id="" tvg-name="Carangos e Motocas 1974" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Carangos e Motocas 1974
+http://cdn4k.net:80/mceliat/4157y8715/104565
+#EXTINF:-1 tvg-id="" tvg-name="Carmen Sandiego" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Carmen Sandiego
+http://cdn4k.net:80/mceliat/4157y8715/107897
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Chan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Charlie Chan
+http://cdn4k.net:80/mceliat/4157y8715/103989
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Animado" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Chaves Animado
+http://cdn4k.net:80/mceliat/4157y8715/81953
+#EXTINF:-1 tvg-id="" tvg-name="Clarencio o Otimista" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Clarencio o Otimista
+http://cdn4k.net:80/mceliat/4157y8715/107083
+#EXTINF:-1 tvg-id="" tvg-name="Clifford Meu Gigante Cao Vermelho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Clifford Meu Gigante Cao Vermelho
+http://cdn4k.net:80/mceliat/4157y8715/112076
+#EXTINF:-1 tvg-id="" tvg-name="Colecao Bob Zoom" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Colecao Bob Zoom
+http://cdn4k.net:80/mceliat/4157y8715/104566
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Espacial" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Corrida Espacial
+http://cdn4k.net:80/mceliat/4157y8715/104318
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Corrida Maluca
+http://cdn4k.net:80/mceliat/4157y8715/109367
+#EXTINF:-1 tvg-id="" tvg-name="Danny Phantom 2004 - 2007" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Danny Phantom 2004 - 2007
+http://cdn4k.net:80/mceliat/4157y8715/113850
+#EXTINF:-1 tvg-id="" tvg-name="De volta para o futuro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",De volta para o futuro
+http://cdn4k.net:80/mceliat/4157y8715/109774
+#EXTINF:-1 tvg-id="" tvg-name="Deby e Loid" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Deby e Loid
+http://cdn4k.net:80/mceliat/4157y8715/106664
+#EXTINF:-1 tvg-id="" tvg-name="Delvin o Motoqueiro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Delvin o Motoqueiro
+http://cdn4k.net:80/mceliat/4157y8715/103999
+#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Denis o Pimentinha
+http://cdn4k.net:80/mceliat/4157y8715/109776
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Desenhos Biblicos
+http://cdn4k.net:80/mceliat/4157y8715/109380
+#EXTINF:-1 tvg-id="" tvg-name="Dick Vigarista e Muttley - Máquinas Voadoras" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dick Vigarista e Muttley - Máquinas Voadoras
+http://cdn4k.net:80/mceliat/4157y8715/104572
+#EXTINF:-1 tvg-id="" tvg-name="Dino Boy e o Vale Perdido" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dino Boy e o Vale Perdido
+http://cdn4k.net:80/mceliat/4157y8715/107081
+#EXTINF:-1 tvg-id="" tvg-name="Dinossauro Rei" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dinossauro Rei
+http://cdn4k.net:80/mceliat/4157y8715/113551
+#EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Doug
+http://cdn4k.net:80/mceliat/4157y8715/112791
+#EXTINF:-1 tvg-id="" tvg-name="Duck Dodgers" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Duck Dodgers
+http://cdn4k.net:80/mceliat/4157y8715/107895
+#EXTINF:-1 tvg-id="" tvg-name="Duck Tales" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Duck Tales
+http://cdn4k.net:80/mceliat/4157y8715/111615
+#EXTINF:-1 tvg-id="" tvg-name="Dudley do Right" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Dudley do Right
+http://cdn4k.net:80/mceliat/4157y8715/107070
+#EXTINF:-1 tvg-id="" tvg-name="EEK! THE CAT" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",EEK! THE CAT
+http://cdn4k.net:80/mceliat/4157y8715/104569
+#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos de Archies" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Estados Unidos de Archies
+http://cdn4k.net:80/mceliat/4157y8715/103991
+#EXTINF:-1 tvg-id="" tvg-name="Eu sou o maximo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Eu sou o maximo
+http://cdn4k.net:80/mceliat/4157y8715/104568
+#EXTINF:-1 tvg-id="" tvg-name="Falcao Azul e o Bionicao" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Falcao Azul e o Bionicao
+http://cdn4k.net:80/mceliat/4157y8715/111231
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Family Guy
+http://cdn4k.net:80/mceliat/4157y8715/81513
+#EXTINF:-1 tvg-id="" tvg-name="Fantasminha Legal" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Fantasminha Legal
+http://cdn4k.net:80/mceliat/4157y8715/112055
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmino o Fantasma Galopante" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Fantasmino o Fantasma Galopante
+http://cdn4k.net:80/mceliat/4157y8715/104320
+#EXTINF:-1 tvg-id="" tvg-name="Frango Kung Fu" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Frango Kung Fu
+http://cdn4k.net:80/mceliat/4157y8715/112276
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Futurama
+http://cdn4k.net:80/mceliat/4157y8715/81882
+#EXTINF:-1 tvg-id="" tvg-name="Garfield e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Garfield e Seus Amigos
+http://cdn4k.net:80/mceliat/4157y8715/107066
+#EXTINF:-1 tvg-id="" tvg-name="Gasparzinho e Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Gasparzinho e Amigos
+http://cdn4k.net:80/mceliat/4157y8715/99756
+#EXTINF:-1 tvg-id="" tvg-name="Gato Felix" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Gato Felix
+http://cdn4k.net:80/mceliat/4157y8715/107060
+#EXTINF:-1 tvg-id="" tvg-name="Go diego go" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Go diego go
+http://cdn4k.net:80/mceliat/4157y8715/113854
+#EXTINF:-1 tvg-id="" tvg-name="Guerreiros Miticos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Guerreiros Miticos
+http://cdn4k.net:80/mceliat/4157y8715/112079
+#EXTINF:-1 tvg-id="" tvg-name="Herculoides 1967" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Herculoides 1967
+http://cdn4k.net:80/mceliat/4157y8715/109781
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold S01" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S01
+http://cdn4k.net:80/mceliat/4157y8715/112058
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold S02" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S02
+http://cdn4k.net:80/mceliat/4157y8715/109771
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold S03" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S03
+http://cdn4k.net:80/mceliat/4157y8715/109778
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold S04" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S04
+http://cdn4k.net:80/mceliat/4157y8715/112053
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold S05" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hey Arnold S05
+http://cdn4k.net:80/mceliat/4157y8715/108798
+#EXTINF:-1 tvg-id="" tvg-name="Hickory Dickory e Doc" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hickory Dickory e Doc
+http://cdn4k.net:80/mceliat/4157y8715/103992
+#EXTINF:-1 tvg-id="" tvg-name="Hilda" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hilda
+http://cdn4k.net:80/mceliat/4157y8715/109773
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Animadas do Novo Testamento" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Histórias Animadas do Novo Testamento
+http://cdn4k.net:80/mceliat/4157y8715/112795
+#EXTINF:-1 tvg-id="" tvg-name="Histórias Animadas do Velho Testamento" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Histórias Animadas do Velho Testamento
+http://cdn4k.net:80/mceliat/4157y8715/109373
+#EXTINF:-1 tvg-id="" tvg-name="Ho Ho Limpicos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ho Ho Limpicos
+http://cdn4k.net:80/mceliat/4157y8715/112078
+#EXTINF:-1 tvg-id="" tvg-name="Hot Wheels Battle Force 5" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hot Wheels Battle Force 5
+http://cdn4k.net:80/mceliat/4157y8715/109777
+#EXTINF:-1 tvg-id="" tvg-name="Hulk" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hulk
+http://cdn4k.net:80/mceliat/4157y8715/110875
+#EXTINF:-1 tvg-id="" tvg-name="Irmão do Jorel" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Irmão do Jorel
+http://cdn4k.net:80/mceliat/4157y8715/102577
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Johnny Bravo
+http://cdn4k.net:80/mceliat/4157y8715/111622
+#EXTINF:-1 tvg-id="" tvg-name="Jubei Chan The Ninja Girl" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Jubei Chan The Ninja Girl
+http://cdn4k.net:80/mceliat/4157y8715/104000
+#EXTINF:-1 tvg-id="" tvg-name="Kick Buttowski" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Kick Buttowski
+http://cdn4k.net:80/mceliat/4157y8715/106548
+#EXTINF:-1 tvg-id="" tvg-name="Knd a Turma do Bairro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Knd a Turma do Bairro
+http://cdn4k.net:80/mceliat/4157y8715/105174
+#EXTINF:-1 tvg-id="LiveLadyBugECatNoir" tvg-name="Ladybug e Cat" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ladybug e Cat
+http://cdn4k.net:80/mceliat/4157y8715/77843
+#EXTINF:-1 tvg-id="" tvg-name="Larvas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Larvas
+http://cdn4k.net:80/mceliat/4157y8715/109769
+#EXTINF:-1 tvg-id="" tvg-name="Lazy Town" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lazy Town
+http://cdn4k.net:80/mceliat/4157y8715/113548
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Liga da Justiça
+http://cdn4k.net:80/mceliat/4157y8715/81812
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça Sem Limites" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Liga da Justiça Sem Limites
+http://cdn4k.net:80/mceliat/4157y8715/81813
+#EXTINF:-1 tvg-id="" tvg-name="Ligeirinho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ligeirinho
+http://cdn4k.net:80/mceliat/4157y8715/104312
+#EXTINF:-1 tvg-id="" tvg-name="Lilo e Stitch" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lilo e Stitch
+http://cdn4k.net:80/mceliat/4157y8715/113546
+#EXTINF:-1 tvg-id="" tvg-name="Lorde Gato e a Turma do Abobrinha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lorde Gato e a Turma do Abobrinha
+http://cdn4k.net:80/mceliat/4157y8715/105175
+#EXTINF:-1 tvg-id="" tvg-name="Lula Lele" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Lula Lele
+http://cdn4k.net:80/mceliat/4157y8715/104564
+#EXTINF:-1 tvg-id="" tvg-name="Mãe e pai curta metragem" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mãe e pai curta metragem
+http://cdn4k.net:80/mceliat/4157y8715/103877
+#EXTINF:-1 tvg-id="" tvg-name="Manda Chuva" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Manda Chuva
+http://cdn4k.net:80/mceliat/4157y8715/110872
+#EXTINF:-1 tvg-id="" tvg-name="Marsupilami" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Marsupilami
+http://cdn4k.net:80/mceliat/4157y8715/112534
+#EXTINF:-1 tvg-id="LiveMashaeUrso" tvg-name="Masha e o Urso" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Masha e o Urso
+http://cdn4k.net:80/mceliat/4157y8715/77145
+#EXTINF:-1 tvg-id="" tvg-name="Megaman" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Megaman
+http://cdn4k.net:80/mceliat/4157y8715/111610
+#EXTINF:-1 tvg-id="" tvg-name="Meu Melhor Amigo da Escola e Um Macaco" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Meu Melhor Amigo da Escola e Um Macaco
+http://cdn4k.net:80/mceliat/4157y8715/109378
+#EXTINF:-1 tvg-id="" tvg-name="Moranguinho clássico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Moranguinho clássico
+http://cdn4k.net:80/mceliat/4157y8715/112270
+#EXTINF:-1 tvg-id="LiveMundoBita" tvg-name="Mundo Bita" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mundo Bita
+http://cdn4k.net:80/mceliat/4157y8715/77144
+#EXTINF:-1 tvg-id="" tvg-name="Mutante Rex 2010 - 2013" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mutante Rex 2010 - 2013
+http://cdn4k.net:80/mceliat/4157y8715/113852
+#EXTINF:-1 tvg-id="" tvg-name="Novo Banana de Pijamas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Novo Banana de Pijamas
+http://cdn4k.net:80/mceliat/4157y8715/111234
+#EXTINF:-1 tvg-id="" tvg-name="O gato de botas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O gato de botas
+http://cdn4k.net:80/mceliat/4157y8715/112788
+#EXTINF:-1 tvg-id="" tvg-name="O maskara 1995 - seria animada" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O maskara 1995 - seria animada
+http://cdn4k.net:80/mceliat/4157y8715/113079
+#EXTINF:-1 tvg-id="" tvg-name="O pequeno principe" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O pequeno principe
+http://cdn4k.net:80/mceliat/4157y8715/109770
+#EXTINF:-1 tvg-id="" tvg-name="O pequeno scooby doo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O pequeno scooby doo
+http://cdn4k.net:80/mceliat/4157y8715/107891
+#EXTINF:-1 tvg-id="" tvg-name="O segredo alem do jardim" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O segredo alem do jardim
+http://cdn4k.net:80/mceliat/4157y8715/104750
+#EXTINF:-1 tvg-id="" tvg-name="O show da luna" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O show da luna
+http://cdn4k.net:80/mceliat/4157y8715/104316
+#EXTINF:-1 tvg-id="" tvg-name="O show do novo pica-pau" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O show do novo pica-pau
+http://cdn4k.net:80/mceliat/4157y8715/107085
+#EXTINF:-1 tvg-id="" tvg-name="O show do ze colmeia" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O show do ze colmeia
+http://cdn4k.net:80/mceliat/4157y8715/110270
+#EXTINF:-1 tvg-id="" tvg-name="O viralata" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O viralata
+http://cdn4k.net:80/mceliat/4157y8715/106668
+#EXTINF:-1 tvg-id="" tvg-name="Os animais do bosque dos vintens" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os animais do bosque dos vintens
+http://cdn4k.net:80/mceliat/4157y8715/106669
+#EXTINF:-1 tvg-id="" tvg-name="Os castores pirados" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os castores pirados
+http://cdn4k.net:80/mceliat/4157y8715/104001
+#EXTINF:-1 tvg-id="" tvg-name="Os Feiticeiros de Waverly Place" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os Feiticeiros de Waverly Place
+http://cdn4k.net:80/mceliat/4157y8715/112798
+#EXTINF:-1 tvg-id="" tvg-name="Os flintstones s01" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s01
+http://cdn4k.net:80/mceliat/4157y8715/112528
+#EXTINF:-1 tvg-id="" tvg-name="Os flintstones s02" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s02
+http://cdn4k.net:80/mceliat/4157y8715/112523
+#EXTINF:-1 tvg-id="" tvg-name="Os flintstones s03" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s03
+http://cdn4k.net:80/mceliat/4157y8715/112790
+#EXTINF:-1 tvg-id="" tvg-name="Os flintstones s04" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s04
+http://cdn4k.net:80/mceliat/4157y8715/108793
+#EXTINF:-1 tvg-id="" tvg-name="Os flintstones s05" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s05
+http://cdn4k.net:80/mceliat/4157y8715/108552
+#EXTINF:-1 tvg-id="" tvg-name="Os flintstones s06" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os flintstones s06
+http://cdn4k.net:80/mceliat/4157y8715/112272
+#EXTINF:-1 tvg-id="" tvg-name="Os jetsons" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os jetsons
+http://cdn4k.net:80/mceliat/4157y8715/113553
+#EXTINF:-1 tvg-id="" tvg-name="Os Jorges" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os Jorges
+http://cdn4k.net:80/mceliat/4157y8715/117811
+#EXTINF:-1 tvg-id="" tvg-name="Os jovens titas 2003 - 2006" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os jovens titas 2003 - 2006
+http://cdn4k.net:80/mceliat/4157y8715/112789
+#EXTINF:-1 tvg-id="" tvg-name="Os sete monstrinhos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os sete monstrinhos
+http://cdn4k.net:80/mceliat/4157y8715/113077
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s01" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s01
+http://cdn4k.net:80/mceliat/4157y8715/103994
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s02" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s02
+http://cdn4k.net:80/mceliat/4157y8715/112073
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s03" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s03
+http://cdn4k.net:80/mceliat/4157y8715/112269
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s04" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s04
+http://cdn4k.net:80/mceliat/4157y8715/112084
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s05" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s05
+http://cdn4k.net:80/mceliat/4157y8715/103878
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s06" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s06
+http://cdn4k.net:80/mceliat/4157y8715/112268
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s07" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s07
+http://cdn4k.net:80/mceliat/4157y8715/112080
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s08" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s08
+http://cdn4k.net:80/mceliat/4157y8715/107086
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s09" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s09
+http://cdn4k.net:80/mceliat/4157y8715/110263
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s10" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s10
+http://cdn4k.net:80/mceliat/4157y8715/109374
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s11" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s11
+http://cdn4k.net:80/mceliat/4157y8715/109375
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s12" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s12
+http://cdn4k.net:80/mceliat/4157y8715/105178
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s13" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s13
+http://cdn4k.net:80/mceliat/4157y8715/112056
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s14" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s14
+http://cdn4k.net:80/mceliat/4157y8715/110257
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s15" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s15
+http://cdn4k.net:80/mceliat/4157y8715/109167
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s16" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s16
+http://cdn4k.net:80/mceliat/4157y8715/106544
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s17" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s17
+http://cdn4k.net:80/mceliat/4157y8715/107090
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s18" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s18
+http://cdn4k.net:80/mceliat/4157y8715/109176
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s19" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s19
+http://cdn4k.net:80/mceliat/4157y8715/108799
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s20" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s20
+http://cdn4k.net:80/mceliat/4157y8715/111621
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s21" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s21
+http://cdn4k.net:80/mceliat/4157y8715/109175
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s22" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s22
+http://cdn4k.net:80/mceliat/4157y8715/106667
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s23" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s23
+http://cdn4k.net:80/mceliat/4157y8715/110871
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s24" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s24
+http://cdn4k.net:80/mceliat/4157y8715/112522
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s25" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s25
+http://cdn4k.net:80/mceliat/4157y8715/110873
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s26" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s26
+http://cdn4k.net:80/mceliat/4157y8715/111624
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s27" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s27
+http://cdn4k.net:80/mceliat/4157y8715/107899
+#EXTINF:-1 tvg-id="" tvg-name="Os simpsons s28" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os simpsons s28
+http://cdn4k.net:80/mceliat/4157y8715/105176
+#EXTINF:-1 tvg-id="" tvg-name="Os valentes cowboys de moo mesa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os valentes cowboys de moo mesa
+http://cdn4k.net:80/mceliat/4157y8715/107082
+#EXTINF:-1 tvg-id="" tvg-name="Os vingadores" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os vingadores
+http://cdn4k.net:80/mceliat/4157y8715/112059
+#EXTINF:-1 tvg-id="" tvg-name="Oswaldo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Oswaldo
+http://cdn4k.net:80/mceliat/4157y8715/110264
+#EXTINF:-1 tvg-id="" tvg-name="Overman curta metragem" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Overman curta metragem
+http://cdn4k.net:80/mceliat/4157y8715/99758
+#EXTINF:-1 tvg-id="" tvg-name="Pepa Pig" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pepa Pig
+http://cdn4k.net:80/mceliat/4157y8715/109172
+#EXTINF:-1 tvg-id="" tvg-name="Perdido nas Estrelas" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Perdido nas Estrelas
+http://cdn4k.net:80/mceliat/4157y8715/109772
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga e Sua Turma" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pernalonga e Sua Turma
+http://cdn4k.net:80/mceliat/4157y8715/112052
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Phineas e Ferb
+http://cdn4k.net:80/mceliat/4157y8715/108554
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau (woody Woodpecker)" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pica Pau (woody Woodpecker)
+http://cdn4k.net:80/mceliat/4157y8715/106654
+#EXTINF:-1 tvg-id="" tvg-name="Picolino" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Picolino
+http://cdn4k.net:80/mceliat/4157y8715/103316
+#EXTINF:-1 tvg-id="" tvg-name="Pinky e Cerebro" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pinky e Cerebro
+http://cdn4k.net:80/mceliat/4157y8715/110259
+#EXTINF:-1 tvg-id="" tvg-name="Popeye 75th anniversary" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Popeye 75th anniversary
+http://cdn4k.net:80/mceliat/4157y8715/112793
+#EXTINF:-1 tvg-id="" tvg-name="Power Stone" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Power Stone
+http://cdn4k.net:80/mceliat/4157y8715/112274
+#EXTINF:-1 tvg-id="" tvg-name="Riquinho" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Riquinho
+http://cdn4k.net:80/mceliat/4157y8715/110874
+#EXTINF:-1 tvg-id="" tvg-name="Road Runner And Wile e Coyote" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Road Runner And Wile e Coyote
+http://cdn4k.net:80/mceliat/4157y8715/112054
+#EXTINF:-1 tvg-id="" tvg-name="Rocket Power" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Rocket Power
+http://cdn4k.net:80/mceliat/4157y8715/112050
+#EXTINF:-1 tvg-id="" tvg-name="Sagwa a Gatinha Siamesa" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Sagwa a Gatinha Siamesa
+http://cdn4k.net:80/mceliat/4157y8715/112530
+#EXTINF:-1 tvg-id="" tvg-name="Scoob Doo Show" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Scoob Doo Show
+http://cdn4k.net:80/mceliat/4157y8715/112796
+#EXTINF:-1 tvg-id="" tvg-name="Shazzan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Shazzan
+http://cdn4k.net:80/mceliat/4157y8715/109780
+#EXTINF:-1 tvg-id="" tvg-name="SHE-RA" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",SHE-RA
+http://cdn4k.net:80/mceliat/4157y8715/113849
+#EXTINF:-1 tvg-id="" tvg-name="Space Goofs" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Space Goofs
+http://cdn4k.net:80/mceliat/4157y8715/105169
+#EXTINF:-1 tvg-id="" tvg-name="Speed racer clássico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Speed racer clássico
+http://cdn4k.net:80/mceliat/4157y8715/111613
+#EXTINF:-1 tvg-id="" tvg-name="Super Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Amigos
+http://cdn4k.net:80/mceliat/4157y8715/112524
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Choque
+http://cdn4k.net:80/mceliat/4157y8715/81512
+#EXTINF:-1 tvg-id="" tvg-name="Super Galo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Galo
+http://cdn4k.net:80/mceliat/4157y8715/107084
+#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros 3" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Super Mario Bros 3
+http://cdn4k.net:80/mceliat/4157y8715/110261
+#EXTINF:-1 tvg-id="" tvg-name="Swat Kats" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Swat Kats
+http://cdn4k.net:80/mceliat/4157y8715/112533
+#EXTINF:-1 tvg-id="" tvg-name="Tartaruga Touche e Dum Dum" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tartaruga Touche e Dum Dum
+http://cdn4k.net:80/mceliat/4157y8715/103998
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tarzan
+http://cdn4k.net:80/mceliat/4157y8715/105170
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan o Rei da Selva" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tarzan o Rei da Selva
+http://cdn4k.net:80/mceliat/4157y8715/104752
+#EXTINF:-1 tvg-id="" tvg-name="Taz-mania" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Taz-mania
+http://cdn4k.net:80/mceliat/4157y8715/111617
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies clássico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Teletubbies clássico
+http://cdn4k.net:80/mceliat/4157y8715/110868
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies Novo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Teletubbies Novo
+http://cdn4k.net:80/mceliat/4157y8715/109379
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies Stop Motion" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Teletubbies Stop Motion
+http://cdn4k.net:80/mceliat/4157y8715/104319
+#EXTINF:-1 tvg-id="" tvg-name="Thomas e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Thomas e Seus Amigos
+http://cdn4k.net:80/mceliat/4157y8715/107901
+#EXTINF:-1 tvg-id="" tvg-name="Timao e Pumba" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Timao e Pumba
+http://cdn4k.net:80/mceliat/4157y8715/107898
+#EXTINF:-1 tvg-id="" tvg-name="Tom & jerry" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Tom & jerry
+http://cdn4k.net:80/mceliat/4157y8715/112799
+#EXTINF:-1 tvg-id="" tvg-name="Trolls - o ritmo continua" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Trolls - o ritmo continua
+http://cdn4k.net:80/mceliat/4157y8715/81703
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Man" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Turbo Man
+http://cdn4k.net:80/mceliat/4157y8715/103996
+#EXTINF:-1 tvg-id="" tvg-name="Ursinho Pooh e Seus Amigos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Ursinho Pooh e Seus Amigos
+http://cdn4k.net:80/mceliat/4157y8715/102570
+#EXTINF:-1 tvg-id="" tvg-name="Vale dos Dinossauros" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Vale dos Dinossauros
+http://cdn4k.net:80/mceliat/4157y8715/98866
+#EXTINF:-1 tvg-id="" tvg-name="Wally Gator" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Wally Gator
+http://cdn4k.net:80/mceliat/4157y8715/98865
+#EXTINF:-1 tvg-id="" tvg-name="Xuxa So para Baixinhos Box" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Xuxa So para Baixinhos Box
+http://cdn4k.net:80/mceliat/4157y8715/112526
+#EXTINF:-1 tvg-id="" tvg-name="Xuxa só para Baixinhos" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Xuxa só para Baixinhos
+http://cdn4k.net:80/mceliat/4157y8715/77847
+#EXTINF:-1 tvg-id="" tvg-name="Batman: a série Animada" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Batman: a série Animada
+http://cdn4k.net:80/mceliat/4157y8715/114849
+#EXTINF:-1 tvg-id="" tvg-name="Caverna dos Dragoes" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Caverna dos Dragoes
+http://cdn4k.net:80/mceliat/4157y8715/139849
+#EXTINF:-1 tvg-id="" tvg-name="Mini Beat Power Rockers" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Mini Beat Power Rockers
+http://cdn4k.net:80/mceliat/4157y8715/204497
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Mickey Mouse" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",A Casa de Mickey Mouse
+http://cdn4k.net:80/mceliat/4157y8715/205600
+#EXTINF:-1 tvg-id="" tvg-name="Avatar Livro 1 2 3" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Avatar Livro 1 2 3
+http://cdn4k.net:80/mceliat/4157y8715/209542
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Pocoyo
+http://cdn4k.net:80/mceliat/4157y8715/209598
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Família Dinossauros
+http://cdn4k.net:80/mceliat/4157y8715/209602
+#EXTINF:-1 tvg-id="" tvg-name="O que ha de novo scooby doo" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",O que ha de novo scooby doo
+http://cdn4k.net:80/mceliat/4157y8715/210397
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",South Park
+http://cdn4k.net:80/mceliat/4157y8715/213165
+#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins de Madagascar" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Os Pinguins de Madagascar
+http://cdn4k.net:80/mceliat/4157y8715/216213
+#EXTINF:-1 tvg-id="" tvg-name="Baby Shark" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Baby Shark
+http://cdn4k.net:80/mceliat/4157y8715/217071
+#EXTINF:-1 tvg-id="" tvg-name="Hora de Aventura" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Hora de Aventura
+http://cdn4k.net:80/mceliat/4157y8715/230367
+#EXTINF:-1 tvg-id="" tvg-name="Transformes" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Transformes
+http://cdn4k.net:80/mceliat/4157y8715/243247
+#EXTINF:-1 tvg-id="" tvg-name="Homem Aranha" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Homem Aranha
+http://cdn4k.net:80/mceliat/4157y8715/243234
+#EXTINF:-1 tvg-id="" tvg-name="Cinepix Retro" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Cinepix Retro
+http://cdn4k.net:80/mceliat/4157y8715/217348
+#EXTINF:-1 tvg-id="" tvg-name="Lançamentos 2023" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Lançamentos 2023
+http://cdn4k.net:80/mceliat/4157y8715/205659
+#EXTINF:-1 tvg-id="" tvg-name="Terror" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Terror
+http://cdn4k.net:80/mceliat/4157y8715/205842
+#EXTINF:-1 tvg-id="" tvg-name="Faroeste" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Faroeste
+http://cdn4k.net:80/mceliat/4157y8715/205849
+#EXTINF:-1 tvg-id="" tvg-name="Acao" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Acao
+http://cdn4k.net:80/mceliat/4157y8715/234804
+#EXTINF:-1 tvg-id="" tvg-name="Legendados" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Legendados
+http://cdn4k.net:80/mceliat/4157y8715/235351
+#EXTINF:-1 tvg-id="" tvg-name="Comedia" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Comedia
+http://cdn4k.net:80/mceliat/4157y8715/235633
+#EXTINF:-1 tvg-id="" tvg-name="Religiosos" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Religiosos
+http://cdn4k.net:80/mceliat/4157y8715/235634
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Romance
+http://cdn4k.net:80/mceliat/4157y8715/237081
+#EXTINF:-1 tvg-id="" tvg-name="Guerra" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Guerra
+http://cdn4k.net:80/mceliat/4157y8715/237082
+#EXTINF:-1 tvg-id="" tvg-name="Ficção e fantasia" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Ficção e fantasia
+http://cdn4k.net:80/mceliat/4157y8715/237095
+#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Drama
+http://cdn4k.net:80/mceliat/4157y8715/240276
+#EXTINF:-1 tvg-id="" tvg-name="Nacional" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Nacional
+http://cdn4k.net:80/mceliat/4157y8715/240530
+#EXTINF:-1 tvg-id="" tvg-name="Animacao" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Animacao
+http://cdn4k.net:80/mceliat/4157y8715/240531
+#EXTINF:-1 tvg-id="" tvg-name="Animes" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Animes
+http://cdn4k.net:80/mceliat/4157y8715/243551
+#EXTINF:-1 tvg-id="" tvg-name="Programação de Jogos (HOJE)" tvg-logo="https://i.imgur.com/BRAjxKy.png" group-title="",Programação de Jogos (HOJE)
+http://cdn4k.net:80/mceliat/4157y8715/175459
+#EXTINF:-1 tvg-id="" tvg-name="Sitio do Picapau Amarelo" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Sitio do Picapau Amarelo
+http://cdn4k.net:80/mceliat/4157y8715/222402
+#EXTINF:-1 tvg-id="" tvg-name="Sitio do Pica-pau Amarelo" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Sitio do Pica-pau Amarelo
+http://cdn4k.net:80/mceliat/4157y8715/221508
+#EXTINF:-1 tvg-id="" tvg-name="O Sócio" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",O Sócio
+http://cdn4k.net:80/mceliat/4157y8715/78663
+#EXTINF:-1 tvg-id="" tvg-name="No Limite" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",No Limite
+http://cdn4k.net:80/mceliat/4157y8715/155605
+#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas da RedeTV" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Pegadinhas da RedeTV
+http://cdn4k.net:80/mceliat/4157y8715/155604
+#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas Cameras Escondidas Programa Silvio Santos" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Pegadinhas Cameras Escondidas Programa Silvio Santos
+http://cdn4k.net:80/mceliat/4157y8715/155603
+#EXTINF:-1 tvg-id="" tvg-name="De Ferias Com Ex S01" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",De Ferias Com Ex S01
+http://cdn4k.net:80/mceliat/4157y8715/155602
+#EXTINF:-1 tvg-id="" tvg-name="De Ferias Com Ex S02" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",De Ferias Com Ex S02
+http://cdn4k.net:80/mceliat/4157y8715/155601
+#EXTINF:-1 tvg-id="" tvg-name="De Ferias Com Ex S03" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",De Ferias Com Ex S03
+http://cdn4k.net:80/mceliat/4157y8715/155600
+#EXTINF:-1 tvg-id="" tvg-name="De Ferias Com Ex S04" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",De Ferias Com Ex S04
+http://cdn4k.net:80/mceliat/4157y8715/155599
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados a Tribo S01" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Largados e Pelados a Tribo S01
+http://cdn4k.net:80/mceliat/4157y8715/155598
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados a Tribo S02" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Largados e Pelados a Tribo S02
+http://cdn4k.net:80/mceliat/4157y8715/155597
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados a Tribo S03" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Largados e Pelados a Tribo S03
+http://cdn4k.net:80/mceliat/4157y8715/155596
+#EXTINF:-1 tvg-id="" tvg-name="Os trapalhoes" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Os trapalhoes
+http://cdn4k.net:80/mceliat/4157y8715/155590
+#EXTINF:-1 tvg-id="" tvg-name="Os trapalhoes clássico" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Os trapalhoes clássico
+http://cdn4k.net:80/mceliat/4157y8715/155588
+#EXTINF:-1 tvg-id="" tvg-name="Os videos mais incriveis do mundo" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Os videos mais incriveis do mundo
+http://cdn4k.net:80/mceliat/4157y8715/155587
+#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas Joao Kleber" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Pegadinhas Joao Kleber
+http://cdn4k.net:80/mceliat/4157y8715/155585
+#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas Silvio Santos" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Pegadinhas Silvio Santos
+http://cdn4k.net:80/mceliat/4157y8715/155584
+#EXTINF:-1 tvg-id="" tvg-name="Touradas" tvg-logo="http://cdn4k.ink/logos/PROGRAMA-TV-24H.png" group-title="PROGRAMAS DE TV 24 HORAS",Touradas
+http://cdn4k.net:80/mceliat/4157y8715/155561
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Eu a Patroa e As Criancas" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Eu a Patroa e As Criancas
+http://cdn4k.net:80/mceliat/4157y8715/250607
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Todo Mundo Odeia o Chris" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Todo Mundo Odeia o Chris
+http://cdn4k.net:80/mceliat/4157y8715/250599
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Chaves
+http://cdn4k.net:80/mceliat/4157y8715/235290
+#EXTINF:-1 tvg-id="" tvg-name="Chaves²" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Chaves²
+http://cdn4k.net:80/mceliat/4157y8715/235289
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Sai de Baixo
+http://cdn4k.net:80/mceliat/4157y8715/99177
+#EXTINF:-1 tvg-id="" tvg-name="Xena: a Princesa Guerreira" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Xena: a Princesa Guerreira
+http://cdn4k.net:80/mceliat/4157y8715/114763
+#EXTINF:-1 tvg-id="" tvg-name="Batman 24 Horas" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Batman 24 Horas
+http://cdn4k.net:80/mceliat/4157y8715/77127
+#EXTINF:-1 tvg-id="LivePolicia24h" tvg-name="Policia 24h" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Policia 24h
+http://cdn4k.net:80/mceliat/4157y8715/74248
+#EXTINF:-1 tvg-id="" tvg-name="Punky a Levada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Punky a Levada
+http://cdn4k.net:80/mceliat/4157y8715/74246
+#EXTINF:-1 tvg-id="LiveUmMalucoNoPedaco" tvg-name="Um Maluco no Pedaço" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Um Maluco no Pedaço
+http://cdn4k.net:80/mceliat/4157y8715/74245
+#EXTINF:-1 tvg-id="LiveVaiQueCola" tvg-name="Vai Que Cola" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Vai Que Cola
+http://cdn4k.net:80/mceliat/4157y8715/74243
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico Extra." tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Chaves Clássico Extra.
+http://cdn4k.net:80/mceliat/4157y8715/155106
+#EXTINF:-1 tvg-id="" tvg-name="Zoboomafoo" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Zoboomafoo
+http://cdn4k.net:80/mceliat/4157y8715/155123
+#EXTINF:-1 tvg-id="" tvg-name="Zack e Cody Gêmeos a Bordo" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Zack e Cody Gêmeos a Bordo
+http://cdn4k.net:80/mceliat/4157y8715/155122
+#EXTINF:-1 tvg-id="" tvg-name="As Visoes da Raven" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",As Visoes da Raven
+http://cdn4k.net:80/mceliat/4157y8715/155121
+#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Black Kamen Rider
+http://cdn4k.net:80/mceliat/4157y8715/155120
+#EXTINF:-1 tvg-id="" tvg-name="Castelo Ra Tim Bum" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Castelo Ra Tim Bum
+http://cdn4k.net:80/mceliat/4157y8715/155119
+#EXTINF:-1 tvg-id="" tvg-name="Drake & Josh" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Drake & Josh
+http://cdn4k.net:80/mceliat/4157y8715/155118
+#EXTINF:-1 tvg-id="" tvg-name="Escolinha do Professor Raimundo" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Escolinha do Professor Raimundo
+http://cdn4k.net:80/mceliat/4157y8715/155117
+#EXTINF:-1 tvg-id="" tvg-name="Manual do Ned" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Manual do Ned
+http://cdn4k.net:80/mceliat/4157y8715/155115
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Mr. Bean
+http://cdn4k.net:80/mceliat/4157y8715/155114
+#EXTINF:-1 tvg-id="" tvg-name="Perdidos No Espaco" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Perdidos No Espaco
+http://cdn4k.net:80/mceliat/4157y8715/155112
+#EXTINF:-1 tvg-id="" tvg-name="Serie Hercules" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Serie Hercules
+http://cdn4k.net:80/mceliat/4157y8715/155111
+#EXTINF:-1 tvg-id="" tvg-name="Tunel do Tempo" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Tunel do Tempo
+http://cdn4k.net:80/mceliat/4157y8715/155109
+#EXTINF:-1 tvg-id="" tvg-name="Ultramen" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Ultramen
+http://cdn4k.net:80/mceliat/4157y8715/155108
+#EXTINF:-1 tvg-id="" tvg-name="Alf o Eteimoso" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Alf o Eteimoso
+http://cdn4k.net:80/mceliat/4157y8715/211670
+#EXTINF:-1 tvg-id="" tvg-name="Tres e Demais" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24 HORAS",Tres e Demais
+http://cdn4k.net:80/mceliat/4157y8715/212086
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Eu a Patroa e As Criancas S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Eu a Patroa e As Criancas S05
+http://cdn4k.net:80/mceliat/4157y8715/250793
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Eu a Patroa e As Criancas S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Eu a Patroa e As Criancas S04
+http://cdn4k.net:80/mceliat/4157y8715/250611
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Eu a Patroa e As Criancas S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Eu a Patroa e As Criancas S03
+http://cdn4k.net:80/mceliat/4157y8715/250610
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Eu a Patroa e As Criancas S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Eu a Patroa e As Criancas S02
+http://cdn4k.net:80/mceliat/4157y8715/250609
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Eu a Patroa e As Criancas S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Eu a Patroa e As Criancas S01
+http://cdn4k.net:80/mceliat/4157y8715/250608
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Todo Mundo Odeia o Chris S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris S03
+http://cdn4k.net:80/mceliat/4157y8715/250602
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Todo Mundo Odeia o Chris S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris S02
+http://cdn4k.net:80/mceliat/4157y8715/250601
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Todo Mundo Odeia o Chris S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris S01
+http://cdn4k.net:80/mceliat/4157y8715/250600
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S01
+http://cdn4k.net:80/mceliat/4157y8715/155451
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S02
+http://cdn4k.net:80/mceliat/4157y8715/155450
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S03
+http://cdn4k.net:80/mceliat/4157y8715/155449
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S04
+http://cdn4k.net:80/mceliat/4157y8715/155448
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S05
+http://cdn4k.net:80/mceliat/4157y8715/155447
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S06" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S06
+http://cdn4k.net:80/mceliat/4157y8715/155446
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S07" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S07
+http://cdn4k.net:80/mceliat/4157y8715/155445
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S08" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S08
+http://cdn4k.net:80/mceliat/4157y8715/155444
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S09" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S09
+http://cdn4k.net:80/mceliat/4157y8715/155443
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S10" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S10
+http://cdn4k.net:80/mceliat/4157y8715/155442
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S11" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S11
+http://cdn4k.net:80/mceliat/4157y8715/155441
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S12" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Dois Homens e Meio S12
+http://cdn4k.net:80/mceliat/4157y8715/155440
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S06" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Um Maluco no Pedaço S06
+http://cdn4k.net:80/mceliat/4157y8715/155435
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Um Maluco no Pedaço S05
+http://cdn4k.net:80/mceliat/4157y8715/155434
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Um Maluco no Pedaço S04
+http://cdn4k.net:80/mceliat/4157y8715/155433
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Um Maluco no Pedaço S03
+http://cdn4k.net:80/mceliat/4157y8715/155432
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Um Maluco no Pedaço S02
+http://cdn4k.net:80/mceliat/4157y8715/155431
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Um Maluco no Pedaço S01
+http://cdn4k.net:80/mceliat/4157y8715/155430
+#EXTINF:-1 tvg-id="" tvg-name="Icarly S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Icarly S01
+http://cdn4k.net:80/mceliat/4157y8715/155467
+#EXTINF:-1 tvg-id="" tvg-name="Icarly S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Icarly S02
+http://cdn4k.net:80/mceliat/4157y8715/155466
+#EXTINF:-1 tvg-id="" tvg-name="Icarly S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Icarly S03
+http://cdn4k.net:80/mceliat/4157y8715/155465
+#EXTINF:-1 tvg-id="" tvg-name="Icarly S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Icarly S04
+http://cdn4k.net:80/mceliat/4157y8715/155464
+#EXTINF:-1 tvg-id="" tvg-name="Icarly S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Icarly S05
+http://cdn4k.net:80/mceliat/4157y8715/155463
+#EXTINF:-1 tvg-id="" tvg-name="Icarly S06" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Icarly S06
+http://cdn4k.net:80/mceliat/4157y8715/155462
+#EXTINF:-1 tvg-id="" tvg-name="Icarly S07" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Icarly S07
+http://cdn4k.net:80/mceliat/4157y8715/155461
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers a Galaxia Perdida 7 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers a Galaxia Perdida 7 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155460
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Dino Thunder 12 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Dino Thunder 12 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155459
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Mighty Morphin 1 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Mighty Morphin 1 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155458
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Mighty Morphin 2 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Mighty Morphin 2 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155457
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Mighty Morphin 3 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Mighty Morphin 3 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155456
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Ninja Storm 11 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Ninja Storm 11 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155455
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Space Patrol Delta 13 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Space Patrol Delta 13 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155454
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Turbo 5 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Turbo 5 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155453
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers Zeo 4 Temporada" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Power Rangers Zeo 4 Temporada
+http://cdn4k.net:80/mceliat/4157y8715/155452
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Chaves Clássico S01
+http://cdn4k.net:80/mceliat/4157y8715/209687
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Chaves Clássico S02
+http://cdn4k.net:80/mceliat/4157y8715/209688
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Chaves Clássico S03
+http://cdn4k.net:80/mceliat/4157y8715/209689
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Chaves Clássico S04
+http://cdn4k.net:80/mceliat/4157y8715/209690
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Chaves Clássico S05
+http://cdn4k.net:80/mceliat/4157y8715/209711
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico S06" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Chaves Clássico S06
+http://cdn4k.net:80/mceliat/4157y8715/209712
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Clássico S07" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Chaves Clássico S07
+http://cdn4k.net:80/mceliat/4157y8715/209713
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S01
+http://cdn4k.net:80/mceliat/4157y8715/209820
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S02
+http://cdn4k.net:80/mceliat/4157y8715/209821
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S03
+http://cdn4k.net:80/mceliat/4157y8715/209822
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S04
+http://cdn4k.net:80/mceliat/4157y8715/209823
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S05
+http://cdn4k.net:80/mceliat/4157y8715/209824
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S06" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S06
+http://cdn4k.net:80/mceliat/4157y8715/209825
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S07" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S07
+http://cdn4k.net:80/mceliat/4157y8715/209826
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S08" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S08
+http://cdn4k.net:80/mceliat/4157y8715/209827
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S09" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S09
+http://cdn4k.net:80/mceliat/4157y8715/209828
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S10" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S10
+http://cdn4k.net:80/mceliat/4157y8715/209829
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S11" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S11
+http://cdn4k.net:80/mceliat/4157y8715/209830
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: a Teoria S12" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Big Bang: a Teoria S12
+http://cdn4k.net:80/mceliat/4157y8715/209831
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci sua Mãe S01" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Como Eu Conheci sua Mãe S01
+http://cdn4k.net:80/mceliat/4157y8715/212444
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci sua Mãe S02" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Como Eu Conheci sua Mãe S02
+http://cdn4k.net:80/mceliat/4157y8715/212445
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci sua Mãe S03" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Como Eu Conheci sua Mãe S03
+http://cdn4k.net:80/mceliat/4157y8715/212446
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci sua Mãe S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Como Eu Conheci sua Mãe S04
+http://cdn4k.net:80/mceliat/4157y8715/212447
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci sua Mãe S05" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Como Eu Conheci sua Mãe S05
+http://cdn4k.net:80/mceliat/4157y8715/212493
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci sua Mãe S06" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Como Eu Conheci sua Mãe S06
+http://cdn4k.net:80/mceliat/4157y8715/212494
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Conheci sua Mãe S07" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Como Eu Conheci sua Mãe S07
+http://cdn4k.net:80/mceliat/4157y8715/212495
+#EXTINF:-1 tvg-id="Serieseprogramas.br" tvg-name="Todo Mundo Odeia o Chris S04" tvg-logo="https://cdn4k.store/logos/SERIES-24HS.png" group-title="SERIES 24H POR TEMPORADA",Todo Mundo Odeia o Chris S04
+http://cdn4k.net:80/mceliat/4157y8715/250603
+#EXTINF:-1 tvg-id="" tvg-name="4 amigos stand up comedy" tvg-logo="http://cdn4k.store/logos/STAND-UP-24HS.png" group-title="STAND-UP 24 HORAS",4 amigos stand up comedy
+http://cdn4k.net:80/mceliat/4157y8715/155607
+#EXTINF:-1 tvg-id="" tvg-name="Stand-up" tvg-logo="http://cdn4k.store/logos/STAND-UP-24HS.png" group-title="STAND-UP 24 HORAS",Stand-up
+http://cdn4k.net:80/mceliat/4157y8715/213060
+#EXTINF:-1 tvg-id="" tvg-name="Pegadinhas Jalals" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Pegadinhas Jalals
+http://cdn4k.net:80/mceliat/4157y8715/118899
+#EXTINF:-1 tvg-id="" tvg-name="Ze pequeno do povo" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Ze pequeno do povo
+http://cdn4k.net:80/mceliat/4157y8715/155636
+#EXTINF:-1 tvg-id="" tvg-name="Webbullying" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Webbullying
+http://cdn4k.net:80/mceliat/4157y8715/155635
+#EXTINF:-1 tvg-id="" tvg-name="Voce Sabia part 2" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Voce Sabia part 2
+http://cdn4k.net:80/mceliat/4157y8715/155634
+#EXTINF:-1 tvg-id="" tvg-name="Voce Sabia part 1" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Voce Sabia part 1
+http://cdn4k.net:80/mceliat/4157y8715/155633
+#EXTINF:-1 tvg-id="" tvg-name="Voce na TV" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Voce na TV
+http://cdn4k.net:80/mceliat/4157y8715/155632
+#EXTINF:-1 tvg-id="" tvg-name="South America Memes" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",South America Memes
+http://cdn4k.net:80/mceliat/4157y8715/155631
+#EXTINF:-1 tvg-id="" tvg-name="Refugio Mental" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Refugio Mental
+http://cdn4k.net:80/mceliat/4157y8715/155630
+#EXTINF:-1 tvg-id="" tvg-name="Rabisco" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Rabisco
+http://cdn4k.net:80/mceliat/4157y8715/155629
+#EXTINF:-1 tvg-id="" tvg-name="Porta dos Fundos" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Porta dos Fundos
+http://cdn4k.net:80/mceliat/4157y8715/155628
+#EXTINF:-1 tvg-id="" tvg-name="Parafernalha" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Parafernalha
+http://cdn4k.net:80/mceliat/4157y8715/155627
+#EXTINF:-1 tvg-id="" tvg-name="Panico Trollagens" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Panico Trollagens
+http://cdn4k.net:80/mceliat/4157y8715/155626
+#EXTINF:-1 tvg-id="" tvg-name="Pagode da Ofensa na Web" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Pagode da Ofensa na Web
+http://cdn4k.net:80/mceliat/4157y8715/155625
+#EXTINF:-1 tvg-id="" tvg-name="Na CorreRia" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Na CorreRia
+http://cdn4k.net:80/mceliat/4157y8715/155624
+#EXTINF:-1 tvg-id="" tvg-name="MixReynold" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",MixReynold
+http://cdn4k.net:80/mceliat/4157y8715/155623
+#EXTINF:-1 tvg-id="" tvg-name="Master Trash e Panico Chef" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Master Trash e Panico Chef
+http://cdn4k.net:80/mceliat/4157y8715/155622
+#EXTINF:-1 tvg-id="" tvg-name="John Leitao" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",John Leitao
+http://cdn4k.net:80/mceliat/4157y8715/155621
+#EXTINF:-1 tvg-id="" tvg-name="Incrivel" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Incrivel
+http://cdn4k.net:80/mceliat/4157y8715/155620
+#EXTINF:-1 tvg-id="" tvg-name="Gerson Albuquerque" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Gerson Albuquerque
+http://cdn4k.net:80/mceliat/4157y8715/155619
+#EXTINF:-1 tvg-id="" tvg-name="FitDance" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",FitDance
+http://cdn4k.net:80/mceliat/4157y8715/155618
+#EXTINF:-1 tvg-id="" tvg-name="Fatos Insanos" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Fatos Insanos
+http://cdn4k.net:80/mceliat/4157y8715/155617
+#EXTINF:-1 tvg-id="" tvg-name="Fatos Desconhecidos" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Fatos Desconhecidos
+http://cdn4k.net:80/mceliat/4157y8715/155616
+#EXTINF:-1 tvg-id="" tvg-name="Encrenca RedeTV" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Encrenca RedeTV
+http://cdn4k.net:80/mceliat/4157y8715/155615
+#EXTINF:-1 tvg-id="" tvg-name="Edu Primitivo" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Edu Primitivo
+http://cdn4k.net:80/mceliat/4157y8715/155614
+#EXTINF:-1 tvg-id="" tvg-name="Dramaturgia Panico na TV" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Dramaturgia Panico na TV
+http://cdn4k.net:80/mceliat/4157y8715/155613
+#EXTINF:-1 tvg-id="" tvg-name="Ciencia Todo Dia" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Ciencia Todo Dia
+http://cdn4k.net:80/mceliat/4157y8715/155612
+#EXTINF:-1 tvg-id="" tvg-name="Carol kyoko" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Carol kyoko
+http://cdn4k.net:80/mceliat/4157y8715/155611
+#EXTINF:-1 tvg-id="" tvg-name="Boom" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Boom
+http://cdn4k.net:80/mceliat/4157y8715/155610
+#EXTINF:-1 tvg-id="" tvg-name="Barbixas" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Barbixas
+http://cdn4k.net:80/mceliat/4157y8715/155609
+#EXTINF:-1 tvg-id="" tvg-name="5 Alguma Coisa" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",5 Alguma Coisa
+http://cdn4k.net:80/mceliat/4157y8715/155608
+#EXTINF:-1 tvg-id="" tvg-name="Partoba" tvg-logo="https://cdn4k.store/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
+http://cdn4k.net:80/mceliat/4157y8715/155606
+#EXTINF:-1 tvg-id="" tvg-name="Cocorico" tvg-logo="https://cdn4k.ink/logos/DESENHO-24H.png" group-title="DESENHOS 24 HORAS",Cocorico
+http://cdn4k.net:80/mceliat/4157y8715/256380
+#EXTINF:-1 tvg-id="" tvg-name="Documentários" tvg-logo="http://cdn4k.store/logos/FILMES-24HS.png" group-title="FILMES 24 HORAS",Documentários
+http://cdn4k.net:80/mceliat/4157y8715/264186
 #EXTINF:-1 tvg-id="" tvg-name="Rock To You" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rock To You
 http://otrasbx.com:80/Aires2392/hbl7oecsu5/141040
 #EXTINF:-1 tvg-id="" tvg-name="Edmonton CHEDAM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Edmonton CHEDAM
