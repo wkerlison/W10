@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="12331005" tvg-id="premiere.3.br" tvg-name="Premiere 3 HD²" tvg-logo="https://logosneto.centtop.net/PREMIERE.png" group-title="CANAIS •  PREMIERE",Premiere 3 HD²
+http://cdn.viadoveio.uk:80/play/_anlI1HXJYkESlwBGtAYyaM-fG1SJXX0fnqeSCmaRskR4dhKwPRNKNoGu06H98Yq/ts
 #EXTINF:-1 tvg-id="" tvg-name="24H  As Piores Prisões Do Mundo" tvg-logo="https://i.imgur.com/UTVJ6kx.jpeg" group-title="24 HR - Discovery",24H  As Piores Prisões Do Mundo
 http://seven7play.top:80/dtcea-vha/161891-733/2756261.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H  Largados em Alto Mar" tvg-logo="https://i.imgur.com/UTVJ6kx.jpeg" group-title="24 HR - Discovery",24H  Largados em Alto Mar
