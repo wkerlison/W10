@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="24H  As Piores Prisões Do Mundo" tvg-logo="https://i.imgur.com/UTVJ6kx.jpeg" group-title="24 HR - Discovery",24H  As Piores Prisões Do Mundo
 http://seven7play.top:80/dtcea-vha/161891-733/2756261.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H  Largados em Alto Mar" tvg-logo="https://i.imgur.com/UTVJ6kx.jpeg" group-title="24 HR - Discovery",24H  Largados em Alto Mar
