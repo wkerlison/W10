@@ -1,8 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BAND ES HD" tvg-logo="http://www.tmsimg.com/assets/s76652_ll_h3_aa.png" group-title="CANAIS | ABERTOS",BAND ES HD
-http://9822ko909.us:80/89754976301245/0520777012455/3473166.ts
+#EXTINF:-1 tvg-id="" tvg-name="91 Rock" tvg-logo="" group-title="CANAIS | RÁDIOS",91 Rock
+http://9822ko909.us:80/89754976301245/0520777012455/512565.ts
+#EXTINF:-1 tvg-id="" tvg-name="91 Rock" tvg-logo="" group-title="CANAIS | RÁDIOS",91 Rock
+http://9822ko909.us:80/89754976301245/0520777012455/512564.ts
+#EXTINF:-1 tvg-id="" tvg-name="92 FM" tvg-logo="" group-title="CANAIS | RÁDIOS",92 FM
+http://9822ko909.us:80/89754976301245/0520777012455/512566.ts
+#EXTINF:-1 tvg-id="" tvg-name="97 FM" tvg-logo="" group-title="CANAIS | RÁDIOS",97 FM
+http://9822ko909.us:80/89754976301245/0520777012455/512572.ts
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
 http://churryscku.store:80/amcp220199/102031amcd/62169
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
