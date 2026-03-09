@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 xui-id="20" tvg-id="77" tvg-name="CNN BRASIL FHD" tvg-logo="http://meusrv.top:80/images/ff34f3faa0dae9010be7a66fa2716178.jpg" group-title="Canais | Noticias",CNN BRASIL FHD
-http://meusrv.top:80/play/6hJO3A905dl9K30sCTFK0xDvCgZrqBHUTHS6VLMbrYc/ts
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
 http://churryscku.store:80/amcp220199/102031amcd/62169
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
