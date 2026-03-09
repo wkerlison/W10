@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 xui-id="202282" tvg-id="A.Guarda.do.Leao.24H" tvg-name="A Guarda do Leão 24H" tvg-logo="http://meusrv.top:80/images/YPuZW2kE8bCD5DQKf_zy2LeBRDxv84RzrSz0ZijEzRQ0zsV6VxfPlPS9IKOYJ6y9h84XD1uCAkWd6GLjOfQKsg.png" group-title="24 Horas | Infantil",A Guarda do Leão 24H
-http://meusrv.top:80/play/6hJO3A905dl9K30sCTFK03B6s-mD_LOj1CReHSH_a8E/ts
+#EXTINF:-1 xui-id="733" tvg-id="" tvg-name="A&E FHD [H264]" tvg-logo="http://meusrv.top:80/images/40023dea11cdbe6dc6c011659d39a4cd.png" group-title="Canais | H264",A&E FHD [H264]
+http://meusrv.top:80/play/6hJO3A905dl9K30sCTFK0xS1tsimihglyDj2xvKGlSs/ts
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
 http://churryscku.store:80/amcp220199/102031amcd/62169
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
