@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | 4K",RecordTV SP UHD
+http://qsmppoptv.top:80/364662591/Z497f6279E/244074
 #EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://18feitisaria86.org/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
 http://18feitisaria86.org:80/wandemberg17/Mega1486202/90647.ts
 #EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://18feitisaria86.org/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
