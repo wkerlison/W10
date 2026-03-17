@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA FHD H265
 http://kplay.red/live/39275939/02859274/1562105.m3u
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA FHD H265
-https://youtu.be/g5clZ-K8RXg.m3u#
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773735850/ei/Sru4aZXHKquS-LAPzMyh6Qc/ip/190.52.76.61/id/g5clZ-K8RXg.104/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794309/txs/51794307%2C51794308%2C51794309%2C51794310%2C51794311%2C51794312/hfr/1/playlist_duration/30/manifest_duration/30/bui/AVNa5-yJO6EC827xR7lZBdIL6Nxm2mk0kxsVfOQMpG4b6MvVMEOJoj4213ix_d5olrdILMwyBMunUnYs/spc/6dlaFGQ2Ww3EGYvUPI4qiO2MoeT9KYVzrNZA6hjw81Ih-Cfw-A/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAKhmTVIJIdJNxYSmr_qArqq4X6HxqgK51wLhKiKj9jgYAiBP5mUlVFZowPpKqUqBP-jbvBfOrnuRE7jpgGHX8DDvKQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E SD
 http://kplay.red/live/39275939/02859274/1579815.m3u
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E HD
