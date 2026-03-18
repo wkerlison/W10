@@ -3,12 +3,10 @@
 
 
 
-#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",ANIVERSARIO DECADA DE 90
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773782898/ei/EnO5aYKcM9D9-LAPvOa4qQs/ip/190.52.76.39/id/8920f993cd9d0113/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-jvhhjvg2-gxjl.googlevideo.com/cps/263/met/1773761298%2C/mh/RL/mm/31%2C29/mn/sn-jvhhjvg2-gxjl%2Csn-pmcg-4vgs/ms/au%2Crdu/mv/m/mvi/2/pl/24/rms/au%2Cau/tx/51794309/txs/51794307%2C51794308%2C51794309%2C51794310%2C51794311%2C51794312/hfr/1/demuxed/1/tts_caps/1/maudio/1/gcr/br/initcwndbps/2001250/bui/AVNa5-yamoUsROgMhkslfZpzqQcKE1TE_VGs0MAz5pxodj4zUUbifevP3_EkXdz7GJwO_ibjjPaviux2/spc/6dlaFAPZbu28ZzLeVBab461astQKSEcs7Q9gHCKEnDm58q-6MwR95KNR1og9Lg6i/vprv/1/go/1/rqh/5/mt/1773760920/fvip/5/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgCC9RmVCgxiQHS2-exQkXH8SQVEBMhRi4ktESUxMCRqsCIGzklgs_J9kFNaaluchtaoEMz2PfZNrAE-UiMkmIWE40/lsparams/playback_host%2Ccps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/APaTxxMwRgIhAPWm4WbTz8t5Cwzuc867VzRpYRkue11s_0F8xvxbanFiAiEAqt9M5qshsbJ6VmmnOHmEo7GMUr9ArDuJufH5AjDH83w%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",USA FHD H265
 http://kplay.red/live/39275939/02859274/1562105.m3u
 #EXTINF:-1 tvg-id="Usa.br" tvg-name="USA FHD H265" tvg-logo="https://wapp-plus.ipcdn4.com/atualizados/USA%20Network.png" group-title="Canais | Brasil",CASA DE PRETO
-rtsp://192.168.0.100:34567/user=wkerlison&password=pilonga123&channel=0&stream=1.sdp
+rtsp://192.168.0.100:34567/user=admin&password=12345&channel=0&stream=1.sdp
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E HD
 http://kplay.red/live/39275939/02859274/1579816.m3u
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0100_A&E.png" group-title="Canais | Brasil",A&E FHD
