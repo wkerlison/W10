@@ -61774,3 +61774,127 @@ http://fbld.in:80/movie/525487/xmkBvT/241238.mp4
 http://fbld.in:80/movie/525487/xmkBvT/241232.mp4
 #EXTINF:-1 tvg-id="" tvg-name="VIOLET EVERGARDEN O FILME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpNG6z33xOtUWuOU83BE0bvorxi.jpg" group-title="ANIME", VIOLET EVERGARDEN O FILME
 http://fbld.in:80/movie/525487/xmkBvT/241233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S1 E1
+http://kplay.red/series/39275939/02859274/873395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/AbMoecO0ZZio0LcgeLxlzdyGs6X.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S1 E2
+http://kplay.red/series/39275939/02859274/873396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S1 E3" tvg-logo="http://image.tmdb.org/t/p/w400/dLgiPZCVamFcaa7Gaqudrldj15h.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S1 E3
+http://kplay.red/series/39275939/02859274/873397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S1 E4" tvg-logo="http://image.tmdb.org/t/p/w400/2UbRgW6apE4XPzhHPA726wUFyaR.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S1 E4
+http://kplay.red/series/39275939/02859274/873398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S1 E5" tvg-logo="http://image.tmdb.org/t/p/w400/82G3wZgEvZLKcte6yoZJahUWBtx.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S1 E5
+http://kplay.red/series/39275939/02859274/873399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S1 E6" tvg-logo="http://image.tmdb.org/t/p/w400/rCCLuycNPL30W3BtuB8HafxEMYz.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S1 E6
+http://kplay.red/series/39275939/02859274/873400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S1 E7" tvg-logo="http://image.tmdb.org/t/p/w400/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S1 E7
+http://kplay.red/series/39275939/02859274/873401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/6Uo1z56uKnX60JXvYYFWACHR31u.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E1
+http://kplay.red/series/39275939/02859274/873402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/th3SNe0gNgRguv8VveLd4f2JcaH.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E2
+http://kplay.red/series/39275939/02859274/873403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/abgJTOWYPdZGxAWhsg6lmtM8qcU.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E3
+http://kplay.red/series/39275939/02859274/873404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/9xi18yhtCLrrJ2plZjXgfGqeTjU.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E4
+http://kplay.red/series/39275939/02859274/873405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E5" tvg-logo="http://image.tmdb.org/t/p/w400/bPQxF63jhfT5eNYjhzuGEO7oMQg.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E5
+http://kplay.red/series/39275939/02859274/873406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/tfCuh20gNHGGF6A1te3NmiqML6D.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E6
+http://kplay.red/series/39275939/02859274/873407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E7" tvg-logo="http://image.tmdb.org/t/p/w400/1IOnhCCeru1BZUPeppu7tMmtxvL.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E7
+http://kplay.red/series/39275939/02859274/873408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/KmFdF23FtbPwwz3FJF2T885r2Z.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E8
+http://kplay.red/series/39275939/02859274/873409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/etUWlVbdQ7PzbGeUOBNpmFRm1Z9.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E9
+http://kplay.red/series/39275939/02859274/873410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E10" tvg-logo="http://image.tmdb.org/t/p/w400/wGobAJ0h54788xCMkRKaJTQMMtq.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E10
+http://kplay.red/series/39275939/02859274/873411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E11
+http://kplay.red/series/39275939/02859274/873412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/zxFfozd55eJ6Aa4J0pd3SRqJl5l.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E12
+http://kplay.red/series/39275939/02859274/873413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/xdSWJjptnLAvFnh5Is6iJPlH1ds.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S2 E13
+http://kplay.red/series/39275939/02859274/873414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E1" tvg-logo="http://image.tmdb.org/t/p/w400/gOevWiZjFEeZgJBCQnWySzd6no9.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E1
+http://kplay.red/series/39275939/02859274/873415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/eQYTr6cH834QyF3cE1VQymwolE1.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E2
+http://kplay.red/series/39275939/02859274/873416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E3" tvg-logo="https://image.tmdb.org/t/p/w400/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E3
+http://kplay.red/series/39275939/02859274/873417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E4" tvg-logo="https://image.tmdb.org/t/p/w400/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E4
+http://kplay.red/series/39275939/02859274/873418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E5" tvg-logo="https://image.tmdb.org/t/p/w400/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E5
+http://kplay.red/series/39275939/02859274/873419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E6" tvg-logo="http://image.tmdb.org/t/p/w400/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E6
+http://kplay.red/series/39275939/02859274/873420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E7" tvg-logo="http://image.tmdb.org/t/p/w400/4yyVAkAQhzc5URhJJiy21biH3FJ.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E7
+http://kplay.red/series/39275939/02859274/873421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E8" tvg-logo="https://image.tmdb.org/t/p/w400/edBDR59bzVWdMtCawimRzOMgrlW.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E8
+http://kplay.red/series/39275939/02859274/873422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E9" tvg-logo="https://image.tmdb.org/t/p/w400/ztG7AnGy4YKs1vxLbpK9euPwjaK.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E9
+http://kplay.red/series/39275939/02859274/873423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E10" tvg-logo="http://image.tmdb.org/t/p/w400/vpXc5zctIc2N0PQif3fG0TGypaX.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E10
+http://kplay.red/series/39275939/02859274/873424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E11" tvg-logo="http://image.tmdb.org/t/p/w400/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E11
+http://kplay.red/series/39275939/02859274/873425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E12" tvg-logo="https://image.tmdb.org/t/p/w400/mOvMekI0YKm20I42XK93mPCQ4ru.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E12
+http://kplay.red/series/39275939/02859274/873426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S3 E13" tvg-logo="http://image.tmdb.org/t/p/w400/mDUs18asTVVfqd56scRQ7W9r781.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S3 E13
+http://kplay.red/series/39275939/02859274/873427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E1" tvg-logo="http://image.tmdb.org/t/p/w400/2g6dLvOrLE7tpJatonCchLDkDyF.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E1
+http://kplay.red/series/39275939/02859274/873428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E2" tvg-logo="http://image.tmdb.org/t/p/w400/ra0R3q9jEOObo6gspjYcbqPmIM.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E2
+http://kplay.red/series/39275939/02859274/873429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E3" tvg-logo="http://image.tmdb.org/t/p/w400/5zQ8TlD9a3TxrhlEEt3TxeFOQh2.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E3
+http://kplay.red/series/39275939/02859274/873430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E4" tvg-logo="https://image.tmdb.org/t/p/w400/gzHp77NjrkDOu9sgkLB5PYmwArK.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E4
+http://kplay.red/series/39275939/02859274/873431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E5" tvg-logo="https://image.tmdb.org/t/p/w400/cIpk1YHRcySKOET8qUfs2JC3QAy.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E5
+http://kplay.red/series/39275939/02859274/873432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E6" tvg-logo="http://image.tmdb.org/t/p/w400/3tuFJVKzlWRqstoAOxwWF6lPzJY.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E6
+http://kplay.red/series/39275939/02859274/873433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E7" tvg-logo="https://image.tmdb.org/t/p/w400/gXYKZO4nTsDrAc2AjJOhjJkwu1V.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E7
+http://kplay.red/series/39275939/02859274/873434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E8" tvg-logo="https://image.tmdb.org/t/p/w400/jwGeSa4lw93UqvxoII5kb4nko1b.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E8
+http://kplay.red/series/39275939/02859274/873435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E9" tvg-logo="https://image.tmdb.org/t/p/w400/bIU8FJxe1yXvMm7yREwj138Z6x8.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E9
+http://kplay.red/series/39275939/02859274/873436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E10" tvg-logo="http://image.tmdb.org/t/p/w400/dBrs0Npmn76g81yel2mjK7mTaOj.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E10
+http://kplay.red/series/39275939/02859274/873437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E11" tvg-logo="http://image.tmdb.org/t/p/w400/xMR8o7N4ZBacim1druJ6PanTlPQ.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E11
+http://kplay.red/series/39275939/02859274/873438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E12" tvg-logo="https://image.tmdb.org/t/p/w400/ffIjlpJndsel3FkPMpHCnpJ71lw.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E12
+http://kplay.red/series/39275939/02859274/873439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S4 E13" tvg-logo="https://image.tmdb.org/t/p/w400/Apl61kYZF2zQlUMh13t8zmUD7Vr.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S4 E13
+http://kplay.red/series/39275939/02859274/873440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E1" tvg-logo="https://image.tmdb.org/t/p/w400/uShB5dWoA3xIivZ9jvwWnGCVvt4.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E1
+http://kplay.red/series/39275939/02859274/873441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E2" tvg-logo="https://image.tmdb.org/t/p/w400/9WIzJqqUthdASBRE1Ts8ymrDhIv.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E2
+http://kplay.red/series/39275939/02859274/873442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E3" tvg-logo="http://image.tmdb.org/t/p/w400/l84H1dZVkQGgFVomKHc67RKaEC2.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E3
+http://kplay.red/series/39275939/02859274/873443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E4" tvg-logo="http://image.tmdb.org/t/p/w400/zxcf3ER2rzU9IxCxJEhCCw1MyT.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E4
+http://kplay.red/series/39275939/02859274/873444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E5" tvg-logo="http://image.tmdb.org/t/p/w400/ay9uj9CMQJezaB407JCPMDYSptK.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E5
+http://kplay.red/series/39275939/02859274/873445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E6" tvg-logo="https://image.tmdb.org/t/p/w400/6SHawaVRg4Iw3Ry2adH29TjHYhK.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E6
+http://kplay.red/series/39275939/02859274/873446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E7" tvg-logo="https://image.tmdb.org/t/p/w400/2NA7ti9jsWnG4xreMEFwbq4DH1f.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E7
+http://kplay.red/series/39275939/02859274/873447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E8" tvg-logo="https://image.tmdb.org/t/p/w400/uTAPBgAah14jQbV98Sw7iqJD4W7.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E8
+http://kplay.red/series/39275939/02859274/873448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E9" tvg-logo="https://image.tmdb.org/t/p/w400/1Oe2rlJ4qbZdwRmaQjh57vH2gUb.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E9
+http://kplay.red/series/39275939/02859274/873449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E10" tvg-logo="http://image.tmdb.org/t/p/w400/b0aRvTXslQgJpCmmcmoYqS9MsIB.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E10
+http://kplay.red/series/39275939/02859274/873450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E11" tvg-logo="http://image.tmdb.org/t/p/w400/75lrTEzbUh4iZlMs0aN4mKisD4C.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E11
+http://kplay.red/series/39275939/02859274/873451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E12" tvg-logo="https://image.tmdb.org/t/p/w400/5VkI8lm7Xcmlxk92pWRyW341d70.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E12
+http://kplay.red/series/39275939/02859274/873452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E13" tvg-logo="https://image.tmdb.org/t/p/w400/lunoCRprYl0jEJEkGTS8v6eFq1n.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E13
+http://kplay.red/series/39275939/02859274/873453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E14" tvg-logo="http://image.tmdb.org/t/p/w400/k80r5JYO4LLrPJbWDXmlg7IxRMI.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E14
+http://kplay.red/series/39275939/02859274/873454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E15" tvg-logo="http://image.tmdb.org/t/p/w400/lCVFehyLhc4qlwTxBwbKpYvc3BS.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E15
+http://kplay.red/series/39275939/02859274/873455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad A Quimica do Mal S5 E16" tvg-logo="http://image.tmdb.org/t/p/w400/pA0YwyhvdDXP3BEGL2grrIhq8aM.jpg" group-title="(VOD BR) Séries",Breaking Bad A Quimica do Mal S5 E16
+http://kplay.red/series/39275939/02859274/873456.mp4
