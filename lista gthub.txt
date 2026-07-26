@@ -20084,8 +20084,6 @@ http://jphdear.net:80/MARIOPACB/541654Ma/83211
 http://jphdear.net:80/MARIOPACB/541654Ma/147554
 #EXTINF:-1 tvg-id="FoodNetworkLatinAmerica.us@Brazil" tvg-name="Food Network SD" tvg-logo="https://raphmx00.com/foodnetwork.png" group-title="Canais | Variedades",Food Network SD
 http://jphdear.net:80/MARIOPACB/541654Ma/83557
-#EXTINF:-1 tvg-id="" tvg-name="For Man HD" tvg-logo="https://www.newslinereport.com/online/nota_nuevo-look--feel-para-for-man.jpg" group-title="Canais | Adultos",For Man HD
-http://jphdear.net:80/MARIOPACB/541654Ma/83287
 #EXTINF:-1 tvg-id="" tvg-name="France 24 FHD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/france24.png" group-title="Canais | Notícias",France 24 FHD [Alt]
 http://jphdear.net:80/MARIOPACB/541654Ma/140895
 #EXTINF:-1 tvg-id="" tvg-name="France 24 HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/france24.png" group-title="Canais | Notícias",France 24 HD [Alt]
@@ -20896,54 +20894,6 @@ http://jphdear.net:80/MARIOPACB/541654Ma/162725
 http://jphdear.net:80/MARIOPACB/541654Ma/83617
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida SD" tvg-logo="https://raphmx00.com/redevida.png" group-title="Canais | Religiosos",Rede Vida SD
 http://jphdear.net:80/MARIOPACB/541654Ma/162726
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Anal" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Anal
-http://jphdear.net:80/MARIOPACB/541654Ma/149398
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Big Ass" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Big Ass
-http://jphdear.net:80/MARIOPACB/541654Ma/149385
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Big Dick" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Big Dick
-http://jphdear.net:80/MARIOPACB/541654Ma/149381
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Big Tits" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Big Tits
-http://jphdear.net:80/MARIOPACB/541654Ma/149382
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Blonde" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Blonde
-http://jphdear.net:80/MARIOPACB/541654Ma/149401
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Blowjob" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Blowjob
-http://jphdear.net:80/MARIOPACB/541654Ma/149389
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Brunette" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Brunette
-http://jphdear.net:80/MARIOPACB/541654Ma/149400
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Compilation" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Compilation
-http://jphdear.net:80/MARIOPACB/541654Ma/149399
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Cuckold" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Cuckold
-http://jphdear.net:80/MARIOPACB/541654Ma/149392
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Fetish" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Fetish
-http://jphdear.net:80/MARIOPACB/541654Ma/149383
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Gangbang" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Gangbang
-http://jphdear.net:80/MARIOPACB/541654Ma/149397
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Gay" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Gay
-http://jphdear.net:80/MARIOPACB/541654Ma/149402
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Hardcore" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Hardcore
-http://jphdear.net:80/MARIOPACB/541654Ma/149391
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Interracial" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Interracial
-http://jphdear.net:80/MARIOPACB/541654Ma/149386
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Latina" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Latina
-http://jphdear.net:80/MARIOPACB/541654Ma/149387
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Lesbian" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Lesbian
-http://jphdear.net:80/MARIOPACB/541654Ma/149395
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Live Cams" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Live Cams
-http://jphdear.net:80/MARIOPACB/541654Ma/149379
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV MILF" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV MILF
-http://jphdear.net:80/MARIOPACB/541654Ma/149380
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Pornstar" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Pornstar
-http://jphdear.net:80/MARIOPACB/541654Ma/149384
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV POV" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV POV
-http://jphdear.net:80/MARIOPACB/541654Ma/149388
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Rough" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Rough
-http://jphdear.net:80/MARIOPACB/541654Ma/149396
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Russian" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Russian
-http://jphdear.net:80/MARIOPACB/541654Ma/149394
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Teen" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Teen
-http://jphdear.net:80/MARIOPACB/541654Ma/149390
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic TV Threesome" tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais | Adultos",RedTraffic TV Threesome
-http://jphdear.net:80/MARIOPACB/541654Ma/149393
 #EXTINF:-1 tvg-id="RedeInternacionaldeTV.br" tvg-name="RIT FHD [Alt]" tvg-logo="https://i.imgur.com/sKwYVdn.png" group-title="Canais | Religiosos",RIT FHD [Alt]
 http://jphdear.net:80/MARIOPACB/541654Ma/147675
 #EXTINF:-1 tvg-id="" tvg-name="Rock To You" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rock To You
@@ -21040,18 +20990,6 @@ http://jphdear.net:80/MARIOPACB/541654Ma/289009
 http://jphdear.net:80/MARIOPACB/541654Ma/289005
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Jornal Recife HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Jornal Recife HD
 http://jphdear.net:80/MARIOPACB/541654Ma/289010
-#EXTINF:-1 tvg-id="br#sexprive-brasileirinhas" tvg-name="Sex Prive FHD" tvg-logo="https://i.imgur.com/yBfK9sV.png" group-title="Canais | Adultos",Sex Prive FHD
-http://jphdear.net:80/MARIOPACB/541654Ma/147751
-#EXTINF:-1 tvg-id="br#sexprive-brasileirinhas" tvg-name="Sex Prive HD" tvg-logo="https://i.imgur.com/yBfK9sV.png" group-title="Canais | Adultos",Sex Prive HD
-http://jphdear.net:80/MARIOPACB/541654Ma/83283
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sextreme HD" tvg-logo="https://raphmx00.com/sextreme.png" group-title="Canais | Adultos",Sextreme HD
-http://jphdear.net:80/MARIOPACB/541654Ma/140651
-#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="Sextreme SD" tvg-logo="https://raphmx00.com/sextreme.png" group-title="Canais | Adultos",Sextreme SD
-http://jphdear.net:80/MARIOPACB/541654Ma/83444
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="Sexy Hot FHD [Alt]" tvg-logo="https://raphmx00.com/sexhot.png" group-title="Canais | Adultos",Sexy Hot FHD [Alt]
-http://jphdear.net:80/MARIOPACB/541654Ma/147753
-#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="Sexy Hot HD [Alt]" tvg-logo="https://raphmx00.com/sexhot.png" group-title="Canais | Adultos",Sexy Hot HD [Alt]
-http://jphdear.net:80/MARIOPACB/541654Ma/147754
 #EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 1]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Simone e Simaria [Live das Coleguinhas 1]
 http://jphdear.net:80/MARIOPACB/541654Ma/136208
 #EXTINF:-1 tvg-id="" tvg-name="Simone e Simaria [Live das Coleguinhas 2 Libras]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Simone e Simaria [Live das Coleguinhas 2 Libras]
@@ -21464,12 +21402,6 @@ http://jphdear.net:80/MARIOPACB/541654Ma/83259
 http://jphdear.net:80/MARIOPACB/541654Ma/147653
 #EXTINF:-1 tvg-id="SyfyLatinAmerica.us@Brazil" tvg-name="USA SD" tvg-logo="https://i.imgur.com/ROgP8rn.png" group-title="Canais | Filmes e Séries",USA SD
 http://jphdear.net:80/MARIOPACB/541654Ma/83627
-#EXTINF:-1 tvg-id="br#venus-tv-sd" tvg-name="VENUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais | Adultos",VENUS FHD
-http://jphdear.net:80/MARIOPACB/541654Ma/276478
-#EXTINF:-1 tvg-id="br#venus-tv-sd" tvg-name="VENUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais | Adultos",VENUS HD
-http://jphdear.net:80/MARIOPACB/541654Ma/276479
-#EXTINF:-1 tvg-id="br#venus-tv-sd" tvg-name="VENUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais | Adultos",VENUS SD
-http://jphdear.net:80/MARIOPACB/541654Ma/276480
 #EXTINF:-1 tvg-id="" tvg-name="Vibe Eletro Hits" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Vibe Eletro Hits
 http://jphdear.net:80/MARIOPACB/541654Ma/33448
 #EXTINF:-1 tvg-id="" tvg-name="VillaMix em Casa [Só Modão]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",VillaMix em Casa [Só Modão]
