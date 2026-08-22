@@ -2748,7 +2748,6 @@ http://kplay.red/live/39275939/02859274/1673467.m3u
 http://kplay.red/live/39275939/02859274/1652744.m3u
 #EXTINF:-1 tvg-id="Desenhos.br" tvg-name="Desenhos da Disney 24H" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png" group-title="Canais | Brasil 24h",Desenhos da Disney 24H
 http://kplay.red/live/39275939/02859274/1659043.m3u
-#EXTINF:-1 tvg-id="sportv4k" tvg-name="SPORTV 4K (COPA)" tvg-logo="https://static.imgb.in/logos/new/esportes/sportvhd.png" group-title="COPA EM 4K", SPORTV 4K (COPA)
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
 http://yugiho.shop:80/Renata14SousaCoruja/Dx826/62169
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
